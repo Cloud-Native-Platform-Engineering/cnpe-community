@@ -9,7 +9,7 @@ CNCFの素晴らしさの一端は関わっている人々の多様性とコミ�
 
 ## ガイドライン
 
-ローカライゼーションごとに異なりますが、一般的なガイドラインやノウハウは[過去のローカライゼーションのPR](https://github.com/cncf/tag-app-delivery/issues?q=label%3Atranslation+)や[Kubernetes SIG-Docsローカライゼーションドキュメント](https://kubernetes.io/ja/docs/contribute/localization/)を参考にすることをおすすめします[^1]。
+ローカライゼーションごとに異なりますが、一般的なガイドラインやノウハウは[過去のローカライゼーションのPR](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=label%3Atranslation+)や[Kubernetes SIG-Docsローカライゼーションドキュメント](https://kubernetes.io/ja/docs/contribute/localization/)を参考にすることをおすすめします[^1]。
 
 [^1]: 訳注: 日本語へのローカライゼーションをする際には、[CNCF日本語ローカライゼーション向けガイドライン](https://github.com/cncf/techdocs/blob/main/docs/localization/ja/README.md)を参考にしてください。
 
@@ -23,6 +23,6 @@ SIG-Docsチームの言葉を再掲する価値があります:
 
 ## 貢献の仕方
 
-始めるにはTAG App Delivery GitHubリポジトリに`Website Translation`タイプの[issueの作成](https://github.com/cncf/tag-app-delivery/issues/new/choose)をしてください。
+始めるにはTAG App Delivery GitHubリポジトリに`Website Translation`タイプの[issueの作成](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new/choose)をしてください。
 
 このissueタイプはあなたの仕事の範囲に関するコンテキストを提供し、ローカライゼーションを進めるのに必要な工程の手引を提供します。

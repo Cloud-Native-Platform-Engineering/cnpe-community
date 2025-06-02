@@ -19,7 +19,7 @@ Luckily, the CNCF slack isn’t a quiet place, it’s very active and provides a
 
 **See what issues are available on GitHub**
 
-There’s everything from code-specific issues to documentation issues and everything in-between. Feel free to leave a comment or a suggestion. You can find them under the CNCF GitHub org for each TAG. For example, here’s the link to the App Delivery Tag: https://github.com/cncf/tag-app-delivery
+There’s everything from code-specific issues to documentation issues and everything in-between. Feel free to leave a comment or a suggestion. You can find them under the CNCF GitHub org for each TAG. For example, here’s the link to the App Delivery Tag: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community
 
 **Join a meeting**
 

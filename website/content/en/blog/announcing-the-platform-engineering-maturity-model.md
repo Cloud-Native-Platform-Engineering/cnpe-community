@@ -10,7 +10,7 @@ tags:
 
 The CNCF Platforms Working Group (WG) is excited to present the first release of a platform engineering maturity model which provides a more concrete application of the extremely well received white paper from this past April.
 
-Download now as a [PDF](https://github.com/cncf/tag-app-delivery/raw/main/platforms-maturity-model/v1/assets/platform-eng-maturity-model-v1.0.pdf) or view it on our [website](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/).
+Download now as a [PDF](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/raw/main/platforms-maturity-model/v1/assets/platform-eng-maturity-model-v1.0.pdf) or view it on our [website](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/).
 
 We want to thank the almost 50 people who have contributed their time and ideas to make this model reflect the state of companies both small and large and across both fast moving and highly regulated industries; all of them are listed below.
 

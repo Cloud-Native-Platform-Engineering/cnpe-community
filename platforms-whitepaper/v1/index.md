@@ -1,8 +1,14 @@
 ---
 title:  "CNCF Platforms White Paper"
-pdf: https://github.com/cncf/tag-app-delivery/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf
-version_info: https://github.com/cncf/tag-app-delivery/tree/main/platforms-whitepaper/README.md
+pdf: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf
+version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/tree/main/platforms-whitepaper/README.md
 description: "This paper intends to support enterprise leaders, enterprise architects and platform team leaders to advocate for, investigate and plan internal platforms for cloud computing. We believe platforms significantly impact enterprises' actual value streams, but only indirectly, so leadership consensus and support is vital to the long-term sustainability and success of platform teams. In this paper we'll enable that support by discussing what the value of platforms is, how to measure it, and how to implement platform teams that maximize it."
+
+# parameters for website rendering options
+
+list_pages: false
+# use toc_hide to hide this section from the sidebar
+toc_hide: true
 ---
 
 ## Introduction

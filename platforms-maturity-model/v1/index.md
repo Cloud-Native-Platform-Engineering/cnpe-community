@@ -1,7 +1,7 @@
 ---
-title: "Platform Engineering Maturity Model"
-pdf: https://github.com/cncf/tag-app-delivery/raw/main/platforms-maturity-model/v1/assets/platform-eng-maturity-model-v1.0.pdf
-version_info: https://github.com/cncf/tag-app-delivery/tree/main/platforms-maturity-model/README.md
+title: "CNCF Platform Engineering Maturity Model"
+pdf: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/raw/main/platforms-maturity-model/v1/assets/platform-eng-maturity-model-v1.0.pdf
+version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/tree/main/platforms-maturity-model/README.md
 description: "This maturity model intends to provide tactical guidance to users seeking to adopt the patterns discussed in the Platforms Definition White Paper. That paper suggests why and what to build; this document will begin to describe how to plan to build it. The target audience is CTOs, Directors of engineering, lead engineers, and architects seeking to evaluate their current state and environment and identify opportunities for improvement.<br/><br/>
 This document refers to, enhances, and follows similar standards as the following related documents:<br/>
 [Cloud Maturity Model](https://maturitymodel.cncf.io/)<br/>
@@ -35,15 +35,15 @@ CNCF's initial [Platforms White Paper](https://tag-app-delivery.cncf.io/whitepap
 
 ## What is platform engineering?
 
-Inspired by the cross-functional cooperation promised by DevOps, platforms and platform engineering have emerged in enterprises as an explicit form of that cooperation. Platforms curate and present common capabilities, frameworks and experiences. In the context of this working group and related publications, the focus is on platforms that facilitate and accelerate the work of [internal users]({{< ref "/wgs/platforms/glossary#platform-users" >}}) such as product and application teams.
+Inspired by the cross-functional cooperation promised by DevOps, platforms and platform engineering have emerged in enterprises as an explicit form of that cooperation. Platforms curate and present common capabilities, frameworks and experiences. In the context of this working group and related publications, the focus is on platforms that facilitate and accelerate the work of [internal users]({{< ref "/artifacts/glossary#platform-users" >}}) such as product and application teams.
 
-[**Platform engineering**]({{< ref "/wgs/platforms/glossary#platform-engineering" >}}) is the practice of planning and providing such computing platforms to developers and users and encompasses all parts of platforms and their capabilities — their people, processes, policies and technologies; as well as the desired business outcomes that drive them.
+[**Platform engineering**]({{< ref "/artifacts/glossary#platform-engineering" >}}) is the practice of planning and providing such computing platforms to developers and users and encompasses all parts of platforms and their capabilities — their people, processes, policies and technologies; as well as the desired business outcomes that drive them.
 
 Please read the [CNCF Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/) first for complete context.
 
 ## How to use this model
 
-As platform engineering has risen in prominence over the last few years, some patterns have become apparent. By organizing those patterns and observations into a progressive maturity model, we aim to orient [platform teams]({{< ref "/wgs/platforms/glossary#platform-team" >}}) to the challenges they may face and opportunities to aim for. Each aspect is described by a continuum of characteristics of different teams and organizations at each level within the aspect. We expect readers to find themselves in the model and identify opportunities in adjacent levels.
+As platform engineering has risen in prominence over the last few years, some patterns have become apparent. By organizing those patterns and observations into a progressive maturity model, we aim to orient [platform teams]({{< ref "/artifacts/glossary#platform-team" >}}) to the challenges they may face and opportunities to aim for. Each aspect is described by a continuum of characteristics of different teams and organizations at each level within the aspect. We expect readers to find themselves in the model and identify opportunities in adjacent levels.
 
 Of note, each additional level of maturity is accompanied by greater requirements for funding and people's time. Therefore, reaching the highest level should not be a goal in itself. Each level describes qualities that should appear at that stage. Readers must consider if their organization and their current context would benefit from these qualities given the required investment.
 
@@ -465,7 +465,7 @@ Dedicated teams or tools are employed to gather and review feedback and summariz
 
 * Before delivering any new platform feature, the team discusses how to evaluate the outcome from their work.
 * The organization has broad alignment on measures that indicate success of platform initiatives.
-* A [product manager]({{< ref "/wgs/platforms/glossary#platform-team" >}}) or dedicated team member drives an ongoing and consistent feedback collection and analysis process.
+* A [product manager]({{< ref "/artifacts/glossary#platform-team" >}}) or dedicated team member drives an ongoing and consistent feedback collection and analysis process.
 * The organization has established metrics and goals to observe and target to indicate success.
 
 #### Example Scenarios:

@@ -1,5 +1,5 @@
 ---
-title: "CNCF TAG App Delivery"
+title: "Cloud Native Platforms Community"
 list_pages: true
 ---
 

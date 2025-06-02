@@ -13,7 +13,7 @@ tags:
 CNCF’s Platforms working group (WG) is pleased to announce the first release of
 a whitepaper to provide guidance and clarity on the nature and benefits of
 platforms for cloud-native computing. Download it now as a
-[PDF](https://github.com/cncf/tag-app-delivery/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf)
+[PDF](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf)
 or view it on [our website](https://tag-app-delivery.cncf.io/whitepapers/platforms).
 
 Thank you to our many contributors listed below for their ongoing input and
@@ -52,7 +52,7 @@ to you soon!
 ## Thank you to our contributors!
 
 As we reach this milestone we want to thank members of CNCF's WG Platforms for all
-[their contributions](https://github.com/cncf/tag-app-delivery/commits/main/platforms-whitepaper)
+[their contributions](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/commits/main/platforms-whitepaper)
 and feedback, particularly the following:
 
 - Abby Bangser
@@ -83,5 +83,5 @@ and feedback, particularly the following:
 ## Resources
 
 - Slack: <https://cloud-native.slack.com/archives/C020RHD43BP>
-- Work item tracker: <https://github.com/cncf/tag-app-delivery/issues/new/choose>
+- Work item tracker: <https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new/choose>
 - Mailing list: <https://lists.cncf.io/g/cncf-tag-app-delivery>

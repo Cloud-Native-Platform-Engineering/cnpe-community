@@ -7,7 +7,7 @@ menu:
 description: 参加するための具体的な機会をまとめたリストです。
 ---
 
-TAGプロジェクトは[GitHub Issues](https://github.com/cncf/tag-app-delivery/issues)で管理しています。進行中のプロジェクトを確認したり、新しいプロジェクトを提案したい場合は、こちらから始めてください。
+TAGプロジェクトは[GitHub Issues](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues)で管理しています。進行中のプロジェクトを確認したり、新しいプロジェクトを提案したい場合は、こちらから始めてください。
 
 このセクションにはissueにない現在進行中のコントリビューション候補も含まれます。このリストは完全なものではないことを留意してください。
 ここやGitHub Issusesにあなた向けのものがなくても大丈夫です！

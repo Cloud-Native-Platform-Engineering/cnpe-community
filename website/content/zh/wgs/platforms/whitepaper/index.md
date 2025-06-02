@@ -1,7 +1,7 @@
 ---
 title:  "CNCF 平台白皮书"
-pdf: https://github.com/cncf/tag-app-delivery/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf
-version_info: https://github.com/cncf/tag-app-delivery/tree/main/platforms-whitepaper/README.md
+pdf: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf
+version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/tree/main/platforms-whitepaper/README.md
 description: "本文旨在支持企业领导、企业架构师和平台团队领导，以便倡导、调查和规划云计算的内部平台。我们认为平台对企业的实际价值流产生了重大影响，但只是间接影响，因此领导层的共识和支持对于平台团队的长期可持续性和成功至关重要。在本文中，我们将通过讨论平台的价值是什么，如何衡量它以及如何实施最大化价值的平台团队来提供支持。"
 type: whitepapers
 ---

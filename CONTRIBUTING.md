@@ -1,6 +1,6 @@
 # Contributing to TAG App Delivery
 
-Thank you for considering contributing to CNCF's TAG App Delivery! Here we'll describe some options you can pursue. Ultimately our work is defined by the passion and commitment of our contributors, so seek something valuable to you and valuable to the community and pursue it! Consider opening [a GitHub issue](https://github.com/cncf/tag-app-delivery/issues/new) to let everyone know about and support your work.
+Thank you for considering contributing to CNCF's TAG App Delivery! Here we'll describe some options you can pursue. Ultimately our work is defined by the passion and commitment of our contributors, so seek something valuable to you and valuable to the community and pursue it! Consider opening [a GitHub issue](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new) to let everyone know about and support your work.
 
 Also consider reviewing [TAG App Delivery's charter](https://github.com/cncf/toc/blob/main/tags/tag-charters/app-delivery.md) to be sure your work is in scope.
 
@@ -22,7 +22,7 @@ The TAG exists to support CNCF projects and to enable CNCF end users to maximize
 Consider sharing your experience with the group in one of the following ways:
 
 - Put yourself on the agenda for an upcoming TAG meeting to present your organization's journey to cloud-native applications and architecture.
-- Record a short video about your organization's experiences and share it in our Slack channel or in GitHub [discussions](https://github.com/cncf/tag-app-delivery/discussions)
+- Record a short video about your organization's experiences and share it in our Slack channel or in GitHub [discussions](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/discussions)
 
 You could also help the TAG define the framework for user reports, such as developing standard questions and documenting interviews.
 

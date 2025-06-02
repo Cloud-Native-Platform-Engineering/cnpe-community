@@ -1,6 +1,6 @@
 ---
 title: Contribute
-list_pages: false
+list_pages: true
 menu:
   main:
     weight: 20
@@ -19,7 +19,7 @@ Luckily, the CNCF slack isn’t a quiet place, it’s very active and provides a
 
 **See what issues are available on GitHub**
 
-There’s everything from code-specific issues to documentation issues and everything in-between. Feel free to leave a comment or a suggestion. You can find them under the CNCF GitHub org for each TAG. For example, here’s the link to the App Delivery Tag: https://github.com/cncf/tag-app-delivery
+There’s everything from code-specific issues to documentation issues and everything in-between. Feel free to leave a comment or a suggestion. You can find them under the CNCF GitHub org for each TAG. For example, here’s the link to the App Delivery Tag: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community
 
 
 **Review on-going projects looking for contributors**
@@ -32,7 +32,7 @@ This may seem scary at first, especially if you’re new, but it’s a great way
 
 **Contribute a new idea**
 
-While there are always a number of ongoing topics in the TAG, they all started as new ideas. If you have a new proposal we encourage you to [open an issue using the `community contribution` template](https://github.com/cncf/tag-app-delivery/issues/new) and start to build the community of people who would want to work with you on it!
+While there are always a number of ongoing topics in the TAG, they all started as new ideas. If you have a new proposal we encourage you to [open an issue using the `community contribution` template](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new) and start to build the community of people who would want to work with you on it!
 
 **In conclusion, get started your way**
 

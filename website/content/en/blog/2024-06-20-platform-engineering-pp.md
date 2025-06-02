@@ -175,9 +175,9 @@ In this blog post, when I mention "Platform," I specifically refer to "Internal 
 
 Please note that there are already papers that are defining some aspects that I’m going to discuss in this blog post: 
 
-- the CNCF Platform White Paper (https://github.com/cncf/tag-app-delivery/blob/main/platforms-whitepaper/v1/index.md)
-- the Platform Glossary (https://github.com/cncf/tag-app-delivery/blob/main/platforms-wg/glossary/_index.md)
-- the Platform Engineering Maturity Model (https://github.com/cncf/tag-app-delivery/blob/main/platforms-maturity-model/v1/index.md)
+- the CNCF Platform White Paper (https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/blob/main/platforms-whitepaper/v1/index.md)
+- the Platform Glossary (https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/blob/main/platforms-wg/glossary/_index.md)
+- the Platform Engineering Maturity Model (https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/blob/main/platforms-maturity-model/v1/index.md)
 - the Platform of Platform initiative (https://github.com/cncf/tag-app-delivery/issues/542).
 
 I hope that this blog will contribute to brainstorming.

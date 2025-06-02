@@ -1,3 +1,10 @@
+---
+title: Artifacts
+menu:
+  main:
+    weight: 20
+list_pages: true
+---
 # Platforms WG
 
 The [charter](./charter) describes the mission and tactics of the Platforms working group (WG).
@@ -24,8 +31,3 @@ To register for updates and to "Join" the group, please also consider joining th
   * Passcode: 77777
 * Agendas and notes can be found in this [Google Doc](https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg)
 * Previous meetings can be viewed on the [TAG YouTube Channel](https://www.youtube.com/watch?v=eZYSQnsWRco&list=PLjNzvzqUSpxKH8X7wNfYZtkH_ARSeeQH0)
-
-## Resources
-
-* Blog: https://tag-app-delivery.cncf.io/tags/?WG-Platforms=true
-* Github issues: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=is%3Aissue+is%3Aopen+label%3Awg-platforms

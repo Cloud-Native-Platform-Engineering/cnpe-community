@@ -1,3 +1,11 @@
+---
+# parameters for website rendering options
+
+list_pages: false
+# use toc_hide to hide this section from the sidebar
+toc_hide: true
+---
+
 # Platform Engineering Maturity Model
 
 CNCF TAG App Delivery maintains and publishes this paper describing how
