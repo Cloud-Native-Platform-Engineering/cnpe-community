@@ -7,9 +7,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for proposing a new activity or publication for TAG App Delivery and associated Working Groups!
+        Thanks for proposing a new activity or publication for The Cloud Native Platform Engineering Community and associated Working Groups!
 
-        You are welcome to review the [contribute pages](https://tag-app-delivery.cncf.io/contribute/) to understand more about how you can get started and what is expected of any suggested publications.
+        You are welcome to review the [contribute pages](https://cnpe.netlify.app/contribute/) to understand more about how you can get started and what is expected of any suggested publications.
   - type: textarea
     attributes:
       label: Contribution Description
@@ -17,18 +17,18 @@ body:
       placeholder: Describe your idea and why it is exciting.
     validations:
       required: true
-  - type: dropdown
-    attributes:
-      label: Related Working Group (WG)
-      description: Which, if any, WG does this particular proposal relate to?
-      options:
-        - None, this is TAG level (Default)
-        - Artifacts
-        - Operator
-        - Platforms
-      default: 0
-    validations:
-      required: true
+  # - type: dropdown
+  #   attributes:
+  #     label: Related Working Group (WG)
+  #     description: Which, if any, WG does this particular proposal relate to?
+  #     options:
+  #       - None, this is TAG level (Default)
+  #       - Artifacts
+  #       - Operator
+  #       - Platforms
+  #     default: 0
+  #   validations:
+  #     required: true
   - type: dropdown
     attributes:
       label: Contribution type
@@ -42,9 +42,9 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Why TAG App Delivery?
-      description: Why do you think this contribution fits into the TAG or one of its WGs? This should detail how the contribution relates to App Delivery or more specifically one of the current WGs, which elements of App Delivery the contribution embodies or exemplifies.
-      placeholder: This fits with the TAG because...
+      label: Why The Cloud Native Platform Engineering Community?
+      description: Why do you think this contribution fits into the Community or one of its initiatives? This should detail how the contribution relates to Platform Engineering, which elements of Platform Engineering the contribution embodies or exemplifies.
+      placeholder: This fits with the Community because...
     validations:
       required: true
   - type: textarea
@@ -61,13 +61,13 @@ body:
   - type: input
     attributes:
       label: Additional collaborators
-      description: Provide the github handles (or email addresses if not on GitHub) of anyone else who should be included in this project. This can include (but does not require) any TAG leadership who you have spoken to in regards to championing this work.
+      description: Provide the github handles (or email addresses if not on GitHub) of anyone else who should be included in this project. This can include (but does not require) any Community leadership who you have spoken to in regards to championing this work.
       placeholder: Add collaborators here
     validations:
       required: false
   - type: textarea
     attributes:
       label: Additional information
-      description: Any additional information you would like share with the TAG? This can include (but does not require) a more detailed outline, link to a rough draft, or other content that you would use as inspiration if you have already started something.
+      description: Any additional information you would like share with the Community? This can include (but does not require) a more detailed outline, link to a rough draft, or other content that you would use as inspiration if you have already started something.
     validations:
       required: false
