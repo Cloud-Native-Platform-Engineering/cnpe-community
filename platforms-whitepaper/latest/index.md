@@ -159,7 +159,7 @@ following:
    dashboards.
 
 {{% pageinfo color="info" %}}
-Please refer to the [Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) created after this paper was originally published.
+Please refer to the [Platform Engineering Maturity Model](https://www.cloudnativeplatforms.com/whitepapers/platform-eng-maturity-model/) created after this paper was originally published.
 {{% /pageinfo %}}
 
 By offering consistent, compliant experiences for individual capabilities or
