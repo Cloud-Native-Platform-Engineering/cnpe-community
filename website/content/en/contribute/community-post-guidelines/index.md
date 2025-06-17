@@ -6,30 +6,36 @@ weight: 100 # Makes sure this sorts to the top of the list always
 
 ## Introduction
 
-This policy outlines the guidelines for accepting, reviewing, and publishing blog posts on our platform: https://tag-app-delivery.cncf.io/blog.
+This policy outlines the guidelines for accepting, reviewing, and publishing blog posts on our platform: https://www.cloudnativeplatforms.com/blog.
 
 Blog posts are an opportunity to foster a diverse and vibrant discussion environment, showcasing a variety of viewpoints from members and the wider open source community.
 
-It is important to note that this TAG is not itself a publishing house, and therefore the main focus of the group is to generate conversation and collaboration which will be true for blog posts as well, though to a lesser degree than for writing which is deemed a TAG official publication.
+It is important to note that this Community is not itself a publishing house, and therefore the main focus of the group is to generate conversation and collaboration which will be true for blog posts as well, though to a lesser degree than for writing which is deemed a Community official publication.
 
 ## Representation of Diverse Viewpoints
 
 ### Community Voices
+
 Our blog serves as a collective of diverse viewpoints from our community members. We believe in representing a wide array of thoughts, experiences, and perspectives.
 
 ### Inclusion of Disclaimer
-Each post will include a short disclaimer, This blog post represents the viewpoint of its author(s) and does not necessarily reflect an official position or perspective of the TAG or any subsidiary working group. See this blog and contributions guidelines for more information on how you too can contribute." If the blog includes information about the authors current workplace or otherwise affiliated products, this must also be disclosed in the disclaimer.
+
+Each post will include a short disclaimer, This blog post represents the viewpoint of its author(s) and does not necessarily reflect an official position or perspective of the Community or any subsidiary working group. See this blog and contributions guidelines for more information on how you too can contribute." If the blog includes information about the authors current workplace or otherwise affiliated products, this must also be disclosed in the disclaimer.
 
 ## Submission, Review and Acceptance Criteria
 
 ### Submission Process
+
 Contributors are required to submit their blog posts as pull requests (PRs).
 
 ### Review Process
-The TAG content is open for review from anyone with good intentions across the open source community. These reviews can be used to refine the content and help TAG leaders determine if the blog will be posted.
+
+The Community content is open for review from anyone with good intentions across the open source community. These reviews can be used to refine the content and help Community leaders determine if the blog will be posted.
 
 ### Acceptance Criteria
-At least one TAG leader must approve the blog before it can be published. A non-exhaustive list of things the TAG leadership will evaluate is:
+
+At least one Community leader must approve the blog before it can be published. A non-exhaustive list of things the Community leadership will evaluate is:
+
 * Alignment with our community’s ethos and values.
 * Relevance and usefulness to our community members.
 * Independence from any one vendor or product.
@@ -38,24 +44,30 @@ At least one TAG leader must approve the blog before it can be published. A non-
 ## Criteria for Rejection
 
 ### Misalignment with Group Positions
-Submissions fundamentally misaligned with the positions or values upheld by our group will be rejected. With this said, blogs are encouraged to have independent ideas which may at times challenge previous TAG publications, blog posts, or other content. This is not inherently an issue if the challenge is done using respect and detailed explanation of the data and experiences that led to this change.
+
+Submissions fundamentally misaligned with the positions or values upheld by our group will be rejected. With this said, blogs are encouraged to have independent ideas which may at times challenge previous Community publications, blog posts, or other content. This is not inherently an issue if the challenge is done using respect and detailed explanation of the data and experiences that led to this change.
 
 ### Non-Adherence to Community Standards
+
 Submissions failing to meet our community standards in terms of content quality, relevance, or ethical considerations will be subject to rejection. Content must also adhere to the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 
 ### Feedback and Appeals
-In cases of rejection, contributors will be provided with feedback. An appeal process is available for reconsideration, subject to the discretion of our TAG leadership team.
+
+In cases of rejection, contributors will be provided with feedback. An appeal process is available for reconsideration, subject to the discretion of our Community leadership team.
 
 ## Publication Process
 
 ### Editing and Finalization
+
 Blog posts may undergo minor editing for clarity, grammar, and format consistency before publication. This will be done through PR reviews, suggestions, or adding a commit to the PR.
 
 ### Notification of Acceptance
+
 Contributors will be notified of the acceptance of their submission through a GitHub PR approval.
 
 ### Publication and Promotion
-Published posts will be shared on our platform and may be promoted through our social media channels and newsletters. Publication is expected to occur at the date of approval unless a specific date has been previously requested by the author and agreed with the TAG leadership team.
+
+Published posts will be shared on our platform and may be promoted through our social media channels and newsletters. Publication is expected to occur at the date of approval unless a specific date has been previously requested by the author and agreed with the Community leadership team.
 
 ## Cross-Posting Policy
 

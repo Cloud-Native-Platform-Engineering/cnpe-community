@@ -32,8 +32,8 @@ This may seem scary at first, especially if you’re new, but it’s a great way
 
 **Contribute a new idea**
 
-While there are always a number of ongoing topics in the TAG, they all started as new ideas. If you have a new proposal we encourage you to [open an issue using the `community contribution` template](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new) and start to build the community of people who would want to work with you on it!
+While there are always a number of ongoing topics in the Community, they all started as new ideas. If you have a new proposal we encourage you to [open an issue using the `community contribution` template](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new) and start to build the community of people who would want to work with you on it!
 
 **In conclusion, get started your way**
 
-TAG and WG members come in all styles. Some have never been to a call, others rarely engage on GitHub. The real power in the community is the coming together of different experiences and ideas to generate useful content for the wider cloud native community. You and your experiences are a big part of that, so come join us today!
+Community members come in all styles. Some have never been to a call, others rarely engage on GitHub. The real power in the community is the coming together of different experiences and ideas to generate useful content for the wider cloud native community. You and your experiences are a big part of that, so come join us today!
