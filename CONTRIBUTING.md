@@ -1,8 +1,8 @@
-# Contributing to TAG App Delivery
+# Contributing to Cloud Native Platform Engineering Community
 
-Thank you for considering contributing to CNCF's TAG App Delivery! Here we'll describe some options you can pursue. Ultimately our work is defined by the passion and commitment of our contributors, so seek something valuable to you and valuable to the community and pursue it! Consider opening [a GitHub issue](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new) to let everyone know about and support your work.
+Thank you for considering contributing to the Cloud Native Platform Engineering Community! Here we'll describe some options you can pursue. Ultimately our work is defined by the passion and commitment of our contributors, so seek something valuable to you and valuable to the community and pursue it! Consider opening [a GitHub issue](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new) to let everyone know about and support your work.
 
-Also consider reviewing [TAG App Delivery's charter](https://github.com/cncf/toc/blob/main/tags/tag-charters/app-delivery.md) to be sure your work is in scope.
+<!-- Also consider reviewing [TAG App Delivery's charter](https://github.com/cncf/toc/blob/main/tags/tag-charters/app-delivery.md) to be sure your work is in scope. -->
 
 ## Opportunities
 
@@ -36,13 +36,13 @@ If you create a new scenario or sample project, put yourself on the agenda for a
 
 ## Manage a capability domain
 
-TAG App Delivery covers aspects of many capabilities required for successful delivery and operation of workloads on Kubernetes and clouds. If you're passionate about gathering stakeholders from many projects and vendors and simplifying one of these domains, consider leading development of a capability community and producing prototypes, papers and potentially standards for the domain.
+The Cloud Native Platform Engineering Community covers aspects of many capabilities required for successful delivery and operation of workloads on Kubernetes and clouds. If you're passionate about gathering stakeholders from many projects and vendors and simplifying one of these domains, consider leading development of a capability community and producing prototypes, papers and potentially standards for the domain.
 
 For example, the Platforms and Artifacts working groups were founded in this way.
 
 ## Review CNCF projects
 
-CNCF has many existing projects and new ones are submitted to [sandbox](https://github.com/cncf/sandbox/issues) all the time. Help TAG App Delivery understand these projects, their place in the landscape, and their synergies with existing projects! Consider reviewing a new or existing CNCF project related to App delivery and operation and presenting it to the TAG.
+CNCF has many existing projects and new ones are submitted to [sandbox](https://github.com/cncf/sandbox/issues) all the time. Help The Cloud Native Platform Engineering Community understand these projects, their place in the landscape, and their synergies with existing projects! Consider reviewing a new or existing CNCF project related to App delivery and operation and presenting it to the TAG.
 
 Put yourself on the agenda for an upcoming meeting to present one of these project reviews.
 

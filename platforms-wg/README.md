@@ -5,7 +5,7 @@ To participate join us on Slack at
 [#wg-platforms](https://cloud-native.slack.com/archives/C020RHD43BP)
 or the meetings described below.
 
-To register for updates and to "Join" the group, please also consider joining the [TAG App Delivery CNCF Community Group](https://community.cncf.io/tag-app-delivery/)
+<!-- To register for updates and to "Join" the group, please also consider joining the [TAG App Delivery CNCF Community Group](https://community.cncf.io/tag-app-delivery/) -->
 
 ## Technical Lead
 

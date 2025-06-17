@@ -2,9 +2,9 @@
 
 blank_issues_enabled: true
 contact_links:
-- name: TAG Slack Channel
-  url: https://cloud-native.slack.com/archives/CL3SL0CP5
+- name: Platforms Community Slack Channel
+  url: https://cloud-native.slack.com/archives/C020RHD43BP
   about: Talk to us here
-- name: TAG Mailing List
-  url: https://lists.cncf.io/g/cncf-tag-app-delivery
-  about: Join our mailing list
+# - name: TAG Mailing List
+#   url: https://lists.cncf.io/g/cncf-tag-app-delivery
+#   about: Join our mailing list
