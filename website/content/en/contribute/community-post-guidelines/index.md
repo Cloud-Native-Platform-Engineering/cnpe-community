@@ -6,7 +6,7 @@ weight: 100 # Makes sure this sorts to the top of the list always
 
 ## Introduction
 
-This policy outlines the guidelines for accepting, reviewing, and publishing blog posts on our platform: https://www.cloudnativeplatforms.com/blog.
+This policy outlines the guidelines for accepting, reviewing, and publishing blog posts on our community platform: [blog](/blog)
 
 Blog posts are an opportunity to foster a diverse and vibrant discussion environment, showcasing a variety of viewpoints from members and the wider open source community.
 
