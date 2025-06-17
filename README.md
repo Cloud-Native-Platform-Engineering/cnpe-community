@@ -60,7 +60,11 @@ In order to effectively support and manage the diverse needs of the community, w
 - Abby Bangser (@abangser)
 - Josh Gavant (@joshgav)
 
-## Initiatives
+## Key Artifacts
+
+See [Artifacts](https://www.cloudnativeplatforms.com/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
+
+## Active Initiatives
 
 The Community helps coordinate specific initiatives that are have benefits for the broader Platform Engineering community. Some of these initiatives are led by the Community, while others may exist under the CNCF Technical Advisory Groups (TAGs)
 
