@@ -5,7 +5,7 @@ list_pages: true
 
 <div class="row mt-5 mb-3">
     <div class="col-lg-6">
-        <img src="/images/tag-app-delivery-horizontal-color.svg" alt="Tag App Delivery logo" style="max-width: 300px;">
+        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Community logo" style="max-width: 600px;">
     </div>
 </div>
 

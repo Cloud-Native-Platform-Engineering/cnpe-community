@@ -8,7 +8,7 @@ toc_hide: true
 
 # Platforms white paper
 
-CNCF TAG App Delivery maintains and publishes this paper describing platforms
+Formerly known as the Platforms Working Group under CNCF TAG App Delivery, the Cloud Native Platform Engineering Community maintains and publishes this paper describing platforms
 for cloud-native computing to support project maintainers and cloud users in
 planning and designing such platforms.
 

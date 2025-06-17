@@ -29,8 +29,10 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 Every two weeks on Wednesday at 11:00 ET ([convert to your local
 time](https://dateful.com/convert/eastern-time-et?t=11)).
 
+<!-- remove until community resources are restored
 Meetings are listed on the [main CNCF calendar](https://www.cncf.io/calendar/)
-as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/).
+as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/). 
+-->
 
 - Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
 - Meeting Link: TBD, please check announcments in the Slack channel.
