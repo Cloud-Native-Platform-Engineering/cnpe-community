@@ -31,9 +31,14 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 
 ## Community
 
+
+- Website: 
+  - Staging site: <https://cnpe.netlify.app/>
+  - Production site (not yet deployed): <https://www.cloudnativeplatforms.org/>
 - CNCF Community Page: TBD
 - Slack channel: [#wg-platforms](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
 - Mailing list: TBD
+- LinkedIn Page: <https://www.linkedin.com/company/platform-engineering-group/>
 
 ## Meetings
 

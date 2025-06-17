@@ -16,7 +16,7 @@ v1 was completed in March 2023; improvements and iterations continue in the
 [`latest`](./latest/) directory.
 
 Currently, the edition in the `latest` directory is published to TAG App
-Delivery's website at <https://www.cloudnativeplatforms.com/whitepapers/platforms>.
+Delivery's website at [](https://cnpe.netlify.app/whitepapers/platforms).
 
 ## Modifying diagrams
 

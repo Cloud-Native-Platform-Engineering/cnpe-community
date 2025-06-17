@@ -16,13 +16,17 @@ Our members represent many diverse roles and personas, including:
 - Project maintainers and contributors
 - Specialists in other areas such as security, networking, storage, etc. who are interested in how their work fits into the platform engineering practice
 
-For examples of Platform Personas see: [Platform as a Product: Understanding the Personas](https://www.cloudnativeplatforms/blog/paap-personas/)
+For examples of Platform Personas see: [Platform as a Product: Understanding the Personas]({{< ref "/blog/paap-personas/" >}})
 
 ## Community
 
+- Website: 
+  - Staging site: <https://cnpe.netlify.app/>
+  - Production site (not yet deployed): <https://www.cloudnativeplatforms.org/>
 - CNCF Community Page: TBD
 - Slack channel: [#wg-platforms](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
 - Mailing list: TBD
+- LinkedIn Page: <https://www.linkedin.com/company/platform-engineering-group/>
 
 ## Meetings
 
@@ -64,7 +68,7 @@ In order to effectively support and manage the diverse needs of the community, w
 
 ## Key Artifacts
 
-See [Artifacts](https://www.cloudnativeplatforms.com/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
+See [Artifacts](https://cnpe.netlify.app/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
 
 ## Active Initiatives
 
