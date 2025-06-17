@@ -4,22 +4,22 @@ list_pages: true
 menu:
   main:
     weight: 20
-description: Ways to get involved with the TAG
+description: Ways to get involved with the Community
 ---
 
-Here are a few suggestions on how to get started with the CNCF Technical Advisory Group (TAG) App Delivery. While you may find it useful to approach each in order, there is no requirement to do so. Find what makes sense to you and jump in!
+Here are a few suggestions on how to get started with the CNCF and the Cloud Native Platform Engineering Community. While you may find it useful to approach each in order, there is no requirement to do so. Find what makes sense to you and jump in!
 
 **Research a bit on what topics interest you the most.**
 
-The TAG has a lot of topics to cover under App Delivery. Some of the larger topics have become Working Groups (WGs) but there is still a lot more to discuss at the top TAG level. Titles of WGs and projects may be self-explanatory, but sometimes not. Continue on to learn more about how to find the right project for you.
+Platform Engineering covers a wide area of technical and sociotechnical practices. One of our goals as a community, is to help facilitate contribution across the entire CNCF, including the Technical Advisory Groups (TAGs) and the projects.
 
 **Join Slack**
 
-Luckily, the CNCF slack isn’t a quiet place, it’s very active and provides a lot of great value. A great thing to start with is by simply introducing yourself in a WG channel and saying what you’re interested in. The leaders of the WG will point you in the right direction along with others that have contributed.
+Luckily, the CNCF slack isn’t a quiet place, it’s very active and provides a lot of great value. A great thing to start with is by simply introducing yourself in a WG channel and saying what you’re interested in. The leaders of the CNPE Community will point you in the right direction along with others that have contributed.
 
 **See what issues are available on GitHub**
 
-There’s everything from code-specific issues to documentation issues and everything in-between. Feel free to leave a comment or a suggestion. You can find them under the CNCF GitHub org for each TAG. For example, here’s the link to the App Delivery Tag: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community
+There’s everything from code-specific issues to documentation issues and everything in-between. Feel free to leave a comment or a suggestion. Here’s the link to the CNPEC repository: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community
 
 
 **Review on-going projects looking for contributors**

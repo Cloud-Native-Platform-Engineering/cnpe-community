@@ -1,4 +1,4 @@
-# TAG App Delivery Website
+# CNPE Community Website
 
 This directory contains a [Hugo](https://gohugo.io) web site published via
 [Netlify](https://www.netlify.com/) to <https://tag-app-delivery.cncf.io/>.
