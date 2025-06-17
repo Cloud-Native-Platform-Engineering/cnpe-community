@@ -1,4 +1,4 @@
-# TAG App Delivery Website
+# CNPE Community Website
 
 This directory contains a [Hugo](https://gohugo.io) web site published via
 [Netlify](https://www.netlify.com/) to <https://tag-app-delivery.cncf.io/>.
@@ -48,7 +48,7 @@ hugo new wgs/<working group name>
 To run the site from your local OS:
 
 1. Install [Hugo Extended](https://gohugo.io/installation/linux/#editions) and [npm](https://www.npmjs.com/)
-2. Run `git clone git@github.com:cncf/tag-app-delivery.git && cd tag-app-delivery`
+2. Run `git clone git@github.com:Cloud-Native-Platform-Engineering/cnpe-community.git && cd tag-app-delivery`
 3. Initialize submodules with `git submodule update --init --recursive`
 4. Change into the website directory: `cd website`
 5. Install dependencies with `npm install`
@@ -81,7 +81,7 @@ The startup script updates gitmodules for the theme and installs all necessary d
 
 You can open the devcontainer directly in the DevPod Gui byt pressing the below button:
 
-[![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/cncf/tag-app-delivery)
+[![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/Cloud-Native-Platform-Engineering/cnpe-community)
 
 Then follow above steps 4 and 5 to run the website
 
@@ -90,12 +90,12 @@ Then follow above steps 4 and 5 to run the website
 
 Or you can start the dev environment via CLI:
 
-1. Run `git clone git@github.com:cncf/tag-app-delivery.git && cd tag-app-delivery`
+1. Run `git clone git@github.com:Cloud-Native-Platform-Engineering/cnpe-community.git && cd tag-app-delivery`
 1. Start the workspace: `devpod up .`
 1. Follow above steps 4 and 5 to run the website
 
 Alternatively, create a workspace directly from the repo: `devpod up
-github.com/cncf/tag-app-delivery`
+github.com/Cloud-Native-Platform-Engineering/cnpe-community`
 
 Once the workspace has been created on your machine you can open up it any time
 with `devpod up tag-app-delivery --ide openvscode`

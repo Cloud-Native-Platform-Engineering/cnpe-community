@@ -1,6 +1,14 @@
+---
+# parameters for website rendering options
+
+list_pages: false
+# use toc_hide to hide this section from the sidebar
+toc_hide: true
+---
+
 # Platforms white paper
 
-CNCF TAG App Delivery maintains and publishes this paper describing platforms
+Formerly known as the Platforms Working Group under CNCF TAG App Delivery, the Cloud Native Platform Engineering Community maintains and publishes this paper describing platforms
 for cloud-native computing to support project maintainers and cloud users in
 planning and designing such platforms.
 
@@ -8,7 +16,7 @@ v1 was completed in March 2023; improvements and iterations continue in the
 [`latest`](./latest/) directory.
 
 Currently, the edition in the `latest` directory is published to TAG App
-Delivery's website at <https://tag-app-delivery.cncf.io/whitepapers/platforms>.
+Delivery's website at <https://www.cloudnativeplatforms.com/whitepapers/platforms>.
 
 ## Modifying diagrams
 

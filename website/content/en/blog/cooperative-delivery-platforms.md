@@ -13,7 +13,7 @@ tags:
 
 TAG App Delivery formed the Cooperative Delivery working group in late 2021 to gather and report on emerging trends around coordinated delivery of infrastructure capabilities and applications. The TAG noted that while infrastructure teams are successfully adopting software development practices and deploying features and fixes continuously via the likes of GitOps and IaC (Infrastructure as Code), delivery of infrastructure capabilities is often not coordinated well with delivery of applications using that infrastructure. That is, there's a *gap* in delivery between application and infrastructure and coordination/cooperation is needed to bridge that gap.
 
-The primary goals of the group have been to a) confirm the hypothesis that there is a gap, b) clarify how it manifests for end users and c) identify and encourage emerging trends to facilitate cooperation. For example, the group's [first hypotheses](https://github.com/cncf/tag-app-delivery/blob/main/cooperative-delivery-wg/charter/README.md#examples-of-known-patterns-aimed-to-deploy-applications) mentioned the following existing trends:
+The primary goals of the group have been to a) confirm the hypothesis that there is a gap, b) clarify how it manifests for end users and c) identify and encourage emerging trends to facilitate cooperation. For example, the group's [first hypotheses](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/blob/main/cooperative-delivery-wg/charter/README.md#examples-of-known-patterns-aimed-to-deploy-applications) mentioned the following existing trends:
 
 - GitOps: continuous idempotent reconciliation of configuration from declarative descriptors
 - Operators: reconciliation-oriented services
@@ -23,7 +23,7 @@ In this article we'll review new trends we've learned about from end users and f
 
 We've also learned over the past year that while "cooperation" between infrastructure and application teams is what we seek to achieve, "cooperative delivery" is not a familiar term to most of our contributors. Recognizing that this cooperation is also the goal of "internal developer platforms" (IDPs) and the emerging platform engineering movement, we're preparing to rename the working group Platforms.
 
-We're always seeking more input from users and contributors to guide us. Please consider sharing how your organization coordinates application and infrastructure delivery via [this GitHub form](https://github.com/cncf/tag-app-delivery/issues/new/choose) and share your thoughts in [GitHub](https://github.com/cncf/tag-app-delivery/discussions) or [Slack](https://cloud-native.slack.com/archives/CL3SL0CP5).
+We're always seeking more input from users and contributors to guide us. Please consider sharing how your organization coordinates application and infrastructure delivery via [this GitHub form](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new/choose) and share your thoughts in [GitHub](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/discussions) or [Slack](https://cloud-native.slack.com/archives/CL3SL0CP5).
 
 ## Platform Engineering
 

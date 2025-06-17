@@ -1,5 +1,5 @@
-baseURL = "https://tag-app-delivery.cncf.io/"
-title = "CNCF TAG App Delivery"
+baseURL = "https://cloud-native-platforms.com/"
+title = "Cloud Native Platform Engineering Community"
 
 # Language settings
 contentDir = "content/en"
@@ -147,7 +147,7 @@ prism_syntax_highlighting = false
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 [params.github]
-  repo = "https://github.com/cncf/tag-app-delivery"
+  repo = "https://github.com/Cloud-Native-Platform-Engineering/cnpe-community"
   branch = "main"
   subdir = "website"
 
@@ -173,8 +173,8 @@ sidebar_search_disable = false
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/cncf/tag-app-delivery/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/cncf/tag-app-delivery/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new">tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 

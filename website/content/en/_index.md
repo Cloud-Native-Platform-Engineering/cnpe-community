@@ -1,65 +1,91 @@
 ---
-title: "CNCF TAG App Delivery"
+title: "Cloud Native Platforms Community"
 list_pages: true
 ---
 
 <div class="row mt-5 mb-3">
     <div class="col-lg-6">
-        <img src="/images/tag-app-delivery-horizontal-color.svg" alt="Tag App Delivery logo" style="max-width: 300px;">
-    </div>
-    <div class="col-lg-6">
-        <div class="lead">
-        Projects and initiatives related to delivering cloud-native
-        applications, including building, packaging, deploying, managing, and
-        operating them.
-        </div>
+        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Community logo" style="max-width: 600px;">
     </div>
 </div>
 
-The TAG gathers feedback from cloud-native application developers, platform
-engineers and end users; shares that feedback with projects in its domain; and
-produces guidance and examples for end users.
+The Cloud Native Platform Engineering Working Group Community is a community of practitioners, vendors, and end-users who are interested in the practice of building and operating cloud native platforms. The community is focused on sharing knowledge, best practices, and tools to help organizations build and operate cloud native platforms effectively.
 
-The TAG supports projects related to its charter
-such as those in the [CNCF Landscape](https://landscape.cncf.io/card-mode) under
-[application definition and image build](https://landscape.cncf.io/card-mode?category=application-definition-image-build&project=hosted),
-[continuous integration and delivery](https://landscape.cncf.io/card-mode?category=continuous-integration-delivery&project=hosted)
-and [container registry](https://landscape.cncf.io/card-mode?category=container-registry&project=hosted).
+The community is open to anyone who is interested in cloud native platform engineering, regardless of their level of experience or expertise. The community is a place for practitioners to share their experiences, ask questions, and learn from each other.
 
-Today there are two active working groups under the TAG -
-[WG Platforms](./wgs/platforms/) and [WG Artifacts](./wgs/artifacts/).
+<!-- For more information, see [About](./about/) -->
+
+## Scope
+
+This community is primarily focused on Cloud Native Platform Engineering and support of the practice within the CNCF ecosystem. The community is not focused on any specific technology or vendor, but rather on the practice of building and operating cloud native platforms.
+
+Our members represent many diverse roles and personas, including:
+
+- Platform consumers / end-users
+- Platform developers, maintainers, and providers
+- Internal service providers
+- Project maintainers and contributors
+- Specialists in other areas such as security, networking, storage, etc. who are interested in how their work fits into the platform engineering practice
+
+For examples of Platform Personas see: [Platform as a Product: Understanding the Personas](https://www.cloudnativeplatforms/blog/paap-personas/)
+
+## Community
+
+- CNCF Community Page: TBD
+- Slack channel: [#wg-platforms](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
+- Mailing list: TBD
 
 ## Meetings
 
-Every two weeks on Wednesday at 11:00am ET ([convert to your local
+Every two weeks on Wednesday at 11:00 ET ([convert to your local
 time](https://dateful.com/convert/eastern-time-et?t=11)).
 
+<!-- remove until community resources are restored
 Meetings are listed on the [main CNCF calendar](https://www.cncf.io/calendar/)
-as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/).
+as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/). 
+-->
 
-* [Agenda and Notes](https://docs.google.com/document/d/1OykvqvhSG4AxEdmDMXilrupsX2n1qCSJUWwTc3I7AOs/edit#)
-* [Zoom Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98590236563?password=b0335b64-4162-4499-bb61-ff2c7dec2724)
-* [Recordings of previous meetings](https://www.youtube.com/playlist?list=PLjNzvzqUSpxJ0JfD6vrdF5bsuBaJQ2BRT)
+- Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
+- Meeting Link: TBD, please check announcments in the Slack channel.
+- Recordings of previous meetings:
+  - Prior to June 2025: <https://www.youtube.com/watch?v=tr-A_HreMd4&list=PLjNzvzqUSpxKH8X7wNfYZtkH_ARSeeQH0>
 
-## Leads
+## Organizers / Leads / Co-Chairs
 
-- [Thomas Schuetz](https://github.com/thschue) (Chair)
-- [Lian Li](https://github.com/lianmakesthings) (Chair)
-- [Roberth Strand](https://github.com/roberthstrand) (Chair)
+- Atulpriya Sharma (@techmaharaj)
+- Colin Griffin (@krumware)
+- TBD (@tbd)
+- TBD (@tbd)
+- TBD (@tbd)
 
-### Emeritus Leads
-- [Alois Reitbauer](https://github.com/AloisReitbauer)
-- [Jennifer Strejevitch](https://github.com/Jenninha)
-- [Hongchao Deng](https://github.com/hongchaodeng)
-- [Alex Jones](https://github.com/AlexsJones)
-- [Josh Gavant](https://github.com/joshgav)
-- [Karena Angell](https://github.com/angellk)
+## Committees
 
-### Additional Resources
+In order to effectively support and manage the diverse needs of the community, we have established several committees. Each committee is responsible for specific areas of the community's activities and initiatives.
 
-- [TAG Charter](https://github.com/cncf/toc/blob/main/tags/tag-charters/app-delivery.md)
-- Slack channel: [#tag-app-delivery](https://cloud-native.slack.com/messages/CL3SL0CP5)
-    - [Invite yourself to the CNCF Slack](https://slack.cncf.io/)
-- [Mailing list](https://lists.cncf.io/g/cncf-tag-app-delivery/topics)
+- TBD
+
+## TOC Liaisons
+
+- TBD
+
+## Emeritus Leads
+
+- Abby Bangser (@abangser)
+- Josh Gavant (@joshgav)
+
+## Key Artifacts
+
+See [Artifacts](https://www.cloudnativeplatforms.com/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
+
+## Active Initiatives
+
+The Community helps coordinate specific initiatives that are have benefits for the broader Platform Engineering community. Some of these initiatives are led by the Community, while others may exist under the CNCF Technical Advisory Groups (TAGs)
+
+| Initiative                                                                 | Leads                                                                 | More Information                                                         |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [Content Club](https://www.cloudnativeplatforms/initiatives/content-club/)   | <https://www.cloudnativeplatforms/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms/initiatives/content-club/> |
+| [Platform as a Product](https://www.cloudnativeplatforms/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms/initiatives/maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms/initiatives/platform-as-a-product/> |
+| [Maturity Model Assessment](https://www.cloudnativeplatforms/initiatives/maturity-model-assessment/)   | <https://www.cloudnativeplatforms/initiatives/maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms/initiatives/maturity-model-assessment/> |
+
 
 <p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="Man working on computer"></p>

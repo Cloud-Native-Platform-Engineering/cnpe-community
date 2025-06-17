@@ -9,7 +9,7 @@ body:
       value: |
         Welcome, we are excited to support localizations of the website to languages around the world!
 
-        _Note: While each localization is unique, we encourage you to familiarlize yourself with [past localization PRs](https://github.com/cncf/tag-app-delivery/issues?q=label%3Alocalization+) and the [Kubernetes SIG-Docs localization documentation](https://kubernetes.io/docs/contribute/localization) for general guidelines and lessons learned._
+        _Note: While each localization is unique, we encourage you to familiarlize yourself with [past localization PRs](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=label%3Alocalization+) and the [Kubernetes SIG-Docs localization documentation](https://kubernetes.io/docs/contribute/localization) for general guidelines and lessons learned._
   - type: dropdown
     attributes:
       label: New language

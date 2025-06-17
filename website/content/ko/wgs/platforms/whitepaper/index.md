@@ -1,7 +1,7 @@
 ---
 title:  "CNCF 플랫폼 백서(White Paper)"
-pdf: https://github.com/cncf/tag-app-delivery/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf
-version_info: https://github.com/cncf/tag-app-delivery/tree/main/platforms-whitepaper/README.md
+pdf: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/raw/main/platforms-whitepaper/v1/assets/platforms-def-v1.0.pdf
+version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/tree/main/platforms-whitepaper/README.md
 description: "이 백서는 기업 리더, 엔터프라이즈 아키텍트, 플랫폼 팀 리더가 클라우드 컴퓨팅을 위한 내부 플랫폼을 옹호하고, 조사하고, 계획할 수 있도록 지원하고자 합니다. 플랫폼은 기업의 실제 가치 흐름에 큰 영향을 미치지만 간접적으로만 영향을 미치므로 플랫폼 팀의 장기적인 지속 가능성과 성공을 위해서는 경영진의 합의와 지원이 필수적입니다. 이 백서에서는 플랫폼의 가치가 무엇인지, 이를 측정하는 방법, 그리고 이를 극대화하는 플랫폼 팀을 구현하는 방법에 대해 논의함으로써 이러한 지원을 가능하게 할 것입니다."
 ---
 
@@ -178,7 +178,7 @@ Please refer to the [Platform Engineering Maturity Model](https://tag-app-delive
 
 앞서 설명한 것처럼 클라우드 네이티브 컴퓨팅을 위한 플랫폼은 여러 지원 제공업체의 기능과 서비스를 함께 혼합하여 제공합니다. 이러한 제공업체는 같은 기업 내의 다른 팀일 수도 있고 클라우드 서비스 제공업체와 같은 타사일 수도 있습니다. 간단히 말해, 플랫폼은 기본 기능 제공업체와 애플리케이션 개발자와 같은 플랫폼 사용자를 연결하고, 그 과정에서 보안, 성능, 비용 거버넌스, 일관된 경험에 대해 원하는 모범 사례를 구현하고 시행합니다. 다음 그래픽은 제품, 플랫폼, 기능 제공업체 간의 관계를 보여줍니다.
 
-<figure><img src="https://github.com/cncf/tag-app-delivery/blob/main/website/content/ja/wgs/platforms/whitepaper/assets/platforms-def.drawio.png" alt=""><figcaption><p>제품과 플랫폼 그리고 기능 제공업체 간의 관계 그래프</p></figcaption></figure>
+<figure><img src="https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/blob/main/website/content/ja/wgs/platforms/whitepaper/assets/platforms-def.drawio.png" alt=""><figcaption><p>제품과 플랫폼 그리고 기능 제공업체 간의 관계 그래프</p></figcaption></figure>
 
 이 백서에서는 우수한 플랫폼과 플랫폼 팀을 구성하는 방법에 중점을 두었으며, 이제 마지막 섹션에서는 플랫폼이 실제로 제공할 수 있는 기능에 대해 설명하고자 합니다. 이 목록은 플랫폼 구축 담당자를 안내하기 위한 것으로, 일반적으로 클라우드 네이티브 애플리케이션에 필요한 기능을 포함하고 있습니다. 하지만 앞서 언급했듯이 좋은 플랫폼은 사용자의 요구 사항을 반영하므로 궁극적으로 플랫폼 팀은 사용자와 함께 플랫폼이 제공하는 기능을 선택하고 우선 순위를 정해야 합니다.
 

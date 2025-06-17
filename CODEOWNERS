@@ -10,16 +10,7 @@
 #
 # Unless a later match takes precedence, these owners will be requested for
 # review when someone opens a pull request.
-* @lianmakesthings @kgamanji @linsun @roberthstrand @schristoff @GenPage
+* @krumware @roberthstrand @techmaharaj @GenPage
 
 # Platforms WG
-/platforms-*/ @lianmakesthings @kgamanji @abangser @roberthstrand @krumware @linsun @techmaharaj
-
-# Artifacts WG
-/artifacts-*/ @lianmakesthings @kgamanji @sabre1041 @rchincha @linsun @roberthstrand
-
-# App Development WG
-/app-development-*/ @lianmakesthings @kgamanji @linsun @roberthstrand @salaboy @danieloh30 @ThomasVitale
-
-# Infrastructure Lifecycle WG
-/infrastructure-lifecycle-*/ @lianmakesthings @kgamanji @linsun @roberthstrand @rynowak @elft3r @bschaatsbergen
+/platforms-*/ @krumware @roberthstrand @techmaharaj @GenPage

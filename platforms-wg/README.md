@@ -28,4 +28,4 @@ To register for updates and to "Join" the group, please also consider joining th
 ## Resources
 
 * Blog: https://tag-app-delivery.cncf.io/tags/?WG-Platforms=true
-* Github issues: https://github.com/cncf/tag-app-delivery/issues?q=is%3Aissue+is%3Aopen+label%3Awg-platforms
+* Github issues: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=is%3Aissue+is%3Aopen+label%3Awg-platforms
