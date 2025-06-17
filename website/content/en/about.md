@@ -2,6 +2,8 @@
 title: About
 list_pages: true
 description: The charter describes the mission and tactics of the CNPE Community (formerly known as TAG App Delivery's Platforms Working Group).
+# use toc_hide to hide this section from the sidebar
+toc_hide: true
 ---
 
 <!-- hide for now
