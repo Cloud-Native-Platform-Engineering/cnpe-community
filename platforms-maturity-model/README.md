@@ -15,7 +15,7 @@ v1 was completed in October 2023; improvements and iterations continue in the
 [`latest`](./latest/) directory.
 
 Currently, the edition in the `v1` directory is published to the CNPE Community TAG App Delivery's website at
-<https://www.cloudnativeplatforms.com/whitepapers/platform-eng-maturity-model>.
+<https://cnpe.netlify.app/whitepapers/platform-eng-maturity-model>.
 
 This was formerly published to TAG App Delivery's website at
 <https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model>.
