@@ -30,10 +30,15 @@ Deliverables:
 ## Platform Maturity Model Assessment
 
 Overview:
+The Platform Maturity Assessment is an accompanying tool to the Platform Maturity Model that simplifies the experience for End Users to identify where their organization sits on the maturity curve. The Assessment will provide a simple and short survey to identify the maturity level according to the categories in the Maturity Model. Organizations can use the Maturity Model to discover the definitions and characteristics at each level of maturity and as a source for guidance on improving their capabilities. 
 
 Schedule:
+User Acceptance/Beta Testing : 06/24/25 - 8/5/25
+Beta : 8/5/25 - 10/31/25
+GA Launch : 11/10 (Kubecon Atlanta)
 
 Deliverables:
+Platform Maturity Assessment 
 
 # Related CNCF Initiatives
 
