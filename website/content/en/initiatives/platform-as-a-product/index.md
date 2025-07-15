@@ -10,8 +10,6 @@ url: initiatives/platform-as-a-product
 
 Paricipants / Leadership:
 
-Overview: 
-
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
 
 We achieve this by:
@@ -21,8 +19,6 @@ We achieve this by:
 - Conducting research through interviews and surveys
 
 The initiative is led by members of the Cloud Native Platform Engineering Community Group and is open to anyone involved in building platforms — not just product managers. We welcome platform engineers, leaders, consumers, and anyone interested in improving platform outcomes through product management practices.
-
-Schedule: 
 
 Part of the regular Cloud Native Platform Engineering Community Group Meetings.
 
