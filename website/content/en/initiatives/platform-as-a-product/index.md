@@ -1,6 +1,6 @@
 ---
 title: "Platform as a Product"
-description: "Description for Platform as a Product"
+description: "The Platform as a Product (PaaP) Initiative advances Product Thinking in platform engineering by treating internal platforms as products and platform users as customers, through research, content, and community discussions."
 type: initiatives
 url: initiatives/platform-as-a-product
 ---
@@ -9,12 +9,13 @@ url: initiatives/platform-as-a-product
 ## About
 
 Paricipants / Leadership:
-<TBD>
 
 Overview: 
+
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
 
 We achieve this by:
+
 - Hosting talks and discussions on product management and product thinking in the platform engineering space
 - Writing and sharing content (such as blogs and guides)
 - Conducting research through interviews and surveys
@@ -22,9 +23,11 @@ We achieve this by:
 The initiative is led by members of the Cloud Native Platform Engineering Community Group and is open to anyone involved in building platforms — not just product managers. We welcome platform engineers, leaders, consumers, and anyone interested in improving platform outcomes through product management practices.
 
 Schedule: 
+
 Part of the regular Cloud Native Platform Engineering Community Group Meetings.
 
 Deliverables:
+
 - Talks and discussions 
 - Content
 - Supporting CNCF Initiatives
