@@ -24,7 +24,7 @@ The initiative is led by members of the Cloud Native Platform Engineering Commun
 Schedule: 
 Part of the regular Cloud Native Platform Engineering Community Group Meetings.
 
-Deliverables
+Deliverables:
 - Talks and discussions 
 - Content
 - Supporting CNCF Initiatives
