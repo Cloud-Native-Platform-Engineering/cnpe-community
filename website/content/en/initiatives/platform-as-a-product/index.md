@@ -8,8 +8,6 @@ url: initiatives/platform-as-a-product
 
 ## About
 
-Paricipants / Leadership:
-
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
 
 We achieve this by:
