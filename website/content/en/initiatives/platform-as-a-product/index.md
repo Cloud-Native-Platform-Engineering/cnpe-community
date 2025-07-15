@@ -8,7 +8,7 @@ url: initiatives/platform-as-a-product
 
 ## About
 
-Paricipants / Leadership
+Paricipants / Leadership:
 <TBD>
 
 Overview: 
