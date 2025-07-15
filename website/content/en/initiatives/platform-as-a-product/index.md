@@ -18,8 +18,6 @@ We achieve this by:
 
 The initiative is led by members of the Cloud Native Platform Engineering Community Group and is open to anyone involved in building platforms — not just product managers. We welcome platform engineers, leaders, consumers, and anyone interested in improving platform outcomes through product management practices.
 
-Part of the regular Cloud Native Platform Engineering Community Group Meetings.
-
 Deliverables:
 
 - Talks and discussions 
