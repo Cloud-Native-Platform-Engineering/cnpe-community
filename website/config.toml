@@ -112,7 +112,7 @@ copyright = "CNCF"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-image = "https://tag-app-delivery.cncf.io/images/cncf-app-delivery-share.jpg"
+image = "https://cnpe.netlify.app/images/platform-community-share.png"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
@@ -130,7 +130,7 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://tag-app-delivery.cncf.io"
+url_latest_version = "https://cnpe.netlify.app"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 # gcs_engine_id = "406382b9737f24d05"
