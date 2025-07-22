@@ -30,7 +30,7 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 
 ## Meetings
 
-Every two weeks on Wednesday at 11:00 ET ([convert to your local
+Every two weeks on Tuesday at 11:00 ET ([convert to your local
 time](https://dateful.com/convert/eastern-time-et?t=11)).
 
 <!-- remove until community resources are restored
