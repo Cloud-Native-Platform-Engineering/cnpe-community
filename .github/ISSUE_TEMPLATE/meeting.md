@@ -1,0 +1,55 @@
+---
+name: Community Meetings
+about: Issues related to cloud-native application delivery projects and groups.
+description: Proposal for community publication or other work
+title: "[Meetings] YYYY-MM-DD Community Meeting "
+labels: [meeting]
+projects: [cnpe-community/1]
+body:
+
+- type: markdown
+    attributes:
+      value: |
+        A Community Meeting is scheduled for:
+- type: input
+    id: scheduled-date
+    attributes:
+      label: Scheduled Date
+      description: "Please enter the day of the meeting (format: YYYY-MM-DD)"
+      placeholder: YYYY-MM-DD
+    validations:
+      required: false
+- type: input
+    id: scheduled-time
+    attributes:
+      label: Scheduled Time
+      description: "Please enter the time of the meeting and timezone (format: HH:MM AM/PM, e.g., 4:00 PM or 1600 BST)"
+      placeholder: 4:00 PM or 1600 BST
+    validations:
+      required: false
+- type: textarea
+  attributes:
+    label: Agenda Topics
+    description: Steps to reproduce the behavior.
+    placeholder: |
+        * Housekeeping and updates from Community leadership
+            * TBD
+        * Community Discussion
+            * TBD
+        * Guest Speaker
+            * TBD
+        * Initiative discussion
+            * TBD
+        * Open discussion / Platform Engineering Q&A
+- type: textarea
+  attributes:
+    label: Checklist
+    description: Steps to reproduce the behavior.
+    placeholder: |
+        - [ ] Create meeting on LFX
+        - [ ] Identify/select speaker(s)
+        - [ ] Announce meeting (share Github issue) in community slack for agenda requests
+        - [ ] Finalize Agenda
+        - [ ] Announce meeting on social platforms
+  validations:
+    required: false
