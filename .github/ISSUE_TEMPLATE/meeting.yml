@@ -14,7 +14,7 @@ body:
     attributes:
       label: Scheduled Date
       description: "Please enter the day of the meeting (format: YYYY-MM-DD)"
-      placeholder: YYYY-MM-DD
+      value: YYYY-MM-DD
     validations:
       required: false
   - type: input
@@ -22,14 +22,14 @@ body:
     attributes:
       label: Scheduled Time
       description: "Please enter the time of the meeting and timezone (format: HH:MM AM/PM, e.g., 4:00 PM or 1600 BST)"
-      placeholder: 4:00 PM or 1600 BST
+      value: 4:00 PM or 1600 BST
     validations:
       required: false
   - type: textarea
     attributes:
       label: Agenda Topics
-      description: Steps to reproduce the behavior.
-      placeholder: |
+      description: Topics for discussion
+      value: |
         * Housekeeping and updates from Community leadership
           * TBD
         * Community Discussion
@@ -42,8 +42,8 @@ body:
   - type: textarea
     attributes:
       label: Checklist
-      description: Steps to reproduce the behavior.
-      placeholder: |
+      description: Steps to prepare for the meeting
+      value: |
         - [ ] Create meeting on LFX
         - [ ] Identify/select speaker(s)
         - [ ] Announce meeting (share Github issue) in community slack for agenda requests
