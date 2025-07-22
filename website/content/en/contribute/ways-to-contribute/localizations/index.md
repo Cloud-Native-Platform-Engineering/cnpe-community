@@ -7,6 +7,8 @@ list_pages: false
 
 Part of what makes the CNCF so amazing is the diversity of people involved and supported by the community. One way we make this community more inclusive is by providing localizations for content where possible. Localizations of course require native speakers to create and maintain them and this post is about how you can do that within the CNPE Community content.
 
+The Platform Engineering artifacts and website are initially developed in English, but we welcome contributions to prepare them for other languages. This is a great way to help make the content accessible to a wider audience and to contribute to the community.
+
 ## Guidelines
 
 While each localization is unique, we encourage you to familiarlize yourself with [past localization PRs](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=label%3Alocalization+) and the [Kubernetes SIG-Docs localization documentation](https://kubernetes.io/docs/contribute/localization) for general guidelines and lessons learned.
