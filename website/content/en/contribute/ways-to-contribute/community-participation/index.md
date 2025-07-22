@@ -4,21 +4,28 @@ description: "Showing up is the best first step"
 list_pages: false
 ---
 
-## Introduction
-
-Part of what makes the CNCF so amazing is the diversity of people involved and supported by the community. One way we make this community more inclusive is by providing localizations for content where possible. Localizations of course require native speakers to create and maintain them and this post is about how you can do that within the CNPE Community content.
-
 ## Types of Community Participation
 
-How different folks can help and get help
+As a community we work on all kinds of practices, from the technical to the organizational or socio-technical. This work manifests in various contributor-friendly forms.
 
-### End Users
+- Research studies
+- Whitepapers and Research papers
+- Blog posts
+- Talks and presentations
+- Software product and project development
+- Community events and meetups
+- Facilitation and contribution to other technical projects and organizations.
 
-### Platform Maintainers
+For more information on how to submit community content, please see the Blog Post [Getting started with contributing in WG Platforms](/blog/contributing-to-wg-platforms/)
 
-### Service Providers
+## Types of Community Participants
 
-### Project Maintainers
+Platform Engineering is a broad field that encompasses many different practitioner roles and responsibilities. The CNPE Community welcomes participation from all types of community members, including:
+
+- End Users
+- Platform Maintainers
+- Service Providers
+- Project Maintainers
 
 ## Contributing
 

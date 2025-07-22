@@ -5,7 +5,6 @@ type: initiatives
 url: initiatives/platform-as-a-product
 ---
 
-
 ## About
 
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
@@ -41,9 +40,11 @@ Deliverables:
 
 Our research combines qualitative interviews and quantitative surveys to understand how organizations build platforms, prioritize user needs, and apply product management practices. Insights are shared openly to help the community advance.
 
+The Raw data from the research is available on [GitHub](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/tree/main/platform-as-a-product)
+
 The outcome of the research so far was presented on the Platform Engineering Day Europe 2025 in London. You can find the [recording here](https://www.youtube.com/watch?v=DoiaHfl9Y7Y).
 
-Learn more about the [Platform as a Product Research here](./../../platform-as-a-product/) or in our blog posts.
+Learn more about the [Platform as a Product Research here](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/blob/main/platform-as-a-product/paap-research-guide.md) or in our blog posts.
 
-- [Platform as a Product Research - Now with a Survey!](../../blog/announce-paap-survey/)
-- [Invitation To Participate in Platform As A Product Research](../../blog/announce-paap-research/)
+- [Platform as a Product Research - Now with a Survey!](/blog/call-participation-paap-survey/)
+- [Invitation To Participate in Platform As A Product Research](/blog/announce-paap-research/)
