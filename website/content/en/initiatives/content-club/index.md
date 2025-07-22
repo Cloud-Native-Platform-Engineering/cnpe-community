@@ -15,7 +15,9 @@ url: initiatives/content-club
 ### Overview
 
 #### What is Content Club?
+
 Original initiative issue: [https://github.com/cncf/tag-app-delivery/issues/781](https://github.com/cncf/tag-app-delivery/issues/781)
+
 The Content Club was created out of the challenge of how we grow attention of the great ideas that come out of the platforms working group. This gave me the idea of creating a "content club", where we pick a shared topic for us to write about each month that we can then read/contrast/comment on. Anyone interested can contribute by creating or discussing content around that topic—articles, videos, blog posts, tutorials, or other formats.
 
 #### Goals and Benefits

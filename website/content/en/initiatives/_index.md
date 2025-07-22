@@ -9,17 +9,17 @@ description: Active initiatives and projects that are ready for contribution and
 
 This is where initiatives and projects that are ready for contribution and participation are listed. If you are looking for ways to get involved, this is a great place to start.
 
-For more information on how to submit an Initiative or Project, please see the [Ways to Contribute](https://tag-app-delivery.cncf.io/contribute/ways-to-contribute/) page.
+For more information on how to submit an Initiative or Project, please see the [Contribute](https://cnpe.netlify.app/contribute/) page.
 
-# Active Initiatives and Projects
+## Active Initiatives and Projects
 
-## Content Club
+### Content Club
 
-### Overview
+#### Overview
 
 The Content Club is a community-driven initiative aimed at fostering collaboration and knowledge sharing among platform engineering enthusiasts. It provides a space for members to discuss, create, and share content related to platform engineering practices, tools, and technologies.
 
-### Schedule
+#### Schedule
 
 Each month, a topic is selected for discussion and content creation. Members are encouraged to contribute articles, blog posts, videos, or other forms of content related to the topic.
 
@@ -32,47 +32,52 @@ Previous topics have included:
 - June 2025 - “non-technical” Platform Engineering
 - July 2025 - Platform Engineering for Edge Computing
 
-See the [Content Club](https://cnpe.netlify.app/initiatives/content-club/) page for more details on the current topic and how to participate.
+See the [Content Club](/initiatives/content-club/) page for more details on the current topic and how to participate.
 
-## Platform as a Product
+### Platform as a Product
 
-### Overview
+#### Overview
 
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
 
-### Schedule
+#### Schedule
 
 This effort is ongoing, with regular updates and contributions from the community. We are actively evaluating creation of scoped initiatives for specific work streams.
 
-### Deliverables
+#### Deliverables
 
 - Platform as a Product Research
 - Platform as a Product Whitepaper
-- [Featured Blog Posts](https://cnpe.netlify.app/initiatives/platform-as-a-product/#featured-blog-posts)
+- [Featured Blog Posts](/initiatives/platform-as-a-product/#featured-blog-posts)
 
-## Platform Maturity Model Assessment
+### [Platform Maturity Model Assessment](/initiatives/platform-maturity-model-assessment/)
 
-### Overview
+#### Overview
 
 The Platform Maturity Assessment is an accompanying tool to the Platform Maturity Model that simplifies the experience for End Users to identify where their organization sits on the maturity curve. The Assessment will provide a simple and short survey to identify the maturity level according to the categories in the Maturity Model. Organizations can use the Maturity Model to discover the definitions and characteristics at each level of maturity and as a source for guidance on improving their capabilities.
 
-### Schedule
+#### Schedule
 
 - User Acceptance/Beta Testing : 2025-06-24 - 2025-08-05
 - Beta : 2025-08-05 - 2025-10-31
 - GA Launch : 2025-11-10 (Kubecon Atlanta)
 
-### Deliverables
+#### Deliverables
 
 - Platform Maturity Assessment
 
-# Related CNCF Initiatives
+## Related CNCF Project and Initiatives
+
+There are many initiatives, projects, and working groups that are related to Platform Engineering across the Cloud Native and CNCF ecosystems. Just as Platform Engineers connect specialization across many domains, we are committed to collaborating with these groups to ensure that our community members are aware of the broader landscape and can actively contribute to discussions and initiatives. Doing so helps to ensure that the Platform Engineering community is well-informed and can more effectively support the healthy development of the Cloud Native ecosystem.
 
 Initiatives that are housed under other TAGs but are important to Platform Engineering.
 
 [CNCF Cartografos Working Group](https://community.cncf.io/cncf-cartografos-working-group/) is a community-driven project that aims to create a comprehensive map of the cloud native ecosystem, including projects, tools, and technologies. It provides a visual representation of the relationships between different components in the cloud native landscape.
 
-# Former Initiatives and Projects
+Cloud Native Maturity Model: [MaturityModel.cncf.io](https://maturitymodel.cncf.io/)
+Community Page: [CNCF Cartografos Working Group](https://community.cncf.io/cncf-cartografos-working-group/)
+
+## Former Initiatives and Projects
 
 [CNCF TAG App Delivery](https://tag-app-delivery.cncf.io/) is the former home of the Cloud Native Platform Engineering Working Group Community. It was focused on application delivery practices and tools within the CNCF ecosystem.
 
