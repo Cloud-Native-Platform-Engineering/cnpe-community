@@ -23,4 +23,4 @@ And like with the interviews we want to hear from **everyone involved in buildin
 
 So, if you want to help us with this study, please fill out our [survey here](https://forms.gle/PDjnQSvruXwRrZvk7)! Thank you!
 
-We also invite you to [join the CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) and find us in the [#wg-platforms](https://cloud-native.slack.com/archives/C020RHD43BP) channel. Working group meetings are every two weeks and participation is open to all, you can find the [schedule here](https://tag-app-delivery.cncf.io/wgs/platforms/#meetings)!
+We also invite you to [join the CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) and find us in the [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) channel. Working group meetings are every two weeks and participation is open to all, you can find the [schedule here](https://tag-app-delivery.cncf.io/wgs/platforms/#meetings)!

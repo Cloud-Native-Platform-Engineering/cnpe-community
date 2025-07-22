@@ -24,7 +24,7 @@ Clear explanations of each aspect and each level within an aspect are provided a
 
 As readers, we encourage you to remember that it is not only costly, but sometimes actively detrimental to blindly follow any model to the highest level of maturity. Instead, we hope you will use this model to identify both your current and desired characteristics, enabling you to target your investment in the areas you will most benefit from.
 
-Finally, we want to take this opportunity to reintroduce the working group as a welcoming community of companies building platforms, consulting on platforms, and creating tools to support platform builders. We have a number of exciting initiatives in flight and would love to see you get involved including fortnightly meetings to share platform building stories and a deep dive paper on Platform as a Product. For more information please see our [website](https://appdelivery.cncf.io) or join the #wg-platforms channel in the [CNCF slack](https://slack.cncf.io/).
+Finally, we want to take this opportunity to reintroduce the working group as a welcoming community of companies building platforms, consulting on platforms, and creating tools to support platform builders. We have a number of exciting initiatives in flight and would love to see you get involved including fortnightly meetings to share platform building stories and a deep dive paper on Platform as a Product. For more information please see our [website](https://appdelivery.cncf.io) or join the #platform-engineering channel in the [CNCF slack](https://slack.cncf.io/).
 
 ## Thank you to our contributors!
 

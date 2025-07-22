@@ -128,7 +128,7 @@ You can get started right now, though. It's simple: talk to your users, listen t
 If you'd like to learn more about the Platforms Working Group, here are some resources:
 - [Platforms WG Home Page](https://tag-app-delivery.cncf.io/wgs/platforms/) 
 - [CNCF Slack Signup](https://communityinviter.com/apps/cloud-native/cncf)
-- [#wg-platforms channel](https://cloud-native.slack.com/archives/C020RHD43BP)
+- [#platform-engineering channel](https://cloud-native.slack.com/archives/C020RHD43BP)
 
 Also, consider participating in our Platform As A Product [research effort](https://tag-app-delivery.cncf.io/blog/call-participation-paap-research/).
 

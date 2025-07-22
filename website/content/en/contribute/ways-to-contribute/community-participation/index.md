@@ -4,6 +4,14 @@ description: "Showing up is the best first step"
 list_pages: false
 ---
 
+## Finding Community
+
+Please follow us on LinkedIn [Cloud Native Platforms](https://www.linkedin.com/company/cloud-native-platforms/)
+
+Please consider joining the CNPE Community Slack workspace to find out more about how you can participate in the community. The CNPE Community is a place for platform engineering practitioners to share knowledge, collaborate on projects, and learn from each other. [CNCF Slack #platform-engineering channel](https://cloud-native.slack.com/archives/C020RHD43BP)
+
+
+
 ## Types of Community Participation
 
 As a community we work on all kinds of practices, from the technical to the organizational or socio-technical. This work manifests in various contributor-friendly forms.

@@ -33,4 +33,4 @@ The current examples are mostly between 200-500 characters which may feel challe
 
 ## Asking for help
 
-If you have any questions about this contribution type, your specific context, the technicalities of opening a PR, or really anything else, please [join the CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) and reach out to [#wg-platforms](https://cloud-native.slack.com/archives/C020RHD43BP).
+If you have any questions about this contribution type, your specific context, the technicalities of opening a PR, or really anything else, please [join the CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) and reach out to [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP).
