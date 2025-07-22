@@ -1,8 +1,8 @@
 ---
-title: "Platform Maturity Model Assesssment"
+title: "Platform Maturity Model Assessment"
 description: "Description for maturity model assessment"
 type: initiatives
-url: initiatives/maturity-model-assessment
+url: initiatives/platform-maturity-model-assessment
 ---
 
 ## About

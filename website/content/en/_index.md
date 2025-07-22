@@ -89,8 +89,8 @@ The Community helps coordinate specific initiatives that are have benefits for t
 | Initiative                                                                 | Leads                                                                 | More Information                                                         |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
 | [Content Club](https://www.cloudnativeplatforms.com/initiatives/content-club/)   | <https://www.cloudnativeplatforms.com/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/content-club/> |
-| [Platform as a Product](https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/initiatives/maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/> |
-| [Maturity Model Assessment](https://www.cloudnativeplatforms.com/initiatives/maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/initiatives/maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/maturity-model-assessment/> |
+| [Platform as a Product](https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/> |
+| [Maturity Model Assessment](https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/> |
 
 
 <p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="Man working on computer"></p>
