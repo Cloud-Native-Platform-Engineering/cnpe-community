@@ -15,6 +15,8 @@ For more information on how to submit an Initiative or Project, please see the [
 
 ### Content Club
 
+Website: [Content Club](https://cnpe.netlify.app/initiatives/content-club/)
+
 #### Overview
 
 The Content Club is a community-driven initiative aimed at fostering collaboration and knowledge sharing among platform engineering enthusiasts. It provides a space for members to discuss, create, and share content related to platform engineering practices, tools, and technologies.
@@ -36,6 +38,8 @@ See the [Content Club](/initiatives/content-club/) page for more details on the 
 
 ### Platform as a Product
 
+Website: [Platform as a Product](https://cnpe.netlify.app/initiatives/platform-as-a-product/)
+
 #### Overview
 
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
@@ -50,7 +54,9 @@ This effort is ongoing, with regular updates and contributions from the communit
 - Platform as a Product Whitepaper
 - [Featured Blog Posts](/initiatives/platform-as-a-product/#featured-blog-posts)
 
-### [Platform Maturity Model Assessment](/initiatives/platform-maturity-model-assessment/)
+### Platform Maturity Model Assessment
+
+Website: [Platform Maturity Model Assessment](/initiatives/platform-maturity-model-assessment/)
 
 #### Overview
 

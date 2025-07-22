@@ -20,7 +20,7 @@ The initiative is led by members of the Cloud Native Platform Engineering Commun
 
 Deliverables:
 
-- Talks and discussions 
+- Talks and discussions
 - Content
 - Supporting CNCF Initiatives
 
@@ -31,16 +31,19 @@ Deliverables:
 ## Content
 
 ### Featured Blog Posts
+
 - [Product Thinking for Platforms](../../blog/product-thinking-for-platforms.md)
 - [Platform as a Product: Understanding the Personas](../../blog/2025-01-paap-personas/)
 - [Platform As A Product: Getting Into The Mindset With User Stories](../../blog/2024-10-30-paap-mindset-user-stories/)
 - [Platform Engineering in 2024, Industry Trends and Emerging Focus](../../blog/2024-06-20-platform-engineering-pp/)
 
 ### Platform as a Product Research
+
 Our research combines qualitative interviews and quantitative surveys to understand how organizations build platforms, prioritize user needs, and apply product management practices. Insights are shared openly to help the community advance.
 
-The outcome of the research so far was presented on the Platform Engineering Day Europe 2025 in London. You can find the [recording here](https://www.youtube.com/watch?v=DoiaHfl9Y7Y). 
+The outcome of the research so far was presented on the Platform Engineering Day Europe 2025 in London. You can find the [recording here](https://www.youtube.com/watch?v=DoiaHfl9Y7Y).
 
 Learn more about the [Platform as a Product Research here](./../../platform-as-a-product/) or in our blog posts.
+
 - [Platform as a Product Research - Now with a Survey!](../../blog/announce-paap-survey/)
 - [Invitation To Participate in Platform As A Product Research](../../blog/announce-paap-research/)

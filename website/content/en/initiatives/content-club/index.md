@@ -39,38 +39,38 @@ The Content Club was created out of the challenge of how we grow attention of th
 ### February - Team Topologies in the Real World
 
 - Bryan Ross - https://newsletter.bryanross.me/p/team-topologies-in-the-real-world
-- Steve Fenton wrote this great piece about his real-world experiences of applying Team Topologies in a Product & Data team.
-- Matt Menzenski explores the parallels between Team Topologies and Deep Work (two excellent books) and shares his
-- Graziano Casto reminds us that while technical advances are important, the key to successful software development lies in how we organize and enable teams to work together effectively.
-- Dipesh Patel wrote this fun piece comparing platform engineering to the worlds best Christmas movie.
-- Ricardo Bemfica shows how Livelo applies Team Topologies principles by using developer experience surveys to shape platform strategy, ensuring teams are empowered through data-informed collaboration.
+- Steve Fenton wrote this great piece about his real-world experiences of [applying Team Topologies in a Product & Data team](https://www.stevefenton.co.uk/blog/2025/02/real-world-team-topologies/).
+- Matt Menzenski explores the [parallels between Team Topologies and Deep Work](https://menzen.ski/posts/2025/02/15/on-team-topologies-and-deep-work/) (two excellent books).
+- Graziano Casto reminds us that while technical advances are important, the [key to successful software development lies in how we organize and enable teams](https://www.linkedin.com/pulse/behind-engineering-revolution-how-team-topologies-redefining-casto-eiwif/?trackingId=tdnAEygtSISiY0NJI1yH4g%3D%3D) to work together effectively.
+- Dipesh Patel wrote this fun piece [comparing platform engineering to the worlds best Christmas movie](https://dipeshkpatel.substack.com/p/yippee-ki-yay).
+- Ricardo Bemfica shows how Livelo applies Team Topologies principles by [using developer experience surveys to shape platform strategy](https://medium.com/livelo/leveraging-data-for-success-understanding-the-developer-experience-survey-at-livelo-f4a96ed170c6), ensuring teams are empowered through data-informed collaboration.
 
 ### March - Metrics That Matter
 
 - Bryan Ross - https://newsletter.bryanross.me/p/metrics-that-matter
-- Kalle Sirkesalo takes a walk and shares his journey with metrics, from discovering how easily bonus-tied metrics get gamed, to learning how to set effective metrics that influence desired behaviours.
-- Graziano Casto shares his view against blindly adopting frameworks like DORA in favour of tailoring metrics to outcomes specific to your business.
+- Kalle Sirkesalo takes a walk and [shares his journey with metrics](https://www.youtube.com/watch?v=6lxvY3d2E8M), from discovering how easily bonus-tied metrics get gamed, to learning how to set effective metrics that influence desired behaviours.
+- Graziano Casto shares [his view against blindly adopting frameworks](https://www.linkedin.com/pulse/6-art-measuring-what-actually-matters-platform-graziano-casto-rkv3f) like DORA in favour of tailoring metrics to outcomes specific to your business.
 
 ### April - How can AI help your platform engineers?
 
 - Bryan Ross - https://newsletter.bryanross.me/p/ai-strategy-for-platform-engineering
-- Colin Lacy shared a short-form video to describe his vision of a platform enabled LLM.
-- Kalle Sirkesalo created a long-form video where explores how autonomous agents are becoming more capable through retrieval-based memory, open source frameworks, and improved reasoning.
-- Graziano Casto explains how GenAI can help developers navigate complex internal platforms by reducing cognitive load and easing tool fatigue.
+- Colin Lacy [shared a short-form video](https://www.linkedin.com/posts/colinjlacy_platformengineering-contentclub-ai-activity-7313538283592953856-ykvf/?rcm=ACoAAAMBzrkBPjZLcpVcuNMROWlXCt3UKZHFQY4) to describe his vision of a platform enabled LLM.
+- Kalle Sirkesalo created a [long-form video](https://www.youtube.com/watch?v=ZEEldccqVbU) where explores how autonomous agents are becoming more capable through retrieval-based memory, open source frameworks, and improved reasoning.
+- Graziano Casto explains [how GenAI can help developers navigate complex internal platforms](https://www.linkedin.com/pulse/8-platform-fatigue-real-genai-cure-graziano-casto-m0uhf/) by reducing cognitive load and easing tool fatigue.
 
 ### May - What Happens When Platforms Become Mature
 
-- Beyond Launch by Bryan Ross; How to move from “just shipped” to long-term value delivery and platform-as-a-product thinking :point_right::skin-tone-2: https://lnkd.in/d-hPhMcy
-- The Problem of Success by Graziano Casto; When adoption becomes widespread, the original playbook starts to break—how can - platform teams adapt? :point_right::skin-tone-2: https://lnkd.in/dxhZyMjh
-- Fleet Management by Abby Bangser; Drawing lessons from over-the-air car updates :point_right::skin-tone-2: https://lnkd.in/dWCkpZsh
-- Talk by Kalle Sirkesalo (YouTube); A thoughtful look into platform maturity through a real-world lens, full of insights and practical takeaways. :point_right::skin-tone-2: https://lnkd.in/d2Z3XqRE
+- Beyond Launch by Bryan Ross; How to move from “just shipped” to [long-term value delivery and platform-as-a-product thinking](https://lnkd.in/d-hPhMcy)
+- The Problem of Success by Graziano Casto; When adoption becomes widespread, the original playbook starts to break—[how can - platform teams adapt](https://lnkd.in/dxhZyMjh)?
+- Fleet Management by Abby Bangser; [Drawing lessons from over-the-air car updates](https://lnkd.in/dWCkpZsh)
+- Talk by Kalle Sirkesalo (YouTube); [A thoughtful look into platform maturity](https://lnkd.in/d2Z3XqRE) through a real-world lens, full of insights and practical takeaways.
 
 ### June - “non-technical” Platform Engineering
 
 - Bryan Ross - https://newsletter.bryanross.me/p/the-hard-problems-in-tech-arent-technical
-- Atul discusses the broader organizational and cultural readiness required for successful platform adoption, emphasizing that platform engineering is as much about people and processes as it is about tools.
-- Graziano’s “13 Atomic Habits Playbook for Platform Engineers” breaks down reproducible, small-scale practices that platform teams can adopt to improve consistency, collaboration, and impact.
-- Kalle’s video explores the often-overlooked non-technical dimensions of platform success—such as effective communication, team alignment, and habit formation—through the lens of real-world engineering leadership.
+- Atul discusses the [broader organizational and cultural readiness](https://www.linkedin.com/posts/atulpriyasharma_platformengineering-cncf-adoption-activity-7338875241185579009-i7Oa) required for successful platform adoption, emphasizing that platform engineering is as much about people and processes as it is about tools.
+- Graziano’s “[13 Atomic Habits Playbook for Platform Engineers](https://www.linkedin.com/pulse/13-atomic-habits-playbook-platform-engineers-graziano-casto-8qpcf)” breaks down reproducible, small-scale practices that platform teams can adopt to improve consistency, collaboration, and impact.
+- [Kalle’s video](https://youtu.be/BTlzJRgRdSw?si=edqmkhMGiajNExH3) explores the often-overlooked non-technical dimensions of platform success—such as effective communication, team alignment, and habit formation—through the lens of real-world engineering leadership.
 
 ### July - Platform Engineering for Edge Computing
 
