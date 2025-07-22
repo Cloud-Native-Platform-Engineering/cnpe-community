@@ -1,6 +1,5 @@
 ---
 name: Community Meetings
-about: Issues related to scheduling meetings for the CNPE Community.
 description:  Schedule meetings for the CNPE Community.
 title: "[Meetings] YYYY-MM-DD Community Meeting "
 labels: [meeting]
