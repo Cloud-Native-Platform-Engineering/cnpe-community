@@ -15,8 +15,7 @@ planning and designing such platforms.
 v1 was completed in March 2023; improvements and iterations continue in the
 [`latest`](./latest/) directory.
 
-Currently, the edition in the `latest` directory is published to TAG App
-Delivery's website at [](https://cnpe.netlify.app/whitepapers/platforms).
+Currently, the edition in the `latest` directory is published to The Cloud Native Platform Engineering Community's website at [https://cloudnativeplatforms.com/whitepapers/platforms](https://cloudnativeplatforms.com/whitepapers/platforms).
 
 ## Modifying diagrams
 

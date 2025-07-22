@@ -9,13 +9,13 @@ description: Active initiatives and projects that are ready for contribution and
 
 This is where initiatives and projects that are ready for contribution and participation are listed. If you are looking for ways to get involved, this is a great place to start.
 
-For more information on how to submit an Initiative or Project, please see the [Contribute](https://cnpe.netlify.app/contribute/) page.
+For more information on how to submit an Initiative or Project, please see the [Contribute](https://cloudnativeplatforms.com/contribute/) page.
 
 ## Active Initiatives and Projects
 
 ### Content Club
 
-Website: [Content Club](https://cnpe.netlify.app/initiatives/content-club/)
+Website: [Content Club](https://cloudnativeplatforms.com/initiatives/content-club/)
 
 #### Overview
 
@@ -38,7 +38,7 @@ See the [Content Club](/initiatives/content-club/) page for more details on the 
 
 ### Platform as a Product
 
-Website: [Platform as a Product](https://cnpe.netlify.app/initiatives/platform-as-a-product/)
+Website: [Platform as a Product](https://cloudnativeplatforms.com/initiatives/platform-as-a-product/)
 
 #### Overview
 

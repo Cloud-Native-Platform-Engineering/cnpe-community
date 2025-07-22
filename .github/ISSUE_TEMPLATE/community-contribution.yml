@@ -9,7 +9,7 @@ body:
       value: |
         Thanks for proposing a new activity or publication for The Cloud Native Platform Engineering Community and associated Working Groups!
 
-        You are welcome to review the [contribute pages](https://cnpe.netlify.app/contribute/) to understand more about how you can get started and what is expected of any suggested publications.
+        You are welcome to review the [contribute pages](https://cloudnativeplatforms.com/contribute/) to understand more about how you can get started and what is expected of any suggested publications.
   - type: textarea
     attributes:
       label: Contribution Description

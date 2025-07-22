@@ -22,7 +22,7 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 
 - Website: 
   - Staging site: <https://cnpe.netlify.app/>
-  - Production site (not yet deployed): <https://www.cloudnativeplatforms.org/>
+  - Production site (not yet deployed): <https://www.cloudnativeplatforms.com/>
 - CNCF Community Page: TBD
 - Slack channel: [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
 - Mailing list: TBD
@@ -68,7 +68,7 @@ In order to effectively support and manage the diverse needs of the community, w
 
 ## Key Artifacts
 
-See [Artifacts](https://cnpe.netlify.app/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
+See [Artifacts](https://cloudnativeplatforms.com/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
 
 ## Active Initiatives
 
