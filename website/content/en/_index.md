@@ -31,7 +31,6 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 
 ## Community
 
-
 - Website: 
   - Staging site: <https://cnpe.netlify.app/>
   - Production site: <https://www.cloudnativeplatforms.com/>
@@ -45,13 +44,25 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 Every two weeks on Tuesday at 11:00 ET ([convert to your local
 time](https://dateful.com/convert/eastern-time-et?t=11)).
 
+
 <!-- remove until community resources are restored
 Meetings are listed on the [main CNCF calendar](https://www.cncf.io/calendar/)
 as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/). 
 -->
+Next meeting:
+![Community Meeting Preview](/images/meetings/MeetingPreview20250729.png)
 
 - Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
-- Meeting Link: TBD, please check announcments in the Slack channel.
+- Meeting Link / Info:
+    ```
+      Tuesday, June 17 · 11:00am 1100 EST / 4:00pm 1600 BST
+      Google Meet joining info
+      Video call link: https://meet.google.com/str-kvus-uai
+    ```
+- Disclaimers:
+  - The meeting is recorded for the purpose of sharing knowledge and information with the community. By joining the meeting, you consent to being recorded. If you do not wish to be recorded, please inform the organizers before the meeting starts.
+  - Commercial or organizational advocacy is prohibited, and participants must not attempt to influence for personal or business gain.
+  - Attendees must abide by the Linux Foundation & CNCF Code of Conduct
 - Recordings of previous meetings:
   - Prior to June 2025: <https://www.youtube.com/watch?v=tr-A_HreMd4&list=PLjNzvzqUSpxKH8X7wNfYZtkH_ARSeeQH0>
 
@@ -59,13 +70,13 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 
 - Atulpriya Sharma (@techmaharaj)
 - Colin Griffin (@krumware)
-- TBD (@tbd)
-- TBD (@tbd)
-- TBD (@tbd)
+- TBD (pending election)
+- TBD (pending election)
+- TBD (pending election)
 
 ## Committees
 
-In order to effectively support and manage the diverse needs of the community, we have established several committees. Each committee is responsible for specific areas of the community's activities and initiatives.
+In order to effectively support and manage the diverse needs of the community, we may establish committees. Each committee is responsible for specific areas of the community's activities and initiatives.
 
 - TBD
 
