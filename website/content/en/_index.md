@@ -55,7 +55,7 @@ Next meeting:
 - Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
 - Meeting Link / Info:
     ```
-      Tuesday, June 17 · 11:00am 1100 EST / 4:00pm 1600 BST
+      Tuesday, July 29 · 11:00am 1100 EST / 4:00pm 1600 BST
       Google Meet joining info
       Video call link: https://meet.google.com/str-kvus-uai
     ```
