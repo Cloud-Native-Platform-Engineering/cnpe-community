@@ -98,7 +98,7 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 
 | 倡议                                                                 | Leads                                                                 | 更多信息                                                         |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
-| [内部团队](https://www.cloudnativeplatforms.com/initiatives/content-club/)   | <https://www.cloudnativeplatforms.com/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/content-club/> |
+| [内容团队](https://www.cloudnativeplatforms.com/initiatives/content-club/)   | <https://www.cloudnativeplatforms.com/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/content-club/> |
 | [平台即产品 PaaP](https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/> |
 | [成熟度模型评估](https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/> |
 
