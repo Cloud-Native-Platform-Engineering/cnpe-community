@@ -1,11 +1,11 @@
 ---
-title: "Platform as a Product"
+title: "PaaP 平台即产品"
 description: "The Platform as a Product (PaaP) Initiative advances Product Thinking in platform engineering by treating internal platforms as products and platform users as customers, through research, content, and community discussions."
 type: initiatives
 url: initiatives/platform-as-a-product
 ---
 
-## About
+## 关于
 
 The **Platform as a Product (PaaP) Initiative** is dedicated to advancing Product Thinking in platform engineering. Our mission is to help platform teams treat their internal platforms as products and their users as customers, ensuring platforms deliver real value and meet user needs.
 
@@ -23,20 +23,20 @@ Deliverables:
 - Content
 - Supporting CNCF Initiatives
 
-## Contributing
+## 贡献
 
 **Get involved:** Join our [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) in the [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) channel. The Platform as a Product initiative is part of the general Cloud Native Platform Engineering Community Group, which holds meetings every two weeks that are open to all. See the [schedule here](../_index.md).
 
-## Content
+## 内容
 
-### Featured Blog Posts
+### 特色博客文章
 
 - [Product Thinking for Platforms](../../blog/product-thinking-for-platforms.md)
 - [Platform as a Product: Understanding the Personas](../../blog/2025-01-paap-personas/)
 - [Platform As A Product: Getting Into The Mindset With User Stories](../../blog/2024-10-30-paap-mindset-user-stories/)
 - [Platform Engineering in 2024, Industry Trends and Emerging Focus](../../blog/2024-06-20-platform-engineering-pp/)
 
-### Platform as a Product Research
+### 平台即产品研究
 
 Our research combines qualitative interviews and quantitative surveys to understand how organizations build platforms, prioritize user needs, and apply product management practices. Insights are shared openly to help the community advance.
 
