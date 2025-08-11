@@ -50,15 +50,15 @@ Meetings are listed on the [main CNCF calendar](https://www.cncf.io/calendar/)
 as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/). 
 -->
 Next meeting:
-![Community Meeting Preview](/images/meetings/MeetingPreview20250729.png)
+<!--![Community Meeting Preview](/images/meetings/MeetingPreview20250729.png)-->
 
-- Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
-- Meeting Link / Info:
+- Next Meeting: Tuesday, August 12 · 11:00am 1100 EST / 4:00pm 1600 BST
+- Next Meeting Link / Info:
     ```
-      Tuesday, July 29 · 11:00am 1100 EST / 4:00pm 1600 BST
       Google Meet joining info
       Video call link: https://meet.google.com/str-kvus-uai
     ```
+- Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
 - Disclaimers:
   - The meeting is recorded for the purpose of sharing knowledge and information with the community. By joining the meeting, you consent to being recorded. If you do not wish to be recorded, please inform the organizers before the meeting starts.
   - Commercial or organizational advocacy is prohibited, and participants must not attempt to influence for personal or business gain.
