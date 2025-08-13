@@ -9,12 +9,13 @@ tags:
 - Community Contributions
 ---
 
-# From Chaos to Clarity: Navigating Observability in the Platform Engineering Era (and a Dash of AI)
+> There was a great energy at KCD New York this year, and for me, a personal highlight was leading a roundtable on observability. It was a fascinating discussion that really got me thinking about the challenges we're all facing in the platform engineering space. Here's a recap of the key problems and promising ideas that came up.
+
+## Introduction
 
 It was an absolute pleasure recently to moderate a roundtable at [KCD New York](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2025/), diving deep into the fascinating (and let's be honest, sometimes frustrating) world where **Platform Engineering meets Observability**. As my first time moderating a roundtable, I was genuinely thrilled by the energy and candid participation from everyone in the room. A huge thank you to all the participants: [Michel Murabito](https://www.linkedin.com/in/mich-murabito/), [Colin Lacy](https://www.linkedin.com/in/colinjlacy/), [Tiara Sykes](https://www.linkedin.com/in/tiara-sykes/), [Andrew Espira](https://www.linkedin.com/in/andrew-espira/), [Mariia Rudenko](https://www.linkedin.com/in/mariia-r-748931163/), [Aderianna Williams](https://www.linkedin.com/in/at-williams/), [Marino Wijay](https://www.linkedin.com/in/mwijay/), and [Maria Ashby](https://www.linkedin.com/in/maria-ashby/) whose insights made this discussion truly invaluable. We had an incredibly insightful exchange, and I walked away with some serious food for thought.
 
 <img src="../assets/kcd-nyc-pe-roundtable.jpeg" width=400px />
-
 
 We kicked off by acknowledging a universal truth in today's cloud-native landscape: managing a full observability stack often feels like trying to hit a moving target. The more we aim to observe, the more inherent complexity seems to creep in. We continuously pile on tools, data, and dashboards--be it metrics, traces, logs, or profiling – and suddenly, we're swimming in a sea of cognitive load, entropy, and quite often, plain old confusion. So, instead of me listing the common headaches, I threw it open to the room: "When you think about managing a full observability stack, across logs, metrics, traces, and so on, what are your biggest pain points? If you had to name the biggest challenge your team is facing with observability right now, what would it be?"
 
