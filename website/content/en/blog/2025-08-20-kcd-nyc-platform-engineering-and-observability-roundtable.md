@@ -1,7 +1,7 @@
 ---
 title: "From Chaos to Clarity: Navigating Observability in the Platform Engineering Era (and a Dash of AI)"
 slug: kcd-nyc-platform-engineering-and-observability-roundtable
-date: XXXX-XX-XX 12:00:00 +0000
+date: 2025-08-20 12:00:00 +0000
 author: Graziano Casto
 categories:
 - Article
