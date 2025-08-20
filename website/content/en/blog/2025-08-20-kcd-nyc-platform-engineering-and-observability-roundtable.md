@@ -9,7 +9,7 @@ tags:
 - Community Contributions
 ---
 
-> There was a great energy at KCD New York this year, and for me, a personal highlight was leading a roundtable on observability. It was a fascinating discussion that really got me thinking about the challenges we're all facing in the platform engineering space. Here's a recap of the key problems and promising ideas that came up.
+> There was a great energy at KCD New York this year, and for Graziano Casto, a personal highlight was leading a roundtable on observability. It was a fascinating discussion that really got him thinking about the challenges we're all facing in the platform engineering space. Here is Graziano's recap of the key problems and promising ideas that came up.
 
 ## Introduction
 
