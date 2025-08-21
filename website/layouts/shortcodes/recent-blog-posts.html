@@ -1,0 +1,38 @@
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ $posts = where $posts "Kind" "page" }}
+{{ $posts = where $posts "Params.date" "!=" nil }}
+{{ $posts = sort $posts "Params.date" "desc" }}
+{{ $posts = first 3 $posts }}
+
+<div class="recent-blog-posts">
+  <h2>Recent Blog Posts</h2>
+  <div class="row">
+    {{ range $posts }}
+    <div class="col-12 mb-4">
+      <a href="{{ .RelPermalink }}" class="card-link">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">
+              {{ .Title }}
+            </h5>
+            <p class="card-text text-muted small">
+              {{ .Date.Format "January 2, 2006" }}
+              {{ with .Params.author }}
+                by {{ . }}
+              {{ end }}
+            </p>
+            <p class="card-text">
+              {{ if .Summary }}
+                {{ .Summary | truncate 200 }}
+              {{ else }}
+                {{ .Content | plainify | truncate 200 }}
+              {{ end }}
+            </p>
+            <span class="read-more-text">Read More →</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
