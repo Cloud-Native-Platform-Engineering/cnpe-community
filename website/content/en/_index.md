@@ -29,6 +29,10 @@ Our members represent many diverse roles and personas, including:
 
 For examples of Platform Personas see: [Platform as a Product: Understanding the Personas](https://www.cloudnativeplatforms.com/blog/paap-personas/)
 
+## Recent Blog Contributions
+
+{{< recent-blog-posts >}}
+
 ## Community
 
 - Website: 
