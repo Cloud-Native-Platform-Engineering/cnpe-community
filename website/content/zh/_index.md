@@ -1,49 +1,106 @@
 ---
-title: "CNCF 应用交付 TAG "
+title: "云原生平台社区"
 list_pages: true
 ---
 
 <div class="row mt-5 mb-3">
-    <div class="col-lg-6">
-        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Community logo" style="max-width: 300px;">
-    </div>
-    <div class="col-lg-6">
-        <div class="lead">
-        与交付云原生应用程序相关的项目和计划，包括构建、打包、部署、管理和运行这些应用程序。
-        </div>
+    <div style="width: 100%">
+        <img src="/images/cnpe-community-banner-large.png" alt="云原生平台工程社区 logo" style="width: 100%">
     </div>
 </div>
 
-本 TAG 收集云原生应用开发者、平台工程师和最终用户的反馈意见，并将其与该领域的项目分享，同时为最终用户提供指导和范例。
+云原生平台工程工作组社区是一个对构建和操作云原生平台实践感兴趣的从业者、供应商和最终用户的社区。社区专注于共享知识、最佳实践和工具，以帮助组织有效地构建和运营云原生平台。
 
-本 TAG 支持与其章程相关的项目，例如[CNCF 全景图](https://landscape.cncf.io/card-mode) 中
-[应用定义和镜像构建](https://landscape.cncf.io/card-mode?category=application-definition-image-build&project=hosted)、
-[持续集成和交付](https://landscape.cncf.io/card-mode?category=continuous-integration-delivery&project=hosted)
-以及 [容器注册](https://landscape.cncf.io/card-mode?category=container-registry&project=hosted)的项目。
+本社区向任何对云原生平台工程感兴趣的人开放，无论其经验水平或专业知识如何。社区是从业者分享他们的经验、提出问题并互相学习的地方。
 
-本 TAG 目前有两个活跃的工作组 - [平台工作组](./wgs/platforms/) 和 [制品工作组](./wgs/artifacts/)。
+## 范围
+
+本社区主要聚焦于 CNCF 生态系统中的云原生平台工程及其实践支持。社区不专注于任何特定的技术或供应商，而是关注构建和运维云原生平台的实践。
+
+我们的成员代表着许多不同的角色和角色，包括：
+
+- 平台消费者 /最终用户
+- 平台开发人员，维护人员和提供商
+- 内部服务提供商
+- 项目维护者和贡献者
+- 在安全，网络，存储等其他领域的专家，他们对工作如何适合平台工程实践感兴趣
+
+有关平台角色的示例，请参见：[平台即产品：了解角色](https://www.cloudnativeplatforms.com/blog/paap-personas/)
+
+
+## 社区
+
+- 网站： 
+  - 预发环境: <https://cnpe.netlify.app/>
+  - 生产环境: <https://www.cloudnativeplatforms.com/>
+- CNCF 社区页面: 待更新
+- Slack 频道: [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
+- 邮件列表: 待更新
+- LinkedIn 主页: <https://www.linkedin.com/company/cloud-native-platforms/>
 
 ## 会议
 
-每两周的星期三 11:00 ET（[转换为当地时间](https://dateful.com/convert/eastern-time-et?t=11)）。
+双周二 11:00 ET ([转换为你的当地时间](https://dateful.com/convert/eastern-time-et?t=11)).
 
-会议会在 [CNCF 主日历](https://www.cncf.io/calendar/) 和 [CNCF 社区日历](https://community.cncf.io/tag-app-delivery/)上列出。
 
-* [议程和说明](https://docs.google.com/document/d/1OykvqvhSG4AxEdmDMXilrupsX2n1qCSJUWwTc3I7AOs/edit#)
-* [Zoom 会议](https://zoom-lfx.platform.linuxfoundation.org/meeting/98590236563?password=b0335b64-4162-4499-bb61-ff2c7dec2724)
-* [历史会议纪要](https://www.youtube.com/playlist?list=PLjNzvzqUSpxJ0JfD6vrdF5bsuBaJQ2BRT)
+<!-- remove until community resources are restored
+Meetings are listed on the [main CNCF calendar](https://www.cncf.io/calendar/)
+as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/). 
+-->
+下次会议：
+![社区会议预告](/images/meetings/MeetingPreview20250729.png)
 
-## 领导者
+- 议程和记录: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
+- 会议链接/信息:
+    ```
+      7月29日，周二 ·11:00am 1100 EST / 4:00pm 1600 BST
+      Google Meet 入会信息
+      视频通话链接: https://meet.google.com/str-kvus-uai
+    ```
+- 免责声明：
+  - 会议记录及视频录制是为了与社区共享知识和信息。加入会议，即表示您同意被记录。如果您不希望被记录，请在会议开始之前通知组织者。
+  - 禁止商业或组织宣传，参与者不得试图影响个人或企业利益。
+  - 与会者必须遵守 Linux 基金会和 CNCF 的行为准则
+- 会议历史记录：
+  - 2025年6月以前： <https://www.youtube.com/watch?v=tr-A_HreMd4&list=PLjNzvzqUSpxKH8X7wNfYZtkH_ARSeeQH0>
 
-- [Thomas Schuetz](https://github.com/thschue) （主席
-- [Lian Li](https://github.com/lianmakesthings) (主席)
-- [Roberth Strand](https://github.com/roberthstrand) (主席)
+## 组织者/Leads/联合主席
 
-### 更多资源
+- Atulpriya Sharma (@techmaharaj)
+- Colin Griffin (@krumware)
+- 待定 （即将选举）
+- 待定 （即将选举）
+- 待定 （即将选举）
 
-- [TAG 章程](https://github.com/cncf/toc/blob/main/tags/tag-charters/app-delivery.md)
-- Slack 频道： [#tag-app-delivery](https://cloud-native.slack.com/messages/CL3SL0CP5)
-    - [邀请你自己加入 CNCF Slack](https://slack.cncf.io/)
-- [邮件列表](https://lists.cncf.io/g/cncf-tag-app-delivery/topics)
+## 委员会
 
-<p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="使用电脑工作的人"></p>
+为了有效地支持和管理社区的各种需求，我们可以建立委员会。每个委员会负责社区活动和倡议的特定领域。
+
+- 待更新
+
+## TOC 联络
+
+- 待更新
+
+## 名誉 Leads
+
+- Abby Bangser (@abangser)
+- Josh Gavant (@joshgav)
+
+## 关键输出
+
+有关社区的关键输出列表，请参见本站的[输出](/artifacts/)部分。其中包括白皮书、演示文稿和其他资源，这些资源对希望建立和操作云原生平台的从业者和组织有用。
+
+
+### 积极倡议
+
+社区帮助协调对更广泛平台工程社区有利的特定计划。其中一些举措是由社区领导的，而其他举措可能存在于CNCF技术咨询小组（TAGs）下。
+
+| 倡议                                                                 | Leads                                                                 | 更多信息                                                         |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [内容团队](https://www.cloudnativeplatforms.com/initiatives/content-club/)   | <https://www.cloudnativeplatforms.com/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/content-club/> |
+| [平台即产品 PaaP](https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms.com/initiatives/platform-as-a-product/> |
+| [成熟度模型评估](https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/initiatives/platform-maturity-model-assessment/> |
+
+
+<p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="在电脑前工作的人"></p>
