@@ -4,8 +4,10 @@ slug: navigating-platform-engineering
 date:   2025-09-02 01:00:00 +0000
 author: Steve Fenton
 categories:
+- Article
 tags:
 - WG Platforms
+- Community Contributions
 ---
 
 The [CNCF Platform Engineering community](https://cloudnativeplatforms.com) has been working on an assessment to accompany the [Platform Engineering Maturity Model](https://cloudnativeplatforms.com/whitepapers/platform-eng-maturity-model/). It's now available as a preview for feedback, but it's crucial to understand its purpose to know what it can do for you and what you need to put in once you get your score.
