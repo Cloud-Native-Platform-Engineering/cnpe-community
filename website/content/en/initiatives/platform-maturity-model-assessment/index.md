@@ -8,6 +8,7 @@ url: initiatives/platform-maturity-model-assessment
 ## About
 
 ### Participants / Leadership:
+
 - Corbin Pacheco
 - Steve Fenton
 - Chris Plank
