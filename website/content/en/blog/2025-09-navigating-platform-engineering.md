@@ -30,6 +30,8 @@ In orienteering, a map is your window into the landscape. It shows you the conto
 
 The Platform Engineering maturity model works the same way. It's a detailed map that describes the features of the Platform Engineering landscape. It has the organizational structures, the technical capabilities, the process maturity levels, and the cultural elements that define different stages of platform evolution. It shows you what "good" looks like at various levels of sophistication.
 
+![A diagram showing a typical growth pattern for platform adoption: A slow start, and a tipping point where the value is sufficient to cause growth to be pulled by platform users](/images/maturity-growth-pattern.png)
+
 What a map doesn't tell you is where you are right now, or where you want to go. When it comes to your destination, it's your journey, so it's for you to decide. We're each heading somewhere different, and that's as true for Platform Engineering maturity as it is for choosing whether to head to a peaceful lakeside clearing or push for the challenging summit.
 
 Some organizations want to reach the beach: a stable, reliable platform that serves their current needs without unnecessary complexity. Others are drawn to the heady heights of mountains, pursuing cutting-edge capabilities and pushing the boundaries of what's possible with Platform Engineering. Both destinations are valid; the map just helps you understand the terrain that lies between you and your next waypoint.
@@ -61,4 +63,3 @@ The assessment gives you the essential foundation: a clear understanding of wher
 You can help by [trying the assessment](https://cloud-native-platform-engineering.github.io/pemm-assessment/) and [giving us feedback](https://docs.google.com/forms/d/e/1FAIpQLScXru41BVVQDipxuSCQaNmo0GcBpBM8jHhDbX3pQskJXFgV8A/viewform).
 
 To learn more about what's happening in the platform engineering community, join our [Slack Channel](https://cloud-native.slack.com/archives/C020RHD43BP) and follow [our LinkedIn page](https://www.linkedin.com/company/cloud-native-platforms/).
-
