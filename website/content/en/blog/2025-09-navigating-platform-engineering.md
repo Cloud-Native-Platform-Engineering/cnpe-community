@@ -58,6 +58,24 @@ The assessment might prompt you about your intended destination and offer some g
 
 When we add more detailed recommendations in future versions, those recommendations will remain general enough to require customization. There's always space for the next steps to be tailored by people who understand your organization's unique context, constraints, and goals. After all, no two orienteering courses are exactly alike, and neither are any two Platform Engineering transformations.
 
+## Prototype assessment feedback
+
+We are open to feedback for all elements of the assessment. For example:
+
+- Are the questions and answer options clear?
+- Did the result match your expectation?
+- Are the visualizations helpful or should we try something else?
+
+The assessment scores responses for each category in the maturity model. This information is shown in three ways in the assessment's output.
+
+1. **Spider chart**: Uses the average score in each category to highlight strengths and weaknesses.
+2. **Matrix**: Plots answer density to show the spread within each category.
+3. **Table**: Displays average scores per category.
+
+![A diagram showing a typical growth pattern for platform adoption: A slow start, and a tipping point where the value is sufficient to cause growth to be pulled by platform users](/images/assessment-result.png)
+
+## Helping you navigate
+
 The assessment gives you the essential foundation: a clear understanding of where you stand and the possible paths forward. From there, the art of navigation, whether through forests or platform transformations, remains a uniquely human skill.
 
 You can help by [trying the assessment](https://cloud-native-platform-engineering.github.io/pemm-assessment/) and [giving us feedback](https://docs.google.com/forms/d/e/1FAIpQLScXru41BVVQDipxuSCQaNmo0GcBpBM8jHhDbX3pQskJXFgV8A/viewform).
