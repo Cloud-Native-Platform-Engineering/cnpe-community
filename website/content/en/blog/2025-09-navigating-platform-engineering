@@ -12,6 +12,8 @@ tags:
 
 The [CNCF Platform Engineering community](https://cloudnativeplatforms.com) has been working on an assessment to accompany the [Platform Engineering Maturity Model](https://cloudnativeplatforms.com/whitepapers/platform-eng-maturity-model/). It's now available as a preview for feedback, but it's crucial to understand its purpose to know what it can do for you and what you need to put in once you get your score.
 
+The assessment is a series of multiple-choice questions that takes around 20 minutes to complete. It runs in your browser and no data is shared. Once complete, you'll get a report card that shows you where you sit within the Platform Engineering Maturity Model.
+
 Help us out by [trying out the assessment](https://cloud-native-platform-engineering.github.io/pemm-assessment/) and [giving us feedback](https://docs.google.com/forms/d/e/1FAIpQLScXru41BVVQDipxuSCQaNmo0GcBpBM8jHhDbX3pQskJXFgV8A/viewform).
 
 ## Platform orienteering
@@ -57,3 +59,6 @@ When we add more detailed recommendations in future versions, those recommendati
 The assessment gives you the essential foundation: a clear understanding of where you stand and the possible paths forward. From there, the art of navigation, whether through forests or platform transformations, remains a uniquely human skill.
 
 You can help by [trying the assessment](https://cloud-native-platform-engineering.github.io/pemm-assessment/) and [giving us feedback](https://docs.google.com/forms/d/e/1FAIpQLScXru41BVVQDipxuSCQaNmo0GcBpBM8jHhDbX3pQskJXFgV8A/viewform).
+
+To learn more about what's happening in the platform engineering community, join our [Slack Channel](https://cloud-native.slack.com/archives/C020RHD43BP) and follow [our LinkedIn page](https://www.linkedin.com/company/cloud-native-platforms/).
+
