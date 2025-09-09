@@ -56,7 +56,7 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 Next meeting:
 <!--![Community Meeting Preview](/images/meetings/MeetingPreview20250729.png)-->
 
-- Next Meeting: Tuesday, August 26 · 11:00am 1100 EST / 4:00pm 1600 BST
+- Next Meeting: Tuesday, September 9th · 11:00am 1100 EST / 4:00pm 1600 BST
 - Next Meeting Link / Info:
     ```
       Google Meet joining info
