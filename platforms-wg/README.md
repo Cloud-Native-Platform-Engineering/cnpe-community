@@ -2,7 +2,7 @@
 
 ## Note:
 
-This working group has been archived and replaced by the Platform Engineering Community Technical Community Group.
+This working group has been archived and replaced by the [Platform Engineering Community Technical Community Group](https://github.com/cncf/communitygroups/issues/399).
 
 This page is representative of the Platforms WG at time of archival, so the information below may be out of date.
 
