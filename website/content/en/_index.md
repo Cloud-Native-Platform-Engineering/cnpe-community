@@ -72,11 +72,13 @@ Next meeting:
 
 ## Organizers / Leads / Co-Chairs
 
+(in alphabetical order)
+
 - Atulpriya Sharma (@techmaharaj)
 - Colin Griffin (@krumware)
-- TBD (pending election)
-- TBD (pending election)
-- TBD (pending election)
+- Chris Plank (@ChrisPlank)
+- Humble Devassy Chirammal (@humblec)
+- Katie Greenley (@k8tgreenley)
 
 ## Committees
 
