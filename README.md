@@ -45,11 +45,13 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 
 ## Organizers / Leads / Co-Chairs
 
+(in alphabetical order)
+
 - Atulpriya Sharma (@techmaharaj)
 - Colin Griffin (@krumware)
-- TBD (@tbd)
-- TBD (@tbd)
-- TBD (@tbd)
+- Chris Plank (@ChrisPlank)
+- Humble Devassy Chirammal (@humblec)
+- Katie Greenley (@k8tgreenley)
 
 ## Committees
 

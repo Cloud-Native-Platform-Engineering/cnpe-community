@@ -4,6 +4,14 @@ list_pages: true
 ---
 # 平台工作组
 
+## Note:
+
+This working group has been archived and replaced by the [Platform Engineering Community Technical Community Group](https://github.com/cncf/communitygroups/issues/399).
+
+This page is representative of the Platforms WG at time of archival, so the information below may be out of date.
+
+## Charter
+
 The [charter](./charter) describes the mission and tactics of the Platforms working group (WG).
 To participate join us on Slack at
 [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP)
