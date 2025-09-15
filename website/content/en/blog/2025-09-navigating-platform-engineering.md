@@ -1,7 +1,7 @@
 ---
 title:  "Navigating Platform Engineering with the maturity model assessment"
 slug: navigating-platform-engineering
-date:   2025-09-02 01:00:00 +0000
+date:   2025-09-15 01:00:00 +0000
 author: Steve Fenton
 categories:
 - Article
