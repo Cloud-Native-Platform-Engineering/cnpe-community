@@ -38,9 +38,8 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 - Website: 
   - Staging site: <https://cnpe.netlify.app/>
   - Production site: <https://www.cloudnativeplatforms.com/>
-- CNCF Community Page: TBD
+- CNCF Community Page: <https://community.cncf.io/platform-engineering-technical-community-group/>
 - Slack channel: [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
-- Mailing list: TBD
 - LinkedIn Page: <https://www.linkedin.com/company/cloud-native-platforms/>
 
 ## Meetings
@@ -62,13 +61,13 @@ Next meeting:
       Google Meet joining info
       Video call link: https://meet.google.com/str-kvus-uai
     ```
-- Agenda and Notes: <https://docs.google.com/document/d/1_smeS9-j-SuHJi0VXjx4g9xiD2-tgqhnlwf5oSMDQgg/edit#>
 - Disclaimers:
-  - The meeting is recorded for the purpose of sharing knowledge and information with the community. By joining the meeting, you consent to being recorded. If you do not wish to be recorded, please inform the organizers before the meeting starts.
+  - Meetings are recorded for the purpose of sharing knowledge and information with the community. By joining the meeting, you consent to being recorded. If you do not wish to be recorded, please inform the organizers before the meeting starts.
   - Commercial or organizational advocacy is prohibited, and participants must not attempt to influence for personal or business gain.
   - Attendees must abide by the Linux Foundation & CNCF Code of Conduct
 - Recordings of previous meetings:
-  - Prior to June 2025: <https://www.youtube.com/watch?v=tr-A_HreMd4&list=PLjNzvzqUSpxKH8X7wNfYZtkH_ARSeeQH0>
+  - Prior to June 2025 - Youtube channel @cncf-tag-app-delivery: <https://www.youtube.com/@cncf-tag-app-delivery/videos>
+  - After June 2025 - Youtube channel @CloudNativePlatforms: <https://www.youtube.com/@CloudNativePlatforms/videos>
 
 ## Organizers / Leads / Co-Chairs
 
@@ -84,7 +83,9 @@ Next meeting:
 
 In order to effectively support and manage the diverse needs of the community, we may establish committees. Each committee is responsible for specific areas of the community's activities and initiatives.
 
-- TBD
+- Content Club
+- Platform as a Product
+- Platform Engineering Maturity Model Assessment
 
 ## TOC Liaisons
 
