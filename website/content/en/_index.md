@@ -1,15 +1,15 @@
 ---
-title: "Cloud Native Platforms Community"
+title: "CNCF Platform Engineering Technical Community Group"
 list_pages: true
 ---
 
 <div class="row mt-5 mb-3">
     <div style="width: 100%">
-        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Community logo" style="width: 100%">
+        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Technical Community Group logo" style="width: 100%">
     </div>
 </div>
 
-The Cloud Native Platform Engineering Working Group Community is a community of practitioners, vendors, and end-users who are interested in the practice of building and operating cloud native platforms. The community is focused on sharing knowledge, best practices, and tools to help organizations build and operate cloud native platforms effectively.
+The CNCF Platform Engineering Technical Community Group is a community of practitioners, vendors, and end-users who are interested in the practice of building and operating cloud native platforms. The community is focused on sharing knowledge, best practices, and tools to help organizations build and operate cloud native platforms effectively.
 
 The community is open to anyone who is interested in cloud native platform engineering, regardless of their level of experience or expertise. The community is a place for practitioners to share their experiences, ask questions, and learn from each other.
 
