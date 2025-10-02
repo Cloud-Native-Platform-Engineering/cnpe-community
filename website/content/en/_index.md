@@ -55,12 +55,9 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 Next meeting:
 <!--![Community Meeting Preview](/images/meetings/MeetingPreview20250729.png)-->
 
-- Next Meeting: Tuesday, September 9th · 11:00am 1100 EST / 4:00pm 1600 BST
+- Next Meeting: Every other Tuesday · 11:00am 1100 EST / 4:00pm 1600 BST
 - Next Meeting Link / Info:
-    ```
-      Google Meet joining info
-      Video call link: https://meet.google.com/str-kvus-uai
-    ```
+    Register for meetings on the community group page at <https://community.cncf.io/platform-engineering-technical-community-group/>
 - Disclaimers:
   - Meetings are recorded for the purpose of sharing knowledge and information with the community. By joining the meeting, you consent to being recorded. If you do not wish to be recorded, please inform the organizers before the meeting starts.
   - Commercial or organizational advocacy is prohibited, and participants must not attempt to influence for personal or business gain.
