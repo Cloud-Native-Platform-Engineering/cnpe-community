@@ -1,5 +1,5 @@
 baseURL = "https://cloudnativeplatforms.com/"
-title = "Cloud Native Platform Engineering Community"
+title = "CNCF Cloud Native Platform Engineering Technical Community Group"
 
 # Language settings
 contentDir = "content/en"
