@@ -17,7 +17,7 @@ I'm Ken Komazawa, Chief Architect at Red Hat.
 Today, I'd like to share details about the Cloud Native Platform Engineering Japan Kickoff held on December 8th.
 This marks the **first** event of its kind in Japan organized by the CNCF community focused on platform engineering.
 
-This event is organized by Cloud Native Platform Engineering Japan, a SIG of Cloud Native Community Japan (CNCJ), which is the Japanese chapter of the CNCF.
+This event is organized by Cloud Native Platform Engineering Japan, a SIG of Cloud Native Community Japan ([CNCJ](https://community.cncf.io/cloud-native-community-japan/)), which is the Japanese chapter of the CNCF.
 The group's mission is to "spread awareness about platform engineering from the CNCF's perspective!
 Let practitioners gather to share insights, collaborate closely with upstream projects, and connect Japan with the world!"
 
