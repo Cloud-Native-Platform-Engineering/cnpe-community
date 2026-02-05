@@ -95,7 +95,7 @@ In order to effectively support and manage the diverse needs of the community, w
 
 ## Key Artifacts
 
-See [Artifacts](/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
+See [Resources](/resources/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
 
 ## Active Initiatives
 
