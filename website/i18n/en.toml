@@ -30,5 +30,5 @@ other = "Select All"
 other = "Deselect All"
 
 # Recent blog posts shortcode. Used if no read_more global param is provided.
-#[read_more]
-#other = "Read More →"
+[read_more]
+other = "Read More →"

@@ -3,7 +3,7 @@
 {{ $posts = where $posts "Params.date" "!=" nil }}
 {{ $posts = sort $posts "Params.date" "desc" }}
 {{ $posts = first 3 $posts }}
-{{ $defaultReadMore := default ( .Site.Params.read_more | default ( i18n "read_more" | default "Read More →" ))}}
+{{ $defaultReadMore := or .Site.Params.read_more (i18n "read_more") "Read More →" }}
 
 <div class="recent-blog-posts">
   <div class="row">
