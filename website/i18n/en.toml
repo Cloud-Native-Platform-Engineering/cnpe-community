@@ -28,3 +28,7 @@ other = "...or browse by tag"
 other = "Select All"
 [ui_deselect_all]
 other = "Deselect All"
+
+# Recent blog posts shortcode. Used if no read_more global param is provided.
+[read_more]
+other = "Read More →"
