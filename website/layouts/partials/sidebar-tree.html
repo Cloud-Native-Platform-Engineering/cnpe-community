@@ -1,12 +1,12 @@
 {{/* We cache this partial for bigger sites and set the active class client side. */}}
 {{ $sidebarCacheLimit := cond (isset .Site.Params.ui "sidebar_cache_limit") .Site.Params.ui.sidebar_cache_limit 2000 -}}
 {{ $shouldDelayActive := ge (len .Site.Pages) $sidebarCacheLimit -}}
-{{ $navRoot := cond (and (ne .Params.toc_root true) (eq .Site.Home.Type "docs")) .Site.Home .FirstSection -}}
-
-{{/* For non-English languages, use the English page tree so the sidebar always shows all pages */}}
+{{/* Always use site home as the sidebar root so all sections are visible */}}
 {{ $currentLang := .Language.Lang -}}
 {{ $isNonEnglish := ne $currentLang "en" -}}
+{{ $navRoot := .Site.Home -}}
 {{ if $isNonEnglish -}}
+  {{/* For non-English languages, use the English page tree so the sidebar always shows all pages */}}
   {{ range .Sites -}}
     {{ if eq .Language.Lang "en" -}}
       {{ $navRoot = .Home -}}
@@ -88,13 +88,20 @@
 {{ $pages := $pages_tmp | first $sidebarMenuTruncate -}}
 {{ $withChild := gt (len $pages) 0 -}}
 
-{{/* Compute the link: use translated page URL if available, otherwise English URL */}}
+{{/* Compute the link and title: use translated page if available, otherwise prefix English URL with language */}}
 {{ $resolvedLink := $s.RelPermalink -}}
+{{ $resolvedTitle := $s.LinkTitle -}}
 {{ if ne $currentLang "en" -}}
+  {{ $hasTranslation := false -}}
   {{ range $s.Translations -}}
     {{ if eq .Language.Lang $currentLang -}}
       {{ $resolvedLink = .RelPermalink -}}
+      {{ $resolvedTitle = .LinkTitle -}}
+      {{ $hasTranslation = true -}}
     {{ end -}}
+  {{ end -}}
+  {{ if not $hasTranslation -}}
+    {{ $resolvedLink = printf "/%s%s" $currentLang $s.RelPermalink -}}
   {{ end -}}
 {{ end -}}
 
@@ -103,9 +110,9 @@
 <li class="td-sidebar-nav__section-title td-sidebar-nav__section{{ if $withChild }} with-child{{ else }} without-child{{ end }}{{ if $activePath }} active-path{{ end }}{{ if (not (or $show $p.Site.Params.ui.sidebar_menu_foldable )) }} collapse{{ end }}" id="{{ $mid }}-li">
   {{ if (and $p.Site.Params.ui.sidebar_menu_foldable (ge $ulNr 1)) -}}
   <input type="checkbox" id="{{ $mid }}-check"{{ if $activePath}} checked{{ end }}/>
-  <label for="{{ $mid }}-check"><a href="{{ $manualLink }}"{{ if ne $s.LinkTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left pl-0 {{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}">{{ with $s.Params.Icon}}<i class="{{ . }}"></i>{{ end }}<span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span></a></label>
+  <label for="{{ $mid }}-check"><a href="{{ $manualLink }}"{{ if ne $resolvedTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left pl-0 {{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}">{{ with $s.Params.Icon}}<i class="{{ . }}"></i>{{ end }}<span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $resolvedTitle }}</span></a></label>
   {{ else -}}
-  <a href="{{ $manualLink }}"{{ if ne $s.LinkTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left pl-0{{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}">{{ with $s.Params.Icon}}<i class="{{ . }}"></i>{{ end }}<span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $s.LinkTitle }}</span></a>
+  <a href="{{ $manualLink }}"{{ if ne $resolvedTitle $manualLinkTitle }} title="{{ $manualLinkTitle }}"{{ end }}{{ with $s.Params.manualLinkTarget }} target="{{ . }}"{{ if eq . "_blank" }} rel="noopener"{{ end }}{{ end }} class="align-left pl-0{{ if $active}} active{{ end }} td-sidebar-link{{ if $s.IsPage }} td-sidebar-link__page{{ else }} td-sidebar-link__section{{ end }}{{ if $treeRoot }} tree-root{{ end }}" id="{{ $mid }}">{{ with $s.Params.Icon}}<i class="{{ . }}"></i>{{ end }}<span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">{{ $resolvedTitle }}</span></a>
   {{- end }}
   {{- if $withChild }}
   {{- $ulNr := add $ulNr 1 }}
