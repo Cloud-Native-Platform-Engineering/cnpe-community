@@ -4,6 +4,7 @@ description: "Defines key terms used in the Platforms Working Group's writings."
 type: whitepapers
 url: resources/glossary/v1
 list_pages: false
+# use toc_hide to hide this section from the sidebar
 toc_hide: true
 versions:
   - url: /resources/glossary/

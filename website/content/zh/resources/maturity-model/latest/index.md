@@ -7,15 +7,13 @@ This document refers to, enhances, and follows similar standards as the followin
 [Cloud Maturity Model](https://maturitymodel.cncf.io/)<br/>
 [Platforms Definition White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)"
 type: whitepapers
-url: whitepapers/platform-eng-maturity-model/v1
-toc_hide: true
-list_pages: false
+url: whitepapers/platform-eng-maturity-model
 versions:
   - url: /whitepapers/platform-eng-maturity-model/
     version: latest
+    active: true
   - url: /whitepapers/platform-eng-maturity-model/v1/
     version: v1
-    active: true
 ---
 
 
