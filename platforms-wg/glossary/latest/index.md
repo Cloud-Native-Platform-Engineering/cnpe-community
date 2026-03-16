@@ -3,7 +3,6 @@ title: Glossary
 description: "Defines key terms used in the Platforms Working Group's writings."
 type: whitepapers
 url: resources/glossary
-toc_hide: true
 versions:
   - url: /resources/glossary/
     version: latest

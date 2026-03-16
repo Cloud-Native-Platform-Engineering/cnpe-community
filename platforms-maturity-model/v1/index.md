@@ -45,15 +45,15 @@ This document refers to, enhances, and follows similar standards as the followin
 
 ## What is platform engineering?
 
-Inspired by the cross-functional cooperation promised by DevOps, platforms and platform engineering have emerged in enterprises as an explicit form of that cooperation. Platforms curate and present common capabilities, frameworks and experiences. In the context of this working group and related publications, the focus is on platforms that facilitate and accelerate the work of [internal users]({{< ref "/resources/glossary#platform-users" >}}) such as product and application teams.
+Inspired by the cross-functional cooperation promised by DevOps, platforms and platform engineering have emerged in enterprises as an explicit form of that cooperation. Platforms curate and present common capabilities, frameworks and experiences. In the context of this working group and related publications, the focus is on platforms that facilitate and accelerate the work of [internal users]({{< ref "/resources/glossary/latest#platform-users" >}}) such as product and application teams.
 
-[**Platform engineering**]({{< ref "/resources/glossary#platform-engineering" >}}) is the practice of planning and providing such computing platforms to developers and users and encompasses all parts of platforms and their capabilities — their people, processes, policies and technologies; as well as the desired business outcomes that drive them.
+[**Platform engineering**]({{< ref "/resources/glossary/latest#platform-engineering" >}}) is the practice of planning and providing such computing platforms to developers and users and encompasses all parts of platforms and their capabilities — their people, processes, policies and technologies; as well as the desired business outcomes that drive them.
 
 Please read the [CNCF Platforms White Paper]({{< ref "/resources/whitepaper/latest" >}}) first for complete context.
 
 ## How to use this model
 
-As platform engineering has risen in prominence over the last few years, some patterns have become apparent. By organizing those patterns and observations into a progressive maturity model, we aim to orient [platform teams]({{< ref "/resources/glossary#platform-team" >}}) to the challenges they may face and opportunities to aim for. Each aspect is described by a continuum of characteristics of different teams and organizations at each level within the aspect. We expect readers to find themselves in the model and identify opportunities in adjacent levels.
+As platform engineering has risen in prominence over the last few years, some patterns have become apparent. By organizing those patterns and observations into a progressive maturity model, we aim to orient [platform teams]({{< ref "/resources/glossary/latest#platform-team" >}}) to the challenges they may face and opportunities to aim for. Each aspect is described by a continuum of characteristics of different teams and organizations at each level within the aspect. We expect readers to find themselves in the model and identify opportunities in adjacent levels.
 
 Of note, each additional level of maturity is accompanied by greater requirements for funding and people's time. Therefore, reaching the highest level should not be a goal in itself. Each level describes qualities that should appear at that stage. Readers must consider if their organization and their current context would benefit from these qualities given the required investment.
 
@@ -475,7 +475,7 @@ Dedicated teams or tools are employed to gather and review feedback and summariz
 
 * Before delivering any new platform feature, the team discusses how to evaluate the outcome from their work.
 * The organization has broad alignment on measures that indicate success of platform initiatives.
-* A [product manager]({{< ref "/resources/glossary#platform-team" >}}) or dedicated team member drives an ongoing and consistent feedback collection and analysis process.
+* A [product manager]({{< ref "/resources/glossary/latest#platform-team" >}}) or dedicated team member drives an ongoing and consistent feedback collection and analysis process.
 * The organization has established metrics and goals to observe and target to indicate success.
 
 #### Example Scenarios:
