@@ -107,6 +107,37 @@ When a whitepaper, glossary, or other versioned artifact is ready for release, f
 
 > **Why `git mv` instead of `cp`?** Using `git mv` followed by restoring the original ensures that `git log --follow` traces the full history of the tagged version file back through all prior edits. A simple copy would start the new file's history from scratch.
 
+### Adding new pages
+
+When adding a new page to the English site, create a translation stub in each language directory so that the page is accessible in all languages. Without a stub, translated versions of the site will return a 404 for the new page.
+
+1. Create your new page under `website/content/en/` as usual.
+
+2. For each supported language (`es`, `zh`, `ja`, `ko`, `fr`, `de`), create a matching file with only frontmatter and `outdated: true`:
+
+   ```yaml
+   ---
+   title: "Same title as the English page"
+   outdated: true
+   ---
+   ```
+
+   For section pages (`_index.md`), also include `list_pages: true`.
+
+3. The `outdated: true` flag tells the site to display the English content with a "Translation Needed" banner, so you don't need to include any body content in the stub.
+
+### Contributing translations
+
+Translations are one of the most impactful ways to contribute. Here's how the translation workflow works:
+
+1. Find a page to translate. Look for files with `outdated: true` and no body content under `website/content/{lang}/` — these are stubs waiting for a translation.
+
+2. Replace the stub with your translated content. Keep the same frontmatter fields (especially `type`, `url`, and `versions` if present) but translate the `title` and `description`. Remove the `outdated: true` line.
+
+3. If the page has already been translated but the English version has been updated since, the file will have `outdated: true` with existing body content. Update the translation to match the current English version and remove `outdated: true`.
+
+4. For adding a completely new language, open a [localization issue](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues/new?template=localization.yml) and follow the checklist there.
+
 ## Active Initiatives
 
 The Community helps coordinate specific initiatives that are have benefits for the broader Platform Engineering community. Some of these initiatives are led by the Community, while others may exist under the CNCF Technical Advisory Groups (TAGs)
