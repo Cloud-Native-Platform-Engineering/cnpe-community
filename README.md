@@ -72,6 +72,41 @@ In order to effectively support and manage the diverse needs of the community, w
 
 See [Artifacts](https://cloudnativeplatforms.com/artifacts/) for a list of key artifacts produced by the community. These include whitepapers, presentations, and other resources that are useful for practitioners and organizations looking to build and operate cloud native platforms.
 
+### Tagging a new version of a whitepaper or artifact
+
+When a whitepaper, glossary, or other versioned artifact is ready for release, follow this process to tag a new version while preserving document history in git.
+
+1. **Merge all draft changes into `latest/`.**
+   Ensure the `latest/` folder contains the final content for the version you want to tag.
+
+2. **Create a folder for the new version.**
+   For example, if you are tagging `v2`, create a `v2/` folder alongside `latest/`.
+
+3. **Move the file from `latest/` to the new version folder using `git mv`.**
+   This preserves the file's commit history on the new version.
+
+   ```sh
+   git mv latest/index.md v2/index.md
+   ```
+
+4. **Restore the `latest/` file from the previous commit.**
+   This keeps `latest/` intact as the working copy for future edits.
+
+   ```sh
+   git checkout HEAD~1 -- latest/index.md
+   ```
+
+5. **Update frontmatter in both files.**
+   - In the new version file (e.g. `v2/index.md`): update the `url` to include the version (e.g. `whitepapers/platforms/v2`), set `toc_hide: true`, and mark the version as `active` in the `versions` block.
+   - In `latest/index.md`: add the new version to the `versions` block.
+
+6. **Repeat for translations.**
+   Apply the same `git mv` and restore steps to any translated versions of the artifact under the relevant `content/{lang}/` directories.
+
+7. **Commit and push.**
+
+> **Why `git mv` instead of `cp`?** Using `git mv` followed by restoring the original ensures that `git log --follow` traces the full history of the tagged version file back through all prior edits. A simple copy would start the new file's history from scratch.
+
 ## Active Initiatives
 
 The Community helps coordinate specific initiatives that are have benefits for the broader Platform Engineering community. Some of these initiatives are led by the Community, while others may exist under the CNCF Technical Advisory Groups (TAGs)
