@@ -52,6 +52,6 @@
 - Thank them for their time!
 - Do you have any questions for us?
 - Legal Reminder: Only the anonymized transcript will be shared with the wider research team; all references to you and your company will be removed. Only a small group of leads will have access to the video to ensure the integrity of the transcript for the duration of the project, after which the video will be deleted.
-- Join the conversation: "Join the ongoing conversation at TAG App Delivery: https://cloudnativeplatforms.com/"
+- Join the conversation: "Join the ongoing conversation at the Platform Engineering Technical Community Group: https://cloudnativeplatforms.com/" (link updated March 2026)
 
 
