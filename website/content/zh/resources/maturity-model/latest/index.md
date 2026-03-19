@@ -5,7 +5,7 @@ version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-communit
 description: "This maturity model intends to provide tactical guidance to users seeking to adopt the patterns discussed in the Platforms Definition White Paper. That paper suggests why and what to build; this document will begin to describe how to plan to build it. The target audience is CTOs, Directors of engineering, lead engineers, and architects seeking to evaluate their current state and environment and identify opportunities for improvement.<br/><br/>
 This document refers to, enhances, and follows similar standards as the following related documents:<br/>
 [Cloud Maturity Model](https://maturitymodel.cncf.io/)<br/>
-[Platforms Definition White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)"
+[Platforms Definition White Paper](/zh/whitepapers/platforms/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model
 versions:
@@ -39,7 +39,7 @@ window.onhashchange = function() {
 
 ## 概述
 
-CNCF 的首份[平台定义白皮书](https://tag-app-delivery.cncf.io/whitepapers/platforms/) 描述了什么是云计算下的内部平台，以及该平台应为企业带来哪些价值。但要实现这些价值，一个组织必须反思并刻意追求对它们有影响的成果和实践，同时记住每个组织都依赖于为其自身组织量身定制的内部平台 - 即使这个平台只是关于如何使用第三方服务的文档。这个成熟度模型提供了一个框架，用于反思和识别任何组织中改进的机会。
+CNCF 的首份[平台定义白皮书](/zh/whitepapers/platforms/) 描述了什么是云计算下的内部平台，以及该平台应为企业带来哪些价值。但要实现这些价值，一个组织必须反思并刻意追求对它们有影响的成果和实践，同时记住每个组织都依赖于为其自身组织量身定制的内部平台 - 即使这个平台只是关于如何使用第三方服务的文档。这个成熟度模型提供了一个框架，用于反思和识别任何组织中改进的机会。
 
 ## 什么是平台工程？
 
@@ -47,7 +47,7 @@ CNCF 的首份[平台定义白皮书](https://tag-app-delivery.cncf.io/whitepape
 
 [**平台工程**]({{< ref "/resources/glossary/latest#platform-engineering" >}}) 是一种为开发者和用户规划和提供此类计算平台的实践，并涵盖平台及其能力的所有部分 —— 其人员、流程、政策和技术；以及驱动它们的期望商业成果。
 
-请先阅读 [CNCF 平台定义白皮书](https://tag-app-delivery.cncf.io/whitepapers/platforms/)，以获得完整的背景信息。
+请先阅读 [CNCF 平台定义白皮书](/zh/whitepapers/platforms/)，以获得完整的背景信息。
 
 ## 如何应用此模型
 

@@ -1,10 +1,10 @@
 ---
-title: Glossar
+title: Glossar (v1)
 description: "Definiert Schlüsselbegriffe, die in den Texten der Arbeitsgruppe Plattformen verwendet werden."
 type: whitepapers
 url: resources/glossary/v1
-list_pages: false
 toc_hide: true
+list_pages: false
 versions:
   - url: /resources/glossary/
     version: latest

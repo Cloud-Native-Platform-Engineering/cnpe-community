@@ -5,7 +5,7 @@ version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-communit
 description: "Este modelo de madurez tiene la intención de brindar una guía táctica a usuarios que buscan adoptar los patrones que se discuten en el artículo Platforms Definition. Dicho artículo sugiere por qué y qué construir mientras que en este documento se comenzará a describir cómo planificar su construcción. La audiencia objetivo son CTOs, Directores de ingeniería, líderes de ingeniería, y arquitectos que buscan evaluar su situación y entorno actual e identificar oportunidades de mejora.<br/><br/>
 Este documento refiere, amplía y sigue estándares similares a los siguientes documentos relacionados:<br/>
 [Cloud Maturity Model](https://maturitymodel.cncf.io/)<br/>
-[Platforms Definition White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/)"
+[Platforms Definition White Paper](/es/whitepapers/platforms/v1/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model/v1
 toc_hide: true
@@ -39,7 +39,7 @@ window.onhashchange = function() {
 
 ## Introducción
 
-El [Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/) inicial de la CNCF describe qué son las plataformas internas para computación en la nube y los valores que prometen entregar a las empresas. Pero para alcanzar esos valores, una organización debe reflejar y perseguir deliberadamente resultados y prácticas que tienen impacto en ellas, teniendo presente que toda organización depende de una plataforma interna elaborada para sí misma, aún si esa plataforma no fuera más que documentación sobre cómo utilizar servicios de terceras partes. Este modelo de madurez provee un marco de trabajo para esa reflexión y para identificar oportunidades de mejora en cualquier organización.
+El [Platforms White Paper](/es/whitepapers/platforms/v1/) inicial de la CNCF describe qué son las plataformas internas para computación en la nube y los valores que prometen entregar a las empresas. Pero para alcanzar esos valores, una organización debe reflejar y perseguir deliberadamente resultados y prácticas que tienen impacto en ellas, teniendo presente que toda organización depende de una plataforma interna elaborada para sí misma, aún si esa plataforma no fuera más que documentación sobre cómo utilizar servicios de terceras partes. Este modelo de madurez provee un marco de trabajo para esa reflexión y para identificar oportunidades de mejora en cualquier organización.
 
 ## ¿Qué es la Ingeniería de Plataforma?
 
@@ -47,7 +47,7 @@ Inspirados en la promesa de cooperación interdisciplinaria de DevOps, las Plata
 
 [**Ingeniería de Plataforma**]({{< ref "/resources/glossary/latest#platform-engineering" >}}) es la práctica de planificar y proveer esas plataformas de cómputo a desarrolladores y usuarios y abarca a todas las partes de las plataformas y sus capacidades: personas, procesos, políticas y tecnologías; como así también los resultados de negocio deseados que los impulsan.
 
-Por favor, lea primero el [CNCF Platforms White Paper](https://tag-app-delivery.cncf.io/whitepapers/platforms/) para un contexto más completo.
+Por favor, lea primero el [CNCF Platforms White Paper](/es/whitepapers/platforms/) para un contexto más completo.
 
 ## Cómo usar este modelo
 
@@ -511,4 +511,4 @@ No solo se utilizan marcos estándar sino que también existe un entendimiento d
 
 Las plataformas y quienes las mantienen, proveen los fundamentos para el desarrollo ágil de productos digitales. Proveen un conjunto consistente de capacidades que habilitan el desarrollo y entrega de software eficiente. Este modelo de madurez provee un mapa para su viaje hacia Ingeniería de Plataforma.
 
-NOTA: en caso de considerarlo necesario, puede consultar la versión más reciente de este documento [en Inglés](https://tag-app-delivery.cncf.io/es/whitepapers/platform-eng-maturity-model/)
+NOTA: en caso de considerarlo necesario, puede consultar la versión más reciente de este documento [en Inglés](/es/whitepapers/platform-eng-maturity-model/)

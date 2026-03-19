@@ -80,7 +80,7 @@ versions:
 通过为单个能力或它们的集合提供一致、合规的体验，内部平台最终使用户更轻松、更有效地交付有价值的产品。
 
 {{% pageinfo color="info" %}}
-请参阅本文发布之后创建的[平台工程成熟度模型](https://tag-app-delivery.cncf.io/zh/wgs/platforms/maturity-model/v1/)。
+请参阅本文发布之后创建的[平台工程成熟度模型](/zh/platform-eng-maturity-model/v1/)。
 {{% /pageinfo %}}
 
 ## 平台的属性
