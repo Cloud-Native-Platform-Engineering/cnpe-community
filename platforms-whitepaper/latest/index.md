@@ -220,7 +220,7 @@ These providers may be other teams within the same enterprise or third parties l
 In a nutshell, platforms bridge from underlying _capability providers_ to platform users like application developers; and in the process implement and enforce desired practices for security, performance, cost governance and consistent experience.
 The following graphic illustrates the relationships between products, platforms, and capability providers.
 
-<img src="assets/platform_components.png" width=600px />
+<img src="../assets/platform_components.png" width=600px />
 
 We've focused in this paper on how to construct a good platform and platform team; now in this last section we'll describe the capabilities a platform may actually offer.
 This list is intended to guide platform builders and includes capabilities typically required by cloud-native applications.
