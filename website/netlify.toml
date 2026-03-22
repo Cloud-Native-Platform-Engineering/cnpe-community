@@ -18,3 +18,9 @@ command = "make preview-build"
 
 [context.branch-deploy]
 command = "make preview-build"
+
+# Allow /en/ paths to work as aliases for the default English content at /
+[[redirects]]
+  from = "/en/*"
+  to = "/:splat"
+  status = 301

@@ -1,10 +1,17 @@
 {{ define "main" }}
 
 <div class="td-content">
-    <h1>{{ .Title }}</h1>
-    
-    {{ with .Content }}
-    {{ . }}
+    {{ if .Params.outdated }}
+        {{ $enPage := false }}
+        {{ range .AllTranslations }}{{ if eq .Language.Lang "en" }}{{ $enPage = . }}{{ end }}{{ end }}
+        <h1>{{ with $enPage }}{{ .Title }}{{ else }}{{ $.Title }}{{ end }}</h1>
+        {{ partial "translation-needed.html" . }}
+        {{ with $enPage }}{{ .Content }}{{ end }}
+    {{ else }}
+        <h1>{{ .Title }}</h1>
+        {{ with .Content }}
+        {{ . }}
+        {{ end }}
     {{ end }}
 </div>
 

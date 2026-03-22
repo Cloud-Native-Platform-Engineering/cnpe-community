@@ -49,5 +49,7 @@ jobs:
         message: |
           ### Action Required
           You are adding or updating English content so please take the following actions for other languages.
-          - If you update content, that has corresponding files in other languages, include a note suggesting that users check the English page for the most recent updates in those translated pages.
-          - If you add new content under `website/content/en` there is nothing you need to do.
+          - If you are **adding new pages**, create a translation stub for each supported language (`es`, `zh`, `ja`, `ko`, `fr`, `de`). The stub only needs frontmatter with `outdated: true` — no body content. Without stubs, the new page will 404 in other languages.
+          - If you are **updating existing content** that has translations, add `outdated: true` to the frontmatter of the corresponding translated files so the site shows a "Translation Needed" banner on those pages.
+
+          See the [README](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community#adding-new-pages) for more details.

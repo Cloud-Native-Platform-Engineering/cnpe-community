@@ -54,6 +54,38 @@ This effort is ongoing, with regular updates and contributions from the communit
 - Platform as a Product Whitepaper
 - [Featured Blog Posts](/initiatives/platform-as-a-product/#featured-blog-posts)
 
+### Platforms Whitepaper
+
+Website: [Platforms Whitepaper](/whitepapers/platforms/)
+
+#### Overview
+
+The Platforms Whitepaper is a comprehensive document that outlines the principles, practices, and tools for building and operating cloud native platforms. It serves as a foundational resource for understanding platform engineering in the context of cloud native technologies.
+
+#### Schedule
+
+This effort is preparing for new material contributions and updates, and is currently undergoing planning. Submissions for translations are being accepted, and we are actively seeking contributors to help with this effort. For those interested in contributing, please request more information via the #platform-engineering slack channel in the CNCF slack.
+
+#### Deliverables
+
+- [Platforms Whitepaper](/whitepapers/platforms/)
+
+### Platform Engineering Maturity Model
+
+Website: [Platform Engineering Maturity Model](/whitepapers/platform-eng-maturity-model/)
+
+#### Overview
+
+The Platform Engineering Maturity Model is a framework for assessing the maturity of cloud native platforms. It provides a set of criteria and best practices for organizations to evaluate their platform capabilities and identify areas for improvement.
+
+#### Schedule
+
+This effort is preparing for new material contributions and updates, and is currently undergoing planning. Submissions for translations are being accepted, and we are actively seeking contributors to help with this effort. For those interested in contributing, please request more information via the #platform-engineering slack channel in the CNCF slack.
+
+#### Deliverables
+
+- [Platform Engineering Maturity Model](/whitepapers/platform-eng-maturity-model/)
+
 ### Platform Maturity Model Assessment
 
 Website: [Platform Maturity Model Assessment](/initiatives/platform-maturity-model-assessment/)
@@ -87,8 +119,8 @@ Community Page: [CNCF Cartografos Working Group](https://community.cncf.io/cncf-
 
 [CNCF TAG App Delivery](https://tag-app-delivery.cncf.io/) is the former home of the Cloud Native Platform Engineering Working Group Community. It was focused on application delivery practices and tools within the CNCF ecosystem.
 
-[Platform Whitepaper](https://tag-app-delivery.cncf.io/whitepapers/platforms/) is a comprehensive document that outlines the principles, practices, and tools for building and operating cloud native platforms. It serves as a foundational resource for understanding platform engineering in the context of cloud native technologies.
+[Platform Whitepaper](https://tag-app-delivery.cncf.io/whitepapers/platforms/) was originally published under TAG App Delivery. The current version is now maintained at [cloudnativeplatforms.com/whitepapers/platforms/](/whitepapers/platforms/).
 
-[Platform Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) is a framework for assessing the maturity of cloud native platforms. It provides a set of criteria and best practices for organizations to evaluate their platform capabilities and identify areas for improvement.
+[Platform Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) was originally published under TAG App Delivery. The current version is now maintained at [cloudnativeplatforms.com/whitepapers/platform-eng-maturity-model/](/whitepapers/platform-eng-maturity-model/).
 
-[Glossary](https://tag-app-delivery.cncf.io/wgs/platforms/glossary/) is a living document that defines key terms and concepts related to platform engineering. It aims to create a common language for practitioners and facilitate better communication within the community.
+[Glossary](https://tag-app-delivery.cncf.io/wgs/platforms/glossary/) was originally published under TAG App Delivery. The current version is now maintained at [cloudnativeplatforms.com/resources/glossary/](/resources/glossary/).
