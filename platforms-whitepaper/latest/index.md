@@ -59,7 +59,7 @@ A cloud-native computing platform is an integrated collection of capabilities de
 It is a cross-cutting layer that ensures a consistent experience for acquiring and integrating typical capabilities and services for a broad set of applications and use cases.
 A good platform provides a consistent, opinionated user experience for using and managing its capabilities and services, such as Web portals, project templates, and self-service APIs.
 
-According to Atlassian [[1]], "platform teams create capabilities that can be used by numerous stream-aligned [product] teams with little overhead…. platform teams minimize resources and cognitive load of the stream-aligned [product] team… platform teams can create a cohesive experience that spans across different user experiences or products."
+According to Atlassian [[1]], "platform teams create capabilities that can be used by numerous stream-aligned [product] teams with little overhead.... platform teams minimize resources and cognitive load of the stream-aligned [product] team… platform teams can create a cohesive experience that spans across different user experiences or products."
 
 According to Martin Fowler and Evan Bottcher [[2]], "a digital platform is a foundation of self-service APIs, tools, services, knowledge, and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination."
 
@@ -82,13 +82,13 @@ As they mature, internal platforms also offer _compositions_ of these capabiliti
 
 Use cases that an enterprise could meet with platforms might progress through the following:
 
-**Level 1: Provisional \-** Capabilities are built out of necessity by temporary or voluntary staff, leading to erratic adoption, ad hoc operations, and measurement.
+1. **Provisional \-** Capabilities are built out of necessity by temporary or voluntary staff, leading to erratic adoption, ad hoc operations, and measurement.
 
-**Level 2: Operationalized \-** A dedicated, budgeted team provides common capabilities, often reactively, with adoption driven by external mandates or incentives, and operations are centrally tracked.
+1. **Operationalized \-** A dedicated, budgeted team provides common capabilities, often reactively, with adoption driven by external mandates or incentives, and operations are centrally tracked.
 
-**Level 3: Scalable \-** The platform is treated "As product" with investment based on customer value and staffed by product/UX roles, resulting in users choosing the platform for its intrinsic value (intrinsic pull).
+1. **Scalable \-** The platform is treated "As product" with investment based on customer value and staffed by product/UX roles, resulting in users choosing the platform for its intrinsic value (intrinsic pull).
 
-**Level 4: Optimizing \-** The platform becomes an "Enabled Ecosystem" focused on organization-wide efficiency, where core maintainers prioritize enabling specialists to extend capabilities, and adoption is participatory.
+1. **Optimizing \-** The platform becomes an "Enabled Ecosystem" focused on organization-wide efficiency, where core maintainers prioritize enabling specialists to extend capabilities, and adoption is participatory.
 
 For a more detailed vision of platform maturity, please refer to the [Platform Engineering Maturity Model](https://cloudnativeplatforms.com/whitepapers/platform-eng-maturity-model/).
 
@@ -102,7 +102,8 @@ After defining what a platform is and why an organization might want to build on
 1. **Self-service**. A platform should be self-serviceable. Users must be able to request and receive capabilities autonomously and automatically. This property is key to allowing a platform team to enable multiple product teams and scale as needed. The platform capabilities should be available on-demand via the interfaces described above. For example, it should be possible for a user to request a database and receive its locator and credentials by running a command-line tool or filling out a form on a web portal, without waiting for a manual review or approval.
 1. **Reduced cognitive load for users**. An essential goal of a platform is to reduce the cognitive load on product teams. A platform should encapsulate implementation details and hide any complexity that might arise from its architecture. For example, a platform might delegate certain services to a cloud provider, but users should not be exposed to such details. At the same time, the platform should allow users to configure and observe certain services as needed. Users must not be responsible for operating the services offered by the platform. For example, users may often require a database, but they shouldn't have to manage the database server.
 1. **Optional and composable**. Platforms are intended to make product development more efficient, so they must not be an impediment. A platform should be composable and enable product teams to use only parts of its offerings. It should also enable product teams to provide and manage their own capabilities outside of the platform's offerings when necessary. For example, if a platform doesn't provide a graph database and it's required for a product, it should be possible for the product team to provision and operate a graph database themselves.
-1. **Secure and compliant by default**. A platform should be secure by default and offer capabilities to ensure compliance and validation based on rules and standards defined by the organization. Security, governance, and compliance requirements for the business should be baked into the platform, reducing users' cognitive burden while ensuring consistent enforcement.
+1. **Secure and compliant by default**. A platform should be secure by default and offer capabilities to ensure compliance and validation based on rules and standards defined by the organization.
+Security, governance, and compliance requirements for the business should be baked into the platform, reducing users' cognitive burden while ensuring consistent enforcement.
 
 ## Attributes of platform teams
 
