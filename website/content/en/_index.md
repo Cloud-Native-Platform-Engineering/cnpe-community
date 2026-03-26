@@ -44,7 +44,12 @@ For examples of Platform Personas see: [Platform as a Product: Understanding the
 
 ## Meetings
 
-Every two weeks on Tuesday at 11:00 ET ([convert to your local
+Every two weeks on Tuesday, with two regions:
+
+- North America and Europe Regions: UTC 1600/4:00pm UTC
+- Asia Pacific Regions: IST 0800/8:00am
+
+([convert to your local
 time](https://dateful.com/convert/eastern-time-et?t=11)).
 
 
