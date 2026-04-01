@@ -1,97 +1,109 @@
 ---
-title: 概要
+title: "CNCF Platform Engineering Technical Community Group"
 list_pages: true
-description: この憲章は、CNPEコミュニティ（旧称：TAG App Deliveryのプラットフォームワーキンググループ）の使命と戦術を定めています。
-# toc_hideを使用すると、このセクションをサイドバーから非表示にできます
-toc_hide: true
 ---
 
-<!-- 現時点では非表示
-# クラウドネイティブプラットフォームエンジニアリングコミュニティ
-（旧称：TAG App Delivery プラットフォームワーキンググループ）
-[憲章](./charter) はプラットフォームワーキンググループ（WG）の使命と戦術を定めています。
-参加するには、Slack の
-[#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP)
-または下記で説明するミーティングにご参加ください。
-更新情報の登録およびグループへの「参加」には、[TAG App Delivery CNCF Community Group](https://community.cncf.io/tag-app-delivery/) への参加もご検討ください -->
+<div class="row mt-5 mb-3">
+    <div style="width: 100%">
+        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Technical Community Group logo" style="width: 100%">
+    </div>
+</div>
 
-## 問題の定義
+CNCF Platform Engineering Technical Community Groupは、クラウドネイティブプラットフォームの構築と運用実践に関心を持つ実務者、ベンダー、エンドユーザーによるコミュニティです。組織がクラウドネイティブプラットフォームを効果的に構築・運用できるよう、知識、ベストプラクティス、ツールの共有に焦点を当てています。
+クラウドネイティブプラットフォームエンジニアリングに関心を持つ方なら、経験や専門知識のレベルに関わらず、どなたでも参加できます。このコミュニティは、実践者が経験を共有し、質問し、互いに学び合う場です。
 
-ほとんどのアプリケーションデリバリーシナリオでは、アプリケーションアーティファクトのパッケージ形式と配信メカニズムが対象となりますが、データストアやメッセージキューなどのアプリケーションのインフラストラクチャ依存関係は必ずしも対象とは限りません。つまり、アプリケーションとインフラストラクチャのデリバリーは連携されていません。多くの場合、アプリケーションは特定のデプロイメントに直接関連しないインフラストラクチャリソースに大きく依存しており、存在しないインフラストラクチャリソースの問題がデプロイメントの失敗を引き起こす可能性があります。これに加えて、アプリケーションとインフラストラクチャのライフサイクルは同期されておらず、ワークロードをデリバリーする際に追加の複雑さと課題を生み出します。
+<!-- For more information, see [About](./about/) -->
 
-例:
-* 開発者がローカル環境でアプリケーションをテストするためにストレージクラスを使用しているが、上位環境では利用できない。
-* アプリケーションワークロードのデプロイと、そのサービスへのトラフィックをルーティングするための必要なIngressのデプロイは、別々の承認プロセスとフローとなる。
-* 複雑なマイクロサービスアーキテクチャのデリバリーと、持続可能なGitOpsデプロイパターンの実現は、関連するものの別個のワークフローとして扱われる。
+## 対象範囲
 
-インフラと協調したアプリケーションデリバリーを実現するためのCI/CDパイプラインとその構成要素の設定は、組織内の暗黙知の一部であり、組織・システム・ドメインの境界を越えて容易に移転できません。
-さらに、アプリケーションデリバリーを扱う際にはインフラが常に利用可能であると想定されることが多いです。ある時点では、インフラもGitOpsメカニズムやデプロイパイプラインを用いて展開できることが有用となる可能性があります。したがって、インフラデプロイとアプリケーションデリバリー／デプロイツール間には常に断絶が存在し、これがデプロイ問題や設定ミスを招く恐れがあります。
+このコミュニティは、主にクラウドネイティブプラットフォームエンジニアリングと、CNCFエコシステム内でのその実践の支援に焦点を当てています。特定の技術やベンダーに依存せず、クラウドネイティブプラットフォームの構築と運用という実践そのものに重点を置いています。
 
-現在、これらのユースケースに対する普遍的なベストプラクティスや推奨事項は存在せず、プラットフォーム非依存な方法でアプリケーション全体を宣言する標準も確立されていません。
-CrossplaneやTerraformといった主にインフラストラクチャのプロビジョニングに用いられるプロジェクトや、そのインフラ上でアプリケーションをプロビジョニングするArgo、Flux、Keptnなどのツールが存在します。また、OAMやDaprといったインフラを抽象化し、アプリケーションに代わって自動的に「注入」する新興プロジェクトもありますが、これらは（まだ）パブリッククラウドプラットフォームといった実装プロバイダーに広く採用されていません。本ワーキンググループは、アプリケーションとインフラストラクチャの連携がどのような形を取るべきかを明確化し、そのようなケースにおけるベストプラクティスを開発すべきと考えます。
+メンバーは多様な役割と立場を代表しており、以下のような方々を含みます：
 
-### この問題を解決することを目的としたツールの組み合わせにはどのようなものがあり、どのようなギャップが存在するのか？
+- プラットフォーム利用者／エンドユーザー
+- プラットフォーム開発者、メンテナ、プロバイダー
+- 内部サービスプロバイダー
+- プロジェクトメンテナおよびコントリビューター
+- セキュリティ、ネットワーク、ストレージなど他の分野の専門家（自身の業務がプラットフォームエンジニアリング実践にどう適合するかに関心を持つ方）
 
-このセクションでは、現在存在するソリューションのいくつかの組み合わせを提案し、その長所と短所を評価し、何が欠けているかを検討します（上記の例を最初のユースケースとして）。
+プラットフォームペルソナの例については以下を参照：[Platform as a Product：ペルソナを理解する](/ja/blog/paap-personas/)
 
-![アプリケーション実現ツール群](img/charter_app_enablement.png)
+## 最新ニュース
 
-### インフラストラクチャ展開を目的とした既知のパターン例
+{{< recent-blog-posts >}}
 
-網羅性を保証するものではありません：
+## コミュニティ
 
-* Terraform
-* Crossplane
-* ACK
-* Pulumi
-* CDK
-* Open Service Broker (https://www.openservicebrokerapi.org/)
+- Webサイト: 
+  - ステージングサイト: <https://cnpe.netlify.app/>
+  - 本番サイト: <https://www.cloudnativeplatforms.com/>
+- CNCFコミュニティページ: <https://community.cncf.io/platform-engineering-technical-community-group/>
+- Slackチャンネル: [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) in [CNCF Slack](https://slack.cncf.io/)
+- LinkedInページ: <https://www.linkedin.com/company/cloud-native-platforms/>
 
-### アプリケーションデプロイを目的とした既知のパターン例
+## ミーティング
 
-#### GitOps
+隔週の火曜日11:00 ET (米国東部標準時) ([現地時間に変換](https://dateful.com/convert/eastern-time-et?t=11))
 
-このパターンは、Helm、Kustomize、または生のYAMLなどの既存ツールを基盤とし、Gitリポジトリ内の真実のソースからの変更をクラスターに適用するプロセスを自動化します。ArgoCDやFluxはこのパターンを実装するプロジェクトの例です。
 
-#### アプリケーションオペレーター
+<!-- remove until community resources are restored
+Meetings are listed on the [main CNCF calendar](https://www.cncf.io/calendar/)
+as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-delivery/). 
+-->
+次回のミーティング:
+<!--![Community Meeting Preview](/images/meetings/MeetingPreview20250729.png)-->
 
-このパターンは、DeploymentなどのネイティブKubernetesリソースを拡張し、アプリケーションのデプロイとライフサイクル管理を強化することを目的としています。重要な機能の一つはカナリアデプロイであり、Ingressやサービスメッシュとの連携、およびアプリケーションに関するドメイン知識が必要です。ArgoRolloutやFlaggerは、これらの高度な機能を備えたこのパターンを実装するプロジェクトの例です。
+- 次回のミーティング：隔週火曜日 午前11時（米国東部標準時 1100 EST）／午後4時（英国夏時間1600 BST）
+- 次回のミーティングリンク／情報：
+    コミュニティグループページ <https://community.cncf.io/platform-engineering-technical-community-group/> でミーティングに登録してください
+- 免責事項：
+  - 会議はコミュニティとの知識・情報共有を目的として録画されます。会議への参加は録画への同意を意味します。録画を希望されない場合は、会議開始前に主催者までお知らせください。
+  - 商業的または組織的な宣伝活動は禁止されており、参加者は個人的または事業上の利益を得るための影響力行使を試みてはなりません。
+  - 参加者はLinux FoundationおよびCNCF行動規範を遵守する必要があります
+- 過去の会議録画:
+  - 2025年6月以前 - YouTubeチャンネル @cncf-tag-app-delivery: <https://www.youtube.com/@cncf-tag-app-delivery/videos>
+  - 2025年6月以降 - YouTubeチャンネル @CloudNativePlatforms: <https://www.youtube.com/@CloudNativePlatforms/videos>
 
-#### 宣言型パイプライン
+## オーガナイザー / リード / 共同議長 (Co-Chairs)
 
-このパターンでは、ワークフローやプロセスをカプセル化した宣言型パイプラインを構築できます。これは、アーティファクトの構築、テスト、セキュリティ制御への適合確認といった CIプロセスの一部となり得ます。また、アーティファクトのデプロイ、カスタムテストの実行、カスタムカナリアロジックの実装といったCDライフサイクルでも使用可能です。宣言型パイプラインは、グラフ内の次のポイントへ移動するための決定ポイントを持つ [有向グラフ](https://en.wikipedia.org/wiki/Directed_acyclic_graph) と考えることができます。決定は自動化される場合もあれば、通知システムと連動した手動承認が必要な場合もあります。KeptnやArgoWorkflowといったプロジェクトは、宣言型パイプライン構築を可能にするソリューションの例です。
+(アルファベット順)
 
-#### コンポジションオペレーター
+- Atulpriya Sharma (@techmaharaj)
+- Colin Griffin (@krumware)
+- Chris Plank (@ChrisPlank)
+- Humble Devassy Chirammal (@humblec)
+- Katie Greenley (@k8tgreenley)
 
-KubernetesのCRDによるリソース表現は複雑で、他のCRDへの依存関係を持つ場合もあります。特にインフラストラクチャリソースに関しては、アプリケーションチームと運用チームの間で関心の分離が必要となります。このパターンでは、複数の他のCRDを構成要素としてリソースを組み立て、最上位CRDが要求するパラメータ数を簡素化または隠蔽できます。CrossPlane XRD/XRCやKubeVelaはこのパターンを提供するプロジェクトの例です。
+## 委員会 (コミッティー)
 
-#### インフラストラクチャオペレーター
+コミュニティの多様なニーズを効果的に支援・管理するため、委員会を設置することがあります。各委員会は、コミュニティの活動や取り組みにおける特定の分野を担当します。
 
-クラウドプロバイダーのインフラストラクチャリソースをCRDとして宣言し、Kubernetes上のアプリケーションデプロイメントライフサイクルに統合する必要性があります。インフラストラクチャオペレーターパターンでは、CRDをクラスタに適用し、オペレーターが要求と望ましい状態を収束させるための必要なロジックを実装します。クラウドプロバイダへのオペレーター統合は、ネイティブクラウドプロバイダAPI、CloudFormationテンプレート、TerraFormなど、様々な形態を取ることができます。CrossPlane ProviderやAWS Controller for Kubernetes (ACK) は、このパターンを提供するプロジェクトの例です。
+- Content Club
+- Platform as a Product
+- Platform Engineering 成熟度モデル評価
 
-## TAG App Delivery憲章との整合性
+## TOC連絡係 (リエゾン)
 
-アプリケーションデリバリーは基盤インフラ（外部データベースやメッセージキューなどのサービス）と密接に結びつくため、パッケージ形式やデリバリーワークフローに影響を及ぼすことが多くなります。本トピックはTAG憲章における「アプリケーション定義（記述・パラメータ・構成を含む）」「アプリケーションバンドリングとデプロイ」「アプリケーションデリバリーワークフローと戦略」を扱います。これらは構成駆動型ツール（「GitOps」）を用いて実施されるべきであるため、「構成ソース駆動型ワークフロー」領域にも関連します。
+- TBD
 
-## 作業モード／期待される成果
+## 名誉リーダー (Emeritus Leads)
 
-本グループは、これらのユースケース（例：コードとしてのApp-Ready-Platform）を扱うための概念を議論し、計画を立て、デモインフラストラクチャ（コードとして）を開発します。これは様々なツール（ランドスケープへのリンク）を用いて実装され、エンドユーザー向けの青写真となり得ます。さらに検証済みのベストプラクティスはホワイトペーパーとして文書化される可能性があります。
+- Abby Bangser (@abangser)
+- Josh Gavant (@joshgav)
 
-## 目標
+## 主要な成果物
 
-_本シナリオにおける主要ステークホルダー（CKA/CKAD資格を有する可能性のあるエンジニア）に焦点を当て、クラウドインフラ上でのアプリケーションワークロード提供を実現することを目的とする。_
+コミュニティが作成した主要な成果物のリストについては、[リソース](/resources/)をご覧ください。これには、クラウドネイティブプラットフォームの構築と運用を目指す実務者や組織にとって有用な、ホワイトペーパー、プレゼンテーション、その他のリソースが含まれます。
 
-* ベンダーおよびエンドユーザーへのインタビュー
-* 製品の成功要因と課題点を特定する焦点質問
-* 現在の実践手法とランドスケープの把握
-* ランドスケープレーダー
-* Podtato-headプロジェクトにおけるIaCとCDツール間の相互運用性事例の提供
-* アプリケーションとインフラストラクチャのデプロイ統合手法に関するエンドユーザー向けアイデア・事例の提供
-* 実践的な作業とエンドユーザーの実装方法に基づくパターンをホワイトペーパーで提供。業界内で見られる実践例やトレンドを提示し、エンドユーザーに価値ある情報を強調。
+## アクティブなイニシアチブ
 
-## 非目標
+コミュニティは、プラットフォームエンジニアリングコミュニティ全体に利益をもたらす特定の取り組みの調整を支援します。これらの取り組みの一部はコミュニティが主導し、他の取り組みはCNCF技術諮問グループ（TAG）の下で存在する場合があります。
 
-* 新たな標準規格の策定
-* マイクロサービスアプリケーションやクラウドネイティブアーキテクチャの構築方法に関する見解
-* デプロイ方法の定義
-* 新たなCNCFオープンソースプロジェクトの創設
+| イニシアチブ                                                                 | リード                                                                 | その他の情報                                                         |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [Content Club](/ja/initiatives/content-club/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms.com/ja/initiatives/content-club/> |
+| [Platform as a Product](/ja/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-as-a-product/> |
+| [Maturity Model Assessment](/ja/initiatives/platform-maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/> |
+
+
+<p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="Man working on computer"></p>
