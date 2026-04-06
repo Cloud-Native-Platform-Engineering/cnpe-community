@@ -1,4 +1,19 @@
 ---
-title: "Platform Maturity Model Assessment"
-outdated: true
+title: "プラットフォーム成熟度評価"
+description: "成熟度モデル評価の説明"
+type: initiatives
+url: initiatives/platform-maturity-model-assessment
 ---
+
+### 概要:
+プラットフォーム成熟度評価は、プラットフォーム成熟度モデルに付随するツールであり、エンドユーザーが自組織の成熟度曲線上の位置を特定する体験を簡素化します。本評価では、成熟度モデルのカテゴリーに基づき成熟度レベルを特定するための簡潔な調査を提供します。組織は成熟度モデルを活用し、各成熟度レベルの定義と特性を把握するとともに、能力向上の指針として活用できます。
+
+### スケジュール:
+
+- ユーザー受入テスト/ベータテスト : 2025年6月24日 - 2025年8月5日
+- ベータ版 : 2025年8月5日 - 2025年10月31日
+- GAリリース：2025年11月10日（Kubecon Atlanta）
+
+### 成果物：
+
+- [プラットフォーム成熟度評価](https://cloud-native-platform-engineering.github.io/pemm-assessment/)
