@@ -102,7 +102,7 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 | イニシアチブ                                                                 | リード                                                                 | その他の情報                                                         |
 |--------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
 | [Content Club](/ja/initiatives/content-club/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/content-club/#leads>       | <https://www.cloudnativeplatforms.com/ja/initiatives/content-club/> |
-| [Platform as a Product](/ja/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/#leads>)       | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-as-a-product/> |
+| [Platform as a Product](/ja/initiatives/platform-as-a-product/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-as-a-product/#leads>)       | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-as-a-product/> |
 | [Maturity Model Assessment](/ja/initiatives/platform-maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/> |
 
 
