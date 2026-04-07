@@ -108,4 +108,4 @@ as well as the [CNCF Community Calendar](https://community.cncf.io/tag-app-deliv
 | [Maturity Model Assessment](/ja/initiatives/platform-maturity-model-assessment/)   | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/#leads>       | <https://www.cloudnativeplatforms.com/ja/initiatives/platform-maturity-model-assessment/> |
 
 
-<p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="Man working on computer"></p>
+<p class="mt-5"><img src="/images/man-using-laptop.jpg" alt="コンピュータで作業する人"></p>
