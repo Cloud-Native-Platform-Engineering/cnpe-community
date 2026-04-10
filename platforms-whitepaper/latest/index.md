@@ -39,8 +39,8 @@ In this paper we'll enable that support by discussing what the value of platform
 Platforms and platform engineering are popular topics in today's cloud computing world.
 Before diving into definitions, techniques, and measurements for platform building, it is important to explore the value platforms provide that's driving this well-deserved attention.
 
-Process improvements over the past 2-3 decades have significantly increased the agility of software application and product teams, offering them flexible services for both infrastructure like compute, network and storage as well as developer services like builds, tests, delivery and observability.
-The emergence of DevOps practices brought autonomy and process improvement, but it also had the effect of shifting more and more responsibility for supporting services to product teams, thereby forcing them to spend more and more time and cognitive energy on infrastructure concerns and reducing their time to produce value relevant to their organization.
+Process improvements over the past 2-3 decades have significantly increased the agility of software application and product teams by offering flexible infrastructure services (such as compute, network and storage) as well as developer services (such as builds, tests, delivery and observability).
+The emergence of DevOps practices brought autonomy and process improvement, but it also had the effect of shifting more responsibility for supporting services to product teams, thereby forcing them to spend more time and cognitive energy on infrastructure concerns and reducing their time to produce value relevant to their organization.
 In addition, the duplication of operations across teams increases risk due to sprawling implementations and unclear ownership models.
 
 The desire to refocus delivery teams on their core mission and reduce duplication of effort across the organisation has motivated enterprises to implement platforms for cloud-native computing. By investing in platforms, enterprises can:
@@ -90,7 +90,7 @@ Use cases that an enterprise could meet with platforms might progress through th
 
 1. **Provisional \-** Capabilities are built out of necessity by temporary or voluntary staff, leading to erratic adoption, ad hoc operations, and measurement.
 
-1. **Operationalized \-** A dedicated, budgeted team provides common capabilities, often reactively, with adoption driven by external mandates or incentives, and operations are centrally tracked.
+1. **Operational \-** A dedicated, budgeted team provides common capabilities, often reactively, with adoption driven by external mandates or incentives, and operations are centrally tracked.
 
 1. **Scalable \-** The platform is treated "As product" with investment based on customer value and staffed by product/UX roles, resulting in users choosing the platform for its intrinsic value (intrinsic pull).
 
@@ -113,7 +113,7 @@ Security, governance, and compliance requirements for the business should be bak
 
 ## Attributes of platform teams
 
-Platform teams are responsible for the interfaces to and experiences with platform capabilities \- like Web portals, custom APIs, and golden paths.
+Platform teams are responsible for the interfaces and user experience of platform capabilities \- like Web portals, custom APIs, and golden paths.
 On one hand, platform teams work with those teams implementing infrastructure and supporting services to define consistent experiences; on the other, they work with product and user teams to gather feedback and ensure those experiences meet requirements.
 
 Following are jobs a platform team should be responsible for:
