@@ -3,6 +3,7 @@
 {{ $posts = where $posts "Params.date" "!=" nil }}
 {{ $posts = sort $posts "Params.date" "desc" }}
 {{ $posts = first 3 $posts }}
+{{ $defaultReadMore := or .Site.Params.read_more (i18n "read_more") "Read More →" }}
 
 <div class="recent-blog-posts">
   <div class="row">
@@ -27,7 +28,8 @@
                 {{ .Content | plainify | truncate 200 }}
               {{ end }}
             </p>
-            <span class="read-more-text">Read More →</span>
+            {{ $postReadMore := .Params.read_more | default $defaultReadMore }}
+            <span class="read-more-text">{{ $postReadMore }}</span>
           </div>
         </div>
       </a>

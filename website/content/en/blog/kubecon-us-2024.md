@@ -55,7 +55,7 @@ Time | Location | Topic | Presenter
 7:15am MST | [Cupla Coffee](https://maps.app.goo.gl/DEvS6igyhQkJbU359) - 77 W 200 S, Salt Lake City, UT 84101 | "Platform Coffee" meetup | Platforms WG (sponsor TBD)
 11:15am MST | Hyatt Regency - Level 2 - Salt Lake Ballroom C | [The State of Cloud Native Business Value in 2024](https://sched.co/1hovP) | Danielle Cook, StackGen; Simon Forster, Stackegy; Catherine Paganini, Buoyant; Colin Griffin, Krumware; Robbie Glenn, Glennium
 10:45am - 3:15pm | Kiosk 3B | [Microcks](https://github.com/microcks/microcks), The open source, cloud native tool for API Mocking and Testing | Yacine Kheddache, Laurent Broudoux and community members 
-12:00pm - 1:30pm MST | [Platforms Working Group](https://tag-app-delivery.cncf.io/wgs/platforms/) | Platform Working Group Leads
+12:00pm - 1:30pm MST | [Platforms Working Group](/) (updated link March, 2026) | Platform Working Group Leads
 1:35pm MST | Kiosk 4A | Lighning Talk - "You Can Score It! Shift Down to the Platform. Do Not Shift Left to the Developers." | Mathieu Benoit
 1:55pm MST | Kiosk 4A | Lighning Talk - "A Quick Dive into ArgoCD Sync Phases & Waves" | Colin Lacy
 2:15pm MST | Kiosk 4A | Lighning Talk - "What's Inside The Platform Fanny Pack?" | Ram Iyengar

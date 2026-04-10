@@ -28,3 +28,17 @@ other = "...or browse by tag"
 other = "Select All"
 [ui_deselect_all]
 other = "Deselect All"
+
+# Translation needed banner
+[translation_needed_title]
+other = "Translation Needed"
+[translation_needed_body]
+other = "An up-to-date translation of this page is not yet available. The content below is shown in English."
+[translation_needed_cta]
+other = "Want to help? Contribute a translation for this page."
+[translation_needed_link]
+other = "Learn how to contribute"
+
+# Recent blog posts shortcode. Used if no read_more global param is provided.
+[read_more]
+other = "Read More →"

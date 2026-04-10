@@ -1,7 +1,10 @@
 ---
 title: プラットフォームWG
 list_pages: true
+outdated: true
 ---
+
+<!-- NOTE: This page was made obsolete during the website restructure from TAG App Delivery to CNPE Community. It must be either removed or recreated at the proper content path with updated translations. -->
 # Platforms WG
 
 ## Note:

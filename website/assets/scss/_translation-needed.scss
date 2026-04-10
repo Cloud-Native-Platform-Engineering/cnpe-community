@@ -1,0 +1,45 @@
+.translation-needed-banner {
+	display: flex;
+	align-items: flex-start;
+	gap: 1rem;
+	border-left: 4px solid $pink;
+	padding: 1rem 1.25rem;
+	background-color: lighten($pink, 42%);
+	margin: 1.5rem 0;
+	border-radius: 0 4px 4px 0;
+
+	.translation-needed-icon {
+		font-size: 1.5rem;
+		color: $pink;
+		flex-shrink: 0;
+		margin-top: 2px;
+	}
+
+	.translation-needed-content {
+		strong {
+			display: block;
+			margin-bottom: 0.25rem;
+			color: darken($pink, 10%);
+		}
+
+		p {
+			margin-bottom: 0.5rem;
+			font-size: 0.9rem;
+			color: $gray-700;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		a {
+			color: $pink;
+			font-weight: 600;
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
