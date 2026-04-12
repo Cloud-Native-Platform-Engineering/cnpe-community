@@ -5,8 +5,22 @@ type: initiatives
 url: initiatives/platform-maturity-model-assessment
 ---
 
+## このページについて
+
+### 参加者 / リーダーシップ:
+
+- Corbin Pacheco
+- Steve Fenton
+- Chris Plank
+- David Stenglein
+- Stefan Daugaard Poulsen
+- Abby Bangser
+
+
 ### 概要:
+
 プラットフォーム成熟度評価は、プラットフォーム成熟度モデルに付随するツールであり、エンドユーザーが自組織の成熟度曲線上の位置を特定する体験を簡素化します。本評価では、成熟度モデルのカテゴリーに基づき成熟度レベルを特定するための簡潔な調査を提供します。組織は成熟度モデルを活用し、各成熟度レベルの定義と特性を把握するとともに、能力向上の指針として活用できます。
+
 
 ### スケジュール:
 
