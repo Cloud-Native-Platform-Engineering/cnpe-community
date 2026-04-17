@@ -43,7 +43,7 @@ Process improvements over the past 2-3 decades have significantly increased the 
 The emergence of DevOps practices brought autonomy and process improvement, but it also had the effect of shifting more responsibility for supporting services to product teams, thereby forcing them to spend more time and cognitive energy on infrastructure concerns and reducing their time to produce value relevant to their organization.
 In addition, the duplication of operations across teams increases risk due to sprawling implementations and unclear ownership models.
 
-The desire to refocus delivery teams on their core mission and reduce duplication of effort across the organisation has motivated enterprises to implement platforms for cloud-native computing. By investing in platforms, enterprises can:
+The desire to refocus delivery teams on their core mission and reduce duplication of effort across the organization has motivated enterprises to implement platforms for cloud-native computing. By investing in platforms, enterprises can:
 
 1. Reduce the cognitive load on product teams and thereby accelerate product development and delivery
 1. Improve reliability and resiliency of products relying on platform capabilities by dedicating experts to configure and manage them
