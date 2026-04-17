@@ -260,7 +260,7 @@ The following table is intended to help readers grasp each capability by loosely
 | :---- | :---- | :---- |
 | Web portals for provisioning and observing capabilities | Publish documentation and service catalogs. Publish telemetry about systems and capabilities. | Backstage, Ortelius |
 | APIs for automatically provisioning capabilities | Structured formats for automatically creating, updating, deleting and observing capabilities. | Kubernetes, Crossplane, Operator Framework, Helm, KubeVela |
-| Golden path templates and docs | Templated compositions of well-integrated code and capabilities for rapid project development. | ArtifactHub |
+| Golden path templates and docs | Templated compositions of well-integrated code and capabilities for rapid project development. | Artifact Hub |
 | Automation for building and testing products | Automate build and test of digital products and services. | Tekton, Jenkins, Buildpacks, ko, Carvel |
 | Automation for delivering and verifying services | Automate and observe delivery of services. | Argo, Flux, Flagger, OpenFeature |
 | Development environments | Enable research and development of applications and systems. | Devfile, Telepresence, DevSpace |
