@@ -30,6 +30,23 @@ Minor changes, can be changes that affect wording in sections but doesn't rephra
 
 Major changes are typically the type of changes that can lead to more philosophical discussion. A good example would be coining terms, or elaborating what a specific key term means. This have to be done in multiple iterations to ensure it fits different sizes and industries of the end users
 
-### Translations
+### Project references
 
-Translations are ...
+The Platforms White Paper may reference CNCF and CDF projects to illustrate capabilities or patterns. To avoid king-making and ensure the paper remains vendor-neutral:
+
+* `Graduated` and `Incubating` projects may be referenced by name when they are a widely recognized example of a capability described in the paper
+* `Sandbox` projects should generally not be referenced by name unless they represent a capability with no graduated or incubating alternative — in that case the sandbox status must be explicitly noted
+* All project references should be illustrative, not prescriptive — use phrasing like "examples include" rather than "use X" or "the recommended tool is X"
+* When listing projects, include multiple options where possible to avoid implying endorsement of a single project
+* Proprietary or non-CNCF open source projects should not be referenced by name; instead describe the capability generically
+
+### Logos
+
+Project logos may be included in the Platforms White Paper to improve readability and visual recognition. The following policy applies:
+
+* Only CNCF `Graduated` and `Incubating` projects may have their logos included in the paper
+* Logos must use the official artwork from the [CNCF artwork repository](https://github.com/cncf/artwork) and comply with CNCF trademark guidelines
+* Logos are used purely for visual identification alongside project name references — their inclusion does not imply endorsement or recommendation
+* A logo may only appear where the project is already referenced in text following the project reference rules above
+* When multiple projects are listed for a capability, either include logos for all of them or none — do not selectively include logos as this creates an uneven visual emphasis
+* Logo additions follow the **minor update** review process
