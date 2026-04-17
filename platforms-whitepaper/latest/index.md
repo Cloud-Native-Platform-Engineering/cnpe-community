@@ -65,7 +65,7 @@ A cloud-native computing platform is an integrated collection of capabilities de
 It is a cross-cutting layer that ensures a consistent experience for acquiring and integrating typical capabilities and services for a broad set of applications and use cases.
 A good platform provides a consistent, opinionated user experience for using and managing its capabilities and services, such as Web portals, project templates, and self-service APIs.
 
-According to Atlassian [[1]], "platform teams create capabilities that can be used by numerous stream-aligned [product] teams with little overhead... platform teams minimize resources and cognitive load of the stream-aligned [product] team… platform teams can create a cohesive experience that spans across different user experiences or products."
+According to Atlassian [[1]], "platform teams create capabilities that can be used by numerous stream-aligned [product] teams with little overhead... platform teams minimize resources and cognitive load of the stream-aligned [product] team... platform teams can create a cohesive experience that spans across different user experiences or products."
 
 According to Martin Fowler and Evan Bottcher [[2]], "a digital platform is a foundation of self-service APIs, tools, services, knowledge, and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination."
 
