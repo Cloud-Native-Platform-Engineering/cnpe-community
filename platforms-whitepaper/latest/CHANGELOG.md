@@ -4,7 +4,9 @@
 
 ### Summary
 
-This release represents a significant revision of the CNCF Platforms White Paper, refining the narrative framing, restructuring key sections, and updating content to reflect the current state of platform engineering practice.
+This release represents the first investment initiative in updating the CNCF Platforms White Paper. As a minor release, the goal is to refine the content to reflect the current state of platform engineering practice while leaving larger improvements to the upcoming v2.0.
+
+This is a minor release clarify the narrative framing, restructure key sections for readability, and update content to reflect the Platform Engineering Maturity Model work which was released after this white paper.
 
 ---
 
