@@ -10,7 +10,7 @@ This release represents a significant revision of the CNCF Platforms White Paper
 
 ### Introduction
 
-- Reframed the opening to position platform engineering as an optimisation for enterprises that experienced DevOps autonomy but need to manage the resulting costs, security risks, and inefficiencies.
+- Reframed the opening to position platform engineering as an optimization for enterprises that experienced DevOps autonomy but need to manage the resulting costs, security risks, and inefficiencies.
 - Clarified the primary value proposition: codifying what is unique to a business but common across internal teams to create an internal economy of scale.
 - Simplified language around cloud-native values delivered by platforms.
 
