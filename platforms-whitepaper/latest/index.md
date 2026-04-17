@@ -258,17 +258,17 @@ The following table is intended to help readers grasp each capability by loosely
 
 | Capability | Description | Example CNCF/CDF Projects |
 | :---- | :---- | :---- |
-| Web portals for provisioning and observing capabilities | Publish documentation and service catalogs. Publish telemetry about systems and capabilities. | Backstage, Skooner, Ortelius |
+| Web portals for provisioning and observing capabilities | Publish documentation and service catalogs. Publish telemetry about systems and capabilities. | Backstage, Ortelius |
 | APIs for automatically provisioning capabilities | Structured formats for automatically creating, updating, deleting and observing capabilities. | Kubernetes, Crossplane, Operator Framework, Helm, KubeVela |
 | Golden path templates and docs | Templated compositions of well-integrated code and capabilities for rapid project development. | ArtifactHub |
 | Automation for building and testing products | Automate build and test of digital products and services. | Tekton, Jenkins, Buildpacks, ko, Carvel |
-| Automation for delivering and verifying services | Automate and observe delivery of services. | Argo, Flux, Keptn, Flagger, OpenFeature |
-| Development environments | Enable research and development of applications and systems. | Devfile, Nocalhost, Telepresence, DevSpace |
+| Automation for delivering and verifying services | Automate and observe delivery of services. | Argo, Flux, Flagger, OpenFeature |
+| Development environments | Enable research and development of applications and systems. | Devfile, Telepresence, DevSpace |
 | Application observability | Instrument applications, gather and analyze telemetry and publish info to stakeholders. | OpenTelemetry, Jaeger, Prometheus, Thanos, Fluentd, Grafana, OpenCost |
 | Infrastructure services | Run application code, connect application components and persist data for applications | Kubernetes, Kubevirt, Knative, WasmEdge, KEDA, Istio, Cilium, Envoy, Linkerd, CoreDNS, Rook, Longhorn, Etcd |
 | Data services | Persist structured data for applications | TiKV, Vitess, SchemaHero |
 | Messaging and event services | Enable applications to communicate with each other asynchronously | Strimzi, NATS, gRPC, Knative, Dapr |
-| Identity and secret services | Ensure workloads have locators and secrets to use resources and capabilities. Enable services to identify themselves to other services | Keycloak, Dex, External Secrets, SPIFFE/SPIRE, Teller, cert-manager |
+| Identity and secret services | Ensure workloads have locators and secrets to use resources and capabilities. Enable services to identify themselves to other services | Keycloak, Dex, External Secrets, SPIFFE/SPIRE, cert-manager |
 | Security services | Observe runtime behavior and report/remediate anomalies. Verify builds and artifacts don't contain vulnerabilities. Constrain activities on the platform per enterprise requirements; notify and/or remediate aberrations | Falco, In-toto, KubeArmor, OPA, Kyverno, Cloud Custodian |
 | Artifact storage | Store, publish and secure built artifacts for use in production. Cache and analyze third-party artifacts. Store source code. | ArtifactHub, Harbor, Distribution, Porter |
 ## Glossary
