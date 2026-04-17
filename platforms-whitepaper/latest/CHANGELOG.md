@@ -52,7 +52,7 @@ This release represents a significant revision of the CNCF Platforms White Paper
 
 - Restructured from a brief bullet list into three explicitly named challenge sections with expanded guidance:
   1. **The platform is disconnected from the actual needs and wants of developers** - Emphasises product management partnership and the danger of top-down mandates.
-  2. **Too much effort is spent on low-value solutions that are overfitted to early-adopters** - Advises maintaining a birds-eye roadmap view while cherishing early adopters as champions.
+  2. **Too much effort is spent on low-value solutions that are overfitted to early-adopters** - Advises maintaining a bird's-eye roadmap view while cherishing early adopters as champions.
   3. **Low investment from leadership due to lack of clear impact** - Advises demonstrating direct impact on value stream teams and positioning the platform team as a strategic partner.
 - Added a forward reference to the metrics section for addressing the leadership investment challenge.
 
