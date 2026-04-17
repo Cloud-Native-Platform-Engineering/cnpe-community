@@ -259,7 +259,7 @@ Here are capability domains to consider when building platforms for cloud-native
 The following table is intended to help readers grasp each capability by loosely relating it to existing CNCF or CDF projects.
 
 | Capability | Description | Example CNCF/CDF Projects |
-| --- | --- | --- |
+| :---- | :---- | :---- |
 | Web portals for provisioning and observing capabilities | Publish documentation, service catalogs, and project templates. Publish telemetry about systems and capabilities. | Backstage, Skooner, Ortelius |
 | APIs for automatically provisioning capabilities | Structured formats for automatically creating, updating, deleting and observing capabilities. | Kubernetes, Crossplane, Operator Framework, Helm, KubeVela |
 | Golden path templates and docs | Templated compositions of well-integrated code and capabilities for rapid project development. | ArtifactHub |
