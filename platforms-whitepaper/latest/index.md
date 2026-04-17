@@ -270,7 +270,7 @@ The following table is intended to help readers grasp each capability by loosely
 | Messaging and event services | Enable applications to communicate with each other asynchronously | Strimzi, NATS, gRPC, Knative, Dapr |
 | Identity and secret services | Ensure workloads have locators and secrets to use resources and capabilities. Enable services to identify themselves to other services | Keycloak, Dex, External Secrets, SPIFFE/SPIRE, cert-manager |
 | Security services | Observe runtime behavior and report/remediate anomalies. Verify builds and artifacts don't contain vulnerabilities. Constrain activities on the platform per enterprise requirements; notify and/or remediate aberrations | Falco, In-toto, KubeArmor, OPA, Kyverno, Cloud Custodian |
-| Artifact storage | Store, publish and secure built artifacts for use in production. Cache and analyze third-party artifacts. Store source code. | ArtifactHub, Harbor, Distribution, Porter |
+| Artifact storage | Store, publish and secure built artifacts for use in production. Cache and analyze third-party artifacts. Store source code. | Artifact Hub, Harbor, Distribution, Porter |
 ## Glossary
 
 See also <https://glossary.cncf.io/>.
