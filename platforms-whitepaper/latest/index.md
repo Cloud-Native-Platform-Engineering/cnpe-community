@@ -265,7 +265,7 @@ The following table is intended to help readers grasp each capability by loosely
 | Automation for delivering and verifying services | Automate and observe delivery of services. | Argo, Flux, Keptn, Flagger, OpenFeature |
 | Development environments | Enable research and development of applications and systems. | Devfile, Nocalhost, Telepresence, DevSpace |
 | Application observability | Instrument applications, gather and analyze telemetry and publish info to stakeholders. | OpenTelemetry, Jaeger, Prometheus, Thanos, Fluentd, Grafana, OpenCost |
-| Infrastructure services | Run application code, connect application components and persist data for applications | Kubernetes, Kubevirt, Knative, WasmEdge, KEDA CNI, Istio, Cilium, Envoy, Linkerd, CoreDNS Rook, Longhorn, Etcd |
+| Infrastructure services | Run application code, connect application components and persist data for applications | Kubernetes, Kubevirt, Knative, WasmEdge, KEDA, Istio, Cilium, Envoy, Linkerd, CoreDNS, Rook, Longhorn, Etcd |
 | Data services | Persist structured data for applications | TiKV, Vitess, SchemaHero |
 | Messaging and event services | Enable applications to communicate with each other asynchronously | Strimzi, NATS, gRPC, Knative, Dapr |
 | Identity and secret services | Ensure workloads have locators and secrets to use resources and capabilities. Enable services to identify themselves to other services | Keycloak, Dex, External Secrets, SPIFFE/SPIRE, Teller, cert-manager |
