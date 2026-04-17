@@ -155,7 +155,7 @@ To counter this, platform teams should include product managers from the start t
 When creating a platform, choosing the right capabilities and experiences to enable first is crucial.
 Capabilities that are frequently required and undifferentiated, like pipelines, databases and observability, may be a good place to start.
 Platform teams may also choose to focus first on a limited number of engaged and skillful app teams, who can provide detailed feedback.
-While this is valuable for the platform development process, it is important to maintain a birds-eye view of how the platform should evolve, and manage the roadmap thoughtfully to avoid prioritizing solutions for very narrow use-cases.
+While this is valuable for the platform development process, it is important to maintain a bird's-eye view of how the platform should evolve, and manage the roadmap thoughtfully to avoid prioritizing solutions for very narrow use-cases.
 Still, these teams should be cherished; if you can engage with the early adopters, include their feedback and give them a feeling of ownership, you will end up with teams that can help champion and evangelize the platform to later adopters.
 
 **Low investment from leadership due to lack of clear impact**
