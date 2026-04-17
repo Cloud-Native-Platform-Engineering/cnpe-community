@@ -15,7 +15,7 @@ versions:
 
 ## Introduction
 
-Platform engineering has emerged as a necessary optimisation for enterprises that experienced the value of autonomous teams with the emergence of DevOps, but want to reduce the costs, security risks, and inefficiencies that came with that autonomy.
+Platform engineering has emerged as a necessary optimization for enterprises that experienced the value of autonomous teams with the emergence of DevOps, but want to reduce the costs, security risks, and inefficiencies that came with that autonomy.
 Platforms curate and present foundational capabilities, frameworks, and experiences to facilitate and accelerate the work of internal customers such as application developers, data scientists, and information workers.
 Most importantly, platforms help enterprises realize the cloud native values of fast product releases, portability across infrastructure's, and greater developer productivity across their entire technology estate.
 Platforms achieve this by codifying what is unique to their business but common across their internal teams, creating an internal economy of scale that their software teams can leverage.
