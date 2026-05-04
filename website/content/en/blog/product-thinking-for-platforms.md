@@ -17,9 +17,9 @@ Are you building platforms your engineers love to use?
 
 KubeCon EU 2024 just wrapped up and while the buzz around AI was omnipresent, there was another topic the cloud native community couldn’t seem to get enough of: platform engineering. It doesn’t matter if you attended the very first CoLocated [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/platform-engineering-day/#about), listened in on the [Platform Engineering Talks Track](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule/), strolled through the sponsored booth hall or just sat at home checking your Social Media Thread with FOMO.
 
-If we're talking about platform engineering, we of course need to bring up the [CNCF Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/wgs/platforms/maturity-model/v1/) that helps organizations evaluate the current state of their platform, understand the gaps, and inform the strategy for the future of their platform. One such direction that many high performing organizations share is treating your platform as a product. 
+If we're talking about platform engineering, we of course need to bring up the [CNCF Platform Engineering Maturity Model](/whitepapers/platform-eng-maturity-model/) (updated link March, 2026) that helps organizations evaluate the current state of their platform, understand the gaps, and inform the strategy for the future of their platform. One such direction that many high performing organizations share is treating your platform as a product. 
 
-“Nice!”, you say. “Alright then, give me the tools and methodologies to make my platform-as-a-product and then we’re good!”, you might add. But it’s not that easy. While there is a research initiative within the [CNCF Platform Working Group](https://tag-app-delivery.cncf.io/wgs/platforms/) to find out how organizations approach platform-as-a-product, one thing is already clear: It’s not just about a set of tools and methodologies, it’s about a mindset - Product Thinking. 
+“Nice!”, you say. “Alright then, give me the tools and methodologies to make my platform-as-a-product and then we’re good!”, you might add. But it’s not that easy. While there is a research initiative within the [CNCF Platform Working Group](/) (updated link March, 2026) to find out how organizations approach platform-as-a-product, one thing is already clear: It’s not just about a set of tools and methodologies, it’s about a mindset - Product Thinking. 
 
 But now what’s this Product Thinking? And why should you care? Product Thinking is making sure you build the right things without wasting time, resources and money to build something that users don’t care about. That’s why this blog is starting with a look at what Product Thinking is, how you can benefit from it and how it can make your platform into something engineers love to use.
 
@@ -126,9 +126,9 @@ We hope we've made a good case for the important of using Product Thinking and i
 You can get started right now, though. It's simple: talk to your users, listen to them and start figuring out their problems.
 
 If you'd like to learn more about the Platforms Working Group, here are some resources:
-- [Platforms WG Home Page](https://tag-app-delivery.cncf.io/wgs/platforms/) 
+- [Platforms WG Home Page](/) (updated link March, 2026)
 - [CNCF Slack Signup](https://communityinviter.com/apps/cloud-native/cncf)
 - [#platform-engineering channel](https://cloud-native.slack.com/archives/C020RHD43BP)
 
-Also, consider participating in our Platform As A Product [research effort](https://tag-app-delivery.cncf.io/blog/call-participation-paap-research/).
+Also, consider participating in our Platform As A Product [research effort](https://cloudnativeplatforms.com/blog/call-participation-paap-research/). (updated link March, 2026)
 

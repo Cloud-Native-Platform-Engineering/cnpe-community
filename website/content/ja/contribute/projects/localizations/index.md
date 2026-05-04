@@ -1,6 +1,7 @@
 ---
 title: ローカライゼーション
 list_pages: false
+outdated: true
 ---
 
 ## イントロダクション

@@ -1,0 +1,32 @@
+{{/* Always show all configured languages. Fall back to the English version of the page when no translation exists. */}}
+{{ $currentLang := .Language.Lang }}
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	{{ .Language.LanguageName }}
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+	{{ range $.Site.Languages }}
+	{{ if ne .Lang $currentLang }}
+		{{ $targetLang := .Lang }}
+		{{ $langName := .LanguageName }}
+		{{/* Look for a translation of the current page in this language */}}
+		{{ $href := "" }}
+		{{ range $.AllTranslations }}
+			{{ if eq .Language.Lang $targetLang }}
+				{{ $href = .RelPermalink }}
+			{{ end }}
+		{{ end }}
+		{{ if not $href }}
+			{{/* No translation — fall back to the English version of this page */}}
+			{{ range $.AllTranslations }}
+				{{ if eq .Language.Lang "en" }}
+					{{ $href = .RelPermalink }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+		{{ if not $href }}
+			{{ $href = "/" }}
+		{{ end }}
+		<a class="dropdown-item" href="{{ $href }}">{{ $langName }}</a>
+	{{ end }}
+	{{ end }}
+</div>

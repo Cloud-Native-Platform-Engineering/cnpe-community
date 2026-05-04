@@ -1,6 +1,7 @@
 ---
 title: "CNCF TAG Appデリバリー"
 list_pages: true
+outdated: true
 ---
 
 <div class="row mt-5 mb-3">
