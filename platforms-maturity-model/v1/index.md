@@ -8,6 +8,12 @@ This document refers to, enhances, and follows similar standards as the followin
 [Platforms Definition White Paper](/whitepapers/platforms/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model
+
+# parameters for website rendering options
+
+list_pages: false
+# use toc_hide to hide this section from the sidebar
+toc_hide: true
 ---
 
 
