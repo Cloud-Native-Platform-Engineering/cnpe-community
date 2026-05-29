@@ -14,6 +14,12 @@ url: whitepapers/platform-eng-maturity-model
 list_pages: false
 # use toc_hide to hide this section from the sidebar
 toc_hide: true
+versions:
+  - url: whitepapers/platform-eng-maturity-model/
+    version: v1.1 (latest)
+  - url: whitepapers/platform-eng-maturity-model/v1/
+    version: v1
+    active: true
 ---
 
 

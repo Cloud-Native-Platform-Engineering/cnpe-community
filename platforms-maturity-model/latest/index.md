@@ -8,6 +8,12 @@ This document refers to, enhances, and follows similar standards as the followin
 [Platforms Definition White Paper](/whitepapers/platforms/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model
+versions:
+  - url: whitepapers/platform-eng-maturity-model/
+    version: v1.1 (latest)
+    active: true
+  - url: whitepapers/platform-eng-maturity-model/v1/
+    version: v1
 ---
 
 
@@ -148,7 +154,7 @@ This aspect captures how the scale and breadth of investment can impact platform
 ### Level 1, Provisional — Voluntary or temporary
 
 Individual capabilities may exist to provide common foundations for common or critical functionality.
-These capabilities are built and maintained out of necessity rather than planned and intentionally funded. 
+These capabilities are built and maintained out of necessity rather than planned and intentionally funded.
 
 These capabilities are built and maintained by people assigned temporarily or voluntarily; no central funding or staffing are intentionally allocated to them.
 They depend on the current tactical requirements of their users.
@@ -182,7 +188,7 @@ It can be hard to map the impact of platform teams at this level on the organiza
 
 * The team is made up of nearly all technical generalists.
 * Team budget may include the infrastructure costs associated with their work leading to often being a key point in budget conversations.
-* Backlog items range a number of technologies, leading to frequent and large context switches. 
+* Backlog items range a number of technologies, leading to frequent and large context switches.
 * This team is often the first to fill a gap that is not yet being addressed, even if not in the declared scope for the team.
 This team takes ownership of resources that don't have an owner.
 * Assigned people rarely have the time or experience with customer research to validate their designs or implementations.
@@ -227,7 +233,7 @@ Further, the organization focuses people and resources from specialist domains l
 
 #### Example Scenarios:
 
-* Marketing works with platform builders to introduce consistent user tracking in order to attribute marketing efforts to product outcomes. 
+* Marketing works with platform builders to introduce consistent user tracking in order to attribute marketing efforts to product outcomes.
 * Automation initiative reduces human time to provision databases by 30 minutes per instance, saving $10m/year.
 
 {{< /tab >}}
@@ -502,7 +508,7 @@ This allows the organization to track progress towards capability offering and c
 * PostgreSQL 11 is going EOL by the end of the year.
 The organization is aware of which databases require upgrade and are scheduling the work on each team’s backlog to complete.
 
-### Level 3, Scalable — Centrally enabled 
+### Level 3, Scalable — Centrally enabled
 
 Platforms and capabilities are not only centrally registered but also centrally orchestrated.
 Platform teams take responsibility for understanding the broad needs of the organization and prioritize work across platform and infrastructure teams accordingly.
@@ -535,7 +541,7 @@ Platform capability providers take on the brunt of responsibility for maintenanc
 
 #### Characteristics:
 
-* A shared ownership model clearly defines who is responsible for platforms and their capabilities and what is expected of users. 
+* A shared ownership model clearly defines who is responsible for platforms and their capabilities and what is expected of users.
 * Teams script both the execution of the upgrade and any rollback strategies to keep risk and impact low.
 
 #### Example Scenarios:
@@ -615,7 +621,7 @@ Industry frameworks and standards may be used to benefit from industry research 
 Dedicated teams or tools are employed to gather and review feedback and summarize actionable insights.
 A symbiotic relationship between platform products and their users is established.
 Feedback is considered a strategic asset that guides platform operations and roadmap.
-Regular feedback review sessions might be instituted, where cross-functional teams come together to discuss and strategize based on user insights. 
+Regular feedback review sessions might be instituted, where cross-functional teams come together to discuss and strategize based on user insights.
 
 #### Characteristics:
 
