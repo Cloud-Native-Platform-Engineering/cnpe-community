@@ -24,7 +24,7 @@
 				{{ partial "navbar-version-selector.html" . }}
 			</li>
 			{{ end }}
-			{{ if  (gt (len .Site.Home.Translations) 0) }}
+			{{ if (gt (len .Site.Languages) 1) }}
 			<li class="nav-item dropdown mr-4 d-none d-lg-block">
 				{{ partial "navbar-lang-selector.html" . }}
 			</li>

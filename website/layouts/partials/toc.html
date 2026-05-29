@@ -1,7 +1,11 @@
 {{ partial "page-meta-links.html" . }}
 
 {{ if not .Params.notoc }}
-{{ with .TableOfContents }}
+{{ $toc := .TableOfContents }}
+{{ if .Params.outdated }}
+  {{ range .AllTranslations }}{{ if eq .Language.Lang "en" }}{{ $toc = .TableOfContents }}{{ end }}{{ end }}
+{{ end }}
+{{ with $toc }}
 {{ if ge (len .) 200 }}
 <div class="ml-2 mt-4 mb-2 toc-header">{{ T "page_contents" }}</div>
 {{ . }}

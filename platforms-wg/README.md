@@ -35,5 +35,5 @@ or the meetings described below.
 
 ## Resources
 
-* Blog: https://tag-app-delivery.cncf.io/tags/?WG-Platforms=true
-* Github issues: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=is%3Aissue+is%3Aopen+label%3Awg-platforms
+* Blog: https://cloudnativeplatforms.com/blog/
+* Github issues: https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues

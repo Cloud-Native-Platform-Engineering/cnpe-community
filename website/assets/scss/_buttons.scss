@@ -11,6 +11,34 @@
 	width: unset;
 }
 
+.version-switcher {
+	.btn.dropdown-toggle {
+		color: $pink;
+		border-color: $pink;
+		background-color: transparent;
+		&:hover,
+		&:focus {
+			color: $white;
+			background-color: $pink;
+			border-color: $pink;
+		}
+	}
+	.dropdown-menu {
+		.dropdown-item {
+			color: $black;
+			&.active,
+			&:active {
+				color: $pink;
+				background-color: transparent;
+				font-weight: 700;
+			}
+			&:hover:not(.active) {
+				background-color: lighten($pink, 35%);
+			}
+		}
+	}
+}
+
 .cncf-button {
 	color: $white;
 	background-color: $black;

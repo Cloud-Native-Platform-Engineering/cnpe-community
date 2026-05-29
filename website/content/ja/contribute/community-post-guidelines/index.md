@@ -1,11 +1,12 @@
 ---
 title: コミュニティへの投稿のガイドライン
 list_pages: false
+outdated: true
 ---
 
 ## Introduction
 
-This policy outlines the guidelines for accepting, reviewing, and publishing blog posts on our platform: https://tag-app-delivery.cncf.io/blog.
+This policy outlines the guidelines for accepting, reviewing, and publishing blog posts on our platform: https://cloudnativeplatforms.com/blog.
 
 Blog posts are an opportunity to foster a diverse and vibrant discussion environment, showcasing a variety of viewpoints from members and the wider open source community.
 

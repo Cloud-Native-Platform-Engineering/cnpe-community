@@ -1,6 +1,7 @@
 ---
 title: "CNCF 应用交付 TAG "
 list_pages: true
+outdated: true
 ---
 
 <div class="row mt-5 mb-3">

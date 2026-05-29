@@ -1,11 +1,11 @@
 # CNPE Community Website
 
 This directory contains a [Hugo](https://gohugo.io) web site published via
-[Netlify](https://www.netlify.com/) to <https://tag-app-delivery.cncf.io/>.
+[Netlify](https://www.netlify.com/) to <https://cloudnativeplatforms.com/>.
 
 When the `main` branch of this repo is updated a fresh build and deploy of the
 website is executed. Recent Netlify builds and deployments are listed at
-<https://app.netlify.com/sites/tag-app-delivery>.
+<https://app.netlify.com/projects/cnpe>.
 
 A preview site is generated for each PR too, with a link and other info on the
 PR build added as a comment to the related issue.

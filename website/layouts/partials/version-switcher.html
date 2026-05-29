@@ -1,0 +1,41 @@
+{{ with .Params.versions }}
+{{/* Separate "latest" from versioned entries, sort versioned newest-first */}}
+{{ $latest := slice }}
+{{ $versioned := slice }}
+{{ range . }}
+  {{ if eq .version "latest" }}
+    {{ $latest = $latest | append . }}
+  {{ else }}
+    {{ $versioned = $versioned | append . }}
+  {{ end }}
+{{ end }}
+{{ $sorted := sort $versioned "version" "desc" }}
+
+{{/* Determine the button label from the active entry */}}
+{{ $buttonLabel := "Version" }}
+{{ range . }}
+  {{ if .active }}
+    {{ if eq .version "latest" }}
+      {{ $buttonLabel = "Latest" }}
+    {{ else }}
+      {{ $buttonLabel = .version }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<div class="version-switcher dropdown d-inline-block mb-3">
+  <button class="btn btn-outline-secondary btn-sm dropdown-toggle" type="button" id="versionSwitcher" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    {{ $buttonLabel }}
+  </button>
+  <div class="dropdown-menu" aria-labelledby="versionSwitcher">
+    {{/* Latest first */}}
+    {{ range $latest }}
+    <a class="dropdown-item{{ if .active }} active{{ end }}" href="{{ .url }}">Latest</a>
+    {{ end }}
+    {{/* Versioned entries, newest to oldest */}}
+    {{ range $sorted }}
+    <a class="dropdown-item{{ if .active }} active{{ end }}" href="{{ .url }}">{{ .version }}</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

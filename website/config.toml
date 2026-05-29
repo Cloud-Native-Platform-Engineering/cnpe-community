@@ -93,6 +93,14 @@ languageName = "Français(French)"
 contentDir = "content/fr"
 weight = 6
 
+[languages.de]
+title = "Cloud Native Platform Engineering Community"
+languageName = "Deutsch(German)"
+contentDir = "content/de"
+weight = 7
+[languages.de.params]
+description = "Die Cloud Native Platform Engineering Community konzentriert sich auf die Ermöglichung von Projekten und Initiativen im Zusammenhang mit der Bereitstellung von Cloud-nativen Anwendungen, einschließlich deren Erstellung, Verwaltung und Betrieb."
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

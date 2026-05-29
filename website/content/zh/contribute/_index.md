@@ -5,4 +5,5 @@ menu:
   main:
     weight: 20
 description: 参与 TAG 的方式
+outdated: true
 ---

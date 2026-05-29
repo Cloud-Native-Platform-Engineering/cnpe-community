@@ -31,9 +31,16 @@ body:
     attributes:
       value: |
         If this is a new localization, please complete the following items:
-        - [ ] Enable i18n by update website/config.toml and website/i18n/<short-language-code>.toml
+        - [ ] Add the language to `website/config.toml` under `[languages]`
+        - [ ] Create `website/i18n/<short-language-code>.toml` with UI string translations
+        - [ ] Create `website/content/<short-language-code>/_index.md` (homepage) with `outdated: true`
+        - [ ] Create section stubs (`blog/_index.md`, `contribute/_index.md`, `initiatives/_index.md`) with `outdated: true` so the top navigation works
+        - [ ] Create translation stubs for all existing pages (frontmatter only, with `outdated: true`) so the site doesn't 404 in the new language
 
         All localizations require the following items:
-        - [ ] Translate some key pages (e.g. content/_short-language-code_/_index.md)
+        - [ ] Translate page content and remove the `outdated: true` flag from translated files
+        - [ ] For versioned resources (whitepapers, glossary, maturity model), ensure both `latest/` and version folders (e.g. `v1/`) have corresponding files
         - [ ] Local testing
         - [ ] Reviews by additional native speakers
+
+        See the [Contributing translations](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community#contributing-translations) section of the README for more details on the translation workflow.

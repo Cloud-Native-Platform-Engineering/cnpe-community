@@ -1,6 +1,7 @@
 ---
 title: "CNCF 앱 딜리버리 TAG"
 list_pages: true
+outdated: true
 ---
 
 <div class="row mt-5 mb-3">

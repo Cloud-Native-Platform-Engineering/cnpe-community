@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git config --global --add safe.directory /workspaces/tag-app-delivery
+git config --global --add safe.directory /workspaces/cnpe-community
 git submodule update --init --recursive
 cd website
 npm install

@@ -2,8 +2,7 @@ We are grateful for the many people who spent their time and energy reviewing or
 
 This list is meant to thank these individuals but is in no way indicative of their endorsement or complete agreement with the final contents.
 
-Many apologies if this list is inaccurate in any way.
-If anyone feels they have been left off or would prefer to be removed please reach out.
+Many apologies if this list is inaccurate in any way. If anyone feels they have been left off or would prefer to be removed please reach out.
 
 [Version 0.0.1](https://docs.google.com/document/d/1dXx5wJm_vfq3hXRr1kPOEp3g3W0UgBkynjyK-OBuJyM/edit) reviewers: Abby Bangser, Abby Kearns, Abdur Rahman Mungul, Adrian Cockroft, Colin Humphreys, Daniel Bryant, Edward (Ted) Newman, Kief Morris, Paula Kennedy, Manuel Pais, Michael Coté, Nicki Watt, Sam Newman
 

@@ -5,6 +5,7 @@ menu:
   main:
     weight: 20
 description: TAGに貢献する方法
+outdated: true
 ---
 
 Here are a few suggestions on how to get started with the CNCF Technical Advisory Group (TAG) App Delivery. While you may find it useful to approach each in order, there is no requirement to do so. Find what makes sense to you and jump in!
