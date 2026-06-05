@@ -11,9 +11,11 @@ Welcome to the Cloud Native Platform Engineering Community Resources page. Here 
 
 Key artifacts produced by the Cloud Native Platform Engineering Community:
 
-- **[Platforms Whitepaper](whitepaper/latest/)** - Comprehensive guide to platform engineering principles and practices
-- **[Platform Maturity Model](maturity-model/v1/)** - Framework for assessing and evolving your platform engineering practice
-- **[Glossary](glossary/)** - Standardized terminology for platform engineering
+- **[Platforms Whitepaper](whitepaper/latest/)** - Foundational definition of the core capabilities of cloud-native platform engineering
+- **[Platform Maturity Model](maturity-model/v1/)** - Practical framework for assessing and evolving your platform, team and organization
+- **[Glossary](glossary/)** - Reference for terminology used across the initiatives
+
+In addition to the documents above, the Cloud Native Platform Engineering Community is currently working on an additional intiative on the platform factors.
 
 ## Education
 
