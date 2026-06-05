@@ -15,7 +15,7 @@ Key artifacts produced by the Cloud Native Platform Engineering Community:
 - **[Platform Maturity Model](maturity-model/v1/)** - Practical framework for assessing and evolving your platform, team and organization
 - **[Glossary](glossary/)** - Reference for terminology used across the initiatives
 
-In addition to the documents above, the Cloud Native Platform Engineering Community is currently working on an additional intiative on the platform factors.
+In addition to the documents above, the Cloud Native Platform Engineering Community is actively working on an additional intiative on the platform factors.
 
 ## Education
 
