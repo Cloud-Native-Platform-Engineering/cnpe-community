@@ -23,7 +23,7 @@ Depending on the scope and audience for a platform, it may sometimes be referred
 
 ## Platform engineering
 
-The design, construction, operation, and evolution of a platform. One way to view the practice is as an empathy-driven approach towards sociotechnical organizational design<sup>[1](https://hazelweakly.me/talks/qcon-san-francisco-2023--understanding-platforms-what-they-are-why-they-work-when-to-use-them-how-to-build-them/)<</sup>. In this light, it is a continuous process by which an organization learns how and where to invest and to make strategic business bets internally, rather than just externally.
+The design, construction, operation, and evolution of a platform. One way to view the practice is as an empathy-driven approach towards sociotechnical organizational design<sup>[1](https://hazelweakly.me/talks/qcon-san-francisco-2023--understanding-platforms-what-they-are-why-they-work-when-to-use-them-how-to-build-them/)</sup>. In this light, it is a continuous process by which an organization learns how and where to invest and to make strategic business bets internally, rather than just externally.
 
 ## Platform team
 
