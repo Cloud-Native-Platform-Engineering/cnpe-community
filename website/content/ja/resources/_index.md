@@ -1,7 +1,30 @@
 ---
-title: Resources
+title: リソース
 menu:
   main:
     weight: 20
-outdated: true
 ---
+
+Cloud Native Platform Engineeringコミュニティのリソースページへようこそ。ここでは、コミュニティによって作成された貴重な資料と、知識を深めるための教育リソースをご覧いただけます。
+
+## 成果物
+
+Cloud Native Platform Engineeringコミュニティが作成した主要な成果物：
+
+- **[プラットフォームホワイトペーパー](whitepaper/latest/)** - プラットフォームエンジニアリングの原則と実践に関する包括的ガイド
+- **[プラットフォーム成熟度モデル](maturity-model/v1/)** - プラットフォームエンジニアリング実践の評価と進化のためのフレームワーク
+- **[用語集](glossary/)** - プラットフォームエンジニアリングの標準的な用語集
+
+## 教育
+
+### 認定クラウドネイティブプラットフォームエンジニアリングアソシエイト (CNPA)
+
+認定クラウドネイティブプラットフォームエンジニアリングアソシエイト (CNPA) 認定は、クラウドネイティブプラットフォームの運用・管理における熟練度を証明します。この認定は、プラットフォームの運用、保守、ベストプラクティスに関するスキルを証明します。
+
+[CNPAの詳細はこちら →](https://training.linuxfoundation.org/ja/certification/certified-cloud-native-platform-engineering-associate-cnpa/)
+
+### 認定クラウドネイティブプラットフォームエンジニア（CNPE）
+
+認定クラウドネイティブプラットフォームエンジニア（CNPE）認定は、クラウドネイティブプラットフォームの設計、構築、実装における専門知識を証明します。この認定は、堅牢なプラットフォームエンジニアリングソリューションを設計・開発する能力を証明します。
+
+[CNPEの詳細はこちら →](https://training.linuxfoundation.org/ja/certification/certified-cloud-native-platform-engineer-cnpe/)

@@ -13,7 +13,7 @@ list_pages: false
 toc_hide: true
 versions:
   - url: /whitepapers/platforms/
-    version: latest
+    version: v1.1 (latest)
   - url: /whitepapers/platforms/v1/
     version: v1
     active: true

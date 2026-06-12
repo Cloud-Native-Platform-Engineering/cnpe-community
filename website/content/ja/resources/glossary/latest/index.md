@@ -3,6 +3,12 @@ title: 用語集
 description: "プラットフォームWGの文書で使用される主要な用語を定義します。"
 type: whitepapers
 url: resources/glossary
+versions:
+  - url: /resources/glossary/
+    version: latest
+    active: true
+  - url: /resources/glossary/v1/
+    version: v1
 ---
 
 [クラウドネイティブ用語集](https://glossary.cncf.io/ja/)も併せて参照してください。
