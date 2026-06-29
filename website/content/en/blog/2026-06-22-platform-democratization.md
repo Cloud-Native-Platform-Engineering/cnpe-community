@@ -15,7 +15,7 @@ tags:
 
 As of 2026, platform engineering has **become the quiet driving force behind the revolution known as platform democratization**[^1]. Advances in cloud-native technologies have made a wide range of technologies and tools available to developers, creating an environment where they can bring various ideas to life at their own discretion. However, a side effect of this has been the growing cognitive load on developers. Furthermore, as AI is put into practical use in enterprise systems, complexity is increasing exponentially. Against this backdrop, the platform engineering ecosystem—which forms the foundation of software delivery—is undergoing a major evolution, moving beyond mere technologies such as tools and workflows to include intelligent systems, methodologies, and organizational capabilities that natively incorporate AI.
 
-[^1] [From YAML to Intelligence: The Evolution of Platform Engineering | CNCF](https://www.cncf.io/blog/2025/07/22/from-yaml-to-intelligence-the-evolution-of-platform-engineering/)
+[^1]: [From YAML to Intelligence: The Evolution of Platform Engineering | CNCF](https://www.cncf.io/blog/2025/07/22/from-yaml-to-intelligence-the-evolution-of-platform-engineering/)
 
 In this article, we examine how the evolution of platform engineering through cloud-native technologies draws out human agency and promotes the democratization of development.
 
@@ -23,7 +23,7 @@ In this article, we examine how the evolution of platform engineering through cl
 
 Before building AI-powered platforms, many companies face the challenge of upgrading their existing infrastructure. According to data from the Q1 2026 Technology Radar[^2], **28% of organizations currently have a dedicated platform engineering team responsible for their internal platforms**. Furthermore, **35% of organizations are integrating AI workloads using “hybrid platforms” that combine existing developer platforms with specialized AI tools**.
 
-[^2] [CNCF Tech Radar](https://www.cncf.io/reports/cncf-technology-landscape-radar/)
+[^2]: [CNCF Tech Radar](https://www.cncf.io/reports/cncf-technology-landscape-radar/)
 
 The primary motivation behind these organizational and architectural reforms is “reducing developers’ cognitive load.” For example, to enable developers to utilize AI, it is necessary to standardize interfaces using tools such as the [Gateway API](https://kubernetes.io/docs/concepts/services-networking/gateway/) and abstract the AI backend technology from developers. In AI workloads, Gateway APIs provide essential functions such as inference endpoint routing, A/B testing, gateway-level rate limiting (token limits), and centralized authentication. This provides developers with a “democratized environment” where they can proactively apply their own ideas to AI without being constrained by the complexity of the infrastructure.
 
@@ -33,11 +33,11 @@ As platform engineering matures, organizations are beginning to overcome the ear
 
 As of 2026, **the percentage of organizations focused solely on adding a portal to their existing CI/CD setup has dropped to just 9.1%**[^3]. The true value of a platform is defined not by the appearance of the UI, but by the “backend logic”—such as orchestration, policy enforcement, and built-in controls.
 
-[^3] [Platform engineering maturity in 2026: What the data tells us](https://platformengineering.org/blog/platform-engineering-maturity-in-2026)
+[^3]: [Platform engineering maturity in 2026: What the data tells us](https://platformengineering.org/blog/platform-engineering-maturity-in-2026)
 
 The ultimate destination of this evolution is the “platformization of organizational knowledge.” As indicated by the CNCF’s Cloud-Native Maturity Model [^4], at the highest level of maturity, “tribal knowledge is codified into the platform.”
 
-[^4] [Cloud Native Maturity Model](https://maturitymodel.cncf.io/)
+[^4]: [Cloud Native Maturity Model](https://maturitymodel.cncf.io/)
 
 Knowledge that was previously scattered across spreadsheets or confined to the minds of specific individuals becomes the shared asset of the entire organization through centralized management as service catalogs and templates. Furthermore, this codified organizational knowledge is subject to strict governance to ensure it meets the same security classification standards as the workloads it supports. This achieves true democratization, enabling all developers to proactively leverage the organization’s best practices without relying on a select few experts.
 
@@ -49,13 +49,13 @@ Applying the CNCF’s concept of “coding tacit knowledge” to AI inference wo
 
 Currently, **66% of organizations choose Kubernetes to host their AI workloads**[^5]. However, while public attention is focused on the training of large language models (LLMs), there is a surprising fact: **52% of organizations are “consumers” who do not build or train their own models**[^5].
 
-[^5]  [CNCF Annual Cloud Native Survey](https://www.cncf.io/wp-content/uploads/2026/01/CNCF_Annual_Survey_Report_final.pdf)
+[^5]: [CNCF Annual Cloud Native Survey](https://www.cncf.io/wp-content/uploads/2026/01/CNCF_Annual_Survey_Report_final.pdf)
 
 For platform engineers, true competitive advantage lies in strengthening the pipelines that deliver “inference” so that everyone can use AI. By lowering the barrier to deploying AI workloads and significantly increasing inference capacity, AI capabilities become accessible not just to a select few experts, but to all developers, accelerating the true democratization of the platform.
 
 “AI engineering”—the process of running AI models in production—involves infrastructure challenges such as delivering low-latency, highly available models and scheduling GPU resources. This is where the **cloud-native ecosystem**[^6] comes into play. Note that the term “AI engineering” encompasses a broad range of concepts, including LLMOps (the operation and management of LLMs), AgentOps (the operation and management of AI agents), and even AI platform engineering.
 
-[^6] [The platform under the model: How cloud native powers AI engineering in production | CNCF](https://www.cncf.io/blog/2026/03/26/the-platform-under-the-model-how-cloud-native-powers-ai-engineering-in-production/)
+[^6]: [The platform under the model: How cloud native powers AI engineering in production | CNCF](https://www.cncf.io/blog/2026/03/26/the-platform-under-the-model-how-cloud-native-powers-ai-engineering-in-production/)
 
 In the “The cloud native stack for (Gen) AI” section of this blog post, the author argues that many of the features necessary to support AI workloads already exist within the Cloud Native Computing Foundation (CNCF) ecosystem and **breaks them down into the following six elements**.
 
@@ -72,7 +72,7 @@ By having these technologies handle the complex behind-the-scenes mechanisms—s
 
 By 2026, the role of AI is shifting from that of a mere support tool (co-pilot) to that of an “autonomous agent” entrusted with mission-critical tasks such as provisioning and incident response. To balance this advanced automation with governance, enterprises will need the following “**Four Pillars of Control**[^7].”
 
-[^7] [The autonomous enterprise and the four pillars of platform control: 2026 forecast | CNCF](https://www.cncf.io/blog/2026/01/23/the-autonomous-enterprise-and-the-four-pillars-of-platform-control-2026-forecast/)
+[^7]: [The autonomous enterprise and the four pillars of platform control: 2026 forecast | CNCF](https://www.cncf.io/blog/2026/01/23/the-autonomous-enterprise-and-the-four-pillars-of-platform-control-2026-forecast/)
 
 1. **Golden Path (Autonomous Generation and Optimization)**: When a developer simply specifies the requirement “I need a secure, scalable service on AWS,” the AI agent fully configures and provisions infrastructure that complies with regulations. This also includes the ability to autonomously detect and clean up zombie infrastructure that is no longer needed.  
 1. **Guardrails (Proactive AI Enforcer)**: AI encodes compliance requirements (Policy-as-Code) and, upon detecting configuration drift, immediately performs autonomous corrections (self-healing). This ensures that a compliant environment is continuously maintained.  
@@ -85,7 +85,7 @@ The key point here is the fourth observation: **intentionally retaining human ju
 
 While AI hides the complexity of tools and workflows, the success of a platform depends on the “people” who build and use it. The “platform democracy” approach—where developers, SREs, security teams, and others participate as equals to deliver features—is crucial. Furthermore, incorporating diverse perspectives (such as neurodiversity) and ensuring that everyone feels a sense of belonging (“Designing for Belonging”) enhances team performance and platform maturity [^8]. 
 
-[^8] [Rethinking platform engineering through diverse perspectives at KubeCon \+ CloudNativeCon EU Amsterdam | CNCF](https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/)
+[^8]: [Rethinking platform engineering through diverse perspectives at KubeCon \+ CloudNativeCon EU Amsterdam | CNCF](https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/)
 
 A point emphasized repeatedly in this article is that “**human factors, rather than technical aspects, determine the adoption, maintainability, and long-term impact of platform engineering.**” The most effective platforms are those built not only on technical expertise but also with empathy, inclusivity, and collaboration at their core. Recognizing diverse perspectives—including technical experience, cognitive styles, and social identities as a whole—is not merely an optional added value, but a fundamental requirement for sustainable platform engineering. 
 
