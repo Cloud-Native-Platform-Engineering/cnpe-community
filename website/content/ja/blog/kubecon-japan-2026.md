@@ -24,7 +24,7 @@ CNPEJ は、CNCF の日本チャプターである [Cloud Native Community Japan
 7月28日（火）には、[Japan Community Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/japan-community-day/) が開催されます。
 これは日本各地のミートアップコミュニティや SIG が一堂に会する Colocated Event です。
 CNPEJ も共催コミュニティの一つとして参加し、7月28日（火）14:40〜15:50 に 4F | 411+412 でセッション枠を開催します。
-Japan Community Day への参加には事前登録が必要です。
+Japan Community Day への参加には事前登録が必要です。[KubeCon + CloudNativeCon Japan のチケット購入](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/register/)時に、無料アドオンとして追加できます。
 
 ## ブース
 

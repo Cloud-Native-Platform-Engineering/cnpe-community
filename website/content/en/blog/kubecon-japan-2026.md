@@ -26,7 +26,7 @@ On Tuesday, July 28th, join us for [Japan Community Day](https://events.linuxfou
 a co-located event bringing together local meetup communities and SIGs from across Japan.
 CNPEJ is one of the co-hosting communities,
 and will host its session slot on Tuesday, July 28th, 14:40-15:50 at 4F | 411+412.
-Please note that Japan Community Day requires pre-registration.
+Please note that Japan Community Day requires pre-registration — you can add it as a complimentary add-on when you [register for KubeCon + CloudNativeCon Japan](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/register/).
 
 ## Booth
 
