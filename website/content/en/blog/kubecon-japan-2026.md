@@ -15,7 +15,7 @@ We are Cloud Native Platform Engineering Japan (CNPEJ) — a SIG of [Cloud Nativ
 where platform engineering practitioners gather to share insights and connect Japan with the world.
 
 In this post, we want to share with you all the platform engineering activities happening at [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/).
-The event takes place July 28-30, 2026 at
+The event is taking place from July 28-30, 2026 at
 PACIFICO Yokohama (1-1-1 Minatomirai, Nishi-ku, Yokohama, Kanagawa Prefecture, 220-0012)!
 
 ## Japan Community Day
