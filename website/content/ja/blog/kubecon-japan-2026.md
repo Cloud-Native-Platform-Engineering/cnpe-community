@@ -17,6 +17,8 @@ CNPEJ は、CNCF の日本チャプターである [Cloud Native Community Japan
 この記事では、[KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/) における Platform Engineering 関連の情報をお届けします。
 開催期間は 2026年7月28日（火）〜30日（木）、会場は PACIFICO Yokohama（神奈川県横浜市西区みなとみらい1-1-1、〒220-0012）です。
 
+以下に、参加できるイベントやアクティビティをまとめました。
+
 ## Japan Community Day
 
 7月28日（火）には、[Japan Community Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/co-located-events/japan-community-day/) が開催されます。
