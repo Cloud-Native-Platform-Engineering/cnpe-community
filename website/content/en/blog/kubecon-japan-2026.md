@@ -73,3 +73,10 @@ Cloud Native Platform Engineering Japan (CNPEJ) hosts meetups in Japan,
 and the next one (#3) is planned for Friday, September 25th, 2026.
 If you would like to give a talk, please submit your proposal via the
 [Cloud Native Platform Engineering Japan session application form](https://docs.google.com/forms/d/e/1FAIpQLSc4YfhQvOwuRNq-jXjWjQuuaNM3Mcm6kmK914LvZkh-gdZ98w/viewform).
+
+## See You in Yokohama!
+
+KubeCon + CloudNativeCon Japan 2026 is packed with platform engineering content, and we hope this roundup helps you plan your week.
+If you are attending, please drop by our sessions at Japan Community Day and our table at the Project Pavilion — we would love to meet you.
+To stay connected with the platform engineering community in Japan, join us through [Cloud Native Community Japan (CNCJ)](https://community.cncf.io/cloud-native-community-japan/).
+See you in Yokohama!

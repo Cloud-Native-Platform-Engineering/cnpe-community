@@ -68,3 +68,10 @@ CNPEJ がメインで運営します。ぜひお立ち寄りください！
 最後にもう一つお知らせです。こちらは KubeCon の併設イベントではありませんが、Cloud Native Platform Engineering Japan (CNPEJ) では日本国内で Meetup を開催しています。
 次回の Meetup #3 は 2026年9月25日（金）に開催予定です。
 登壇のご応募は [Cloud Native Platform Engineering Japan セッション申込書](https://docs.google.com/forms/d/e/1FAIpQLSc4YfhQvOwuRNq-jXjWjQuuaNM3Mcm6kmK914LvZkh-gdZ98w/viewform) からお願いします。
+
+## 横浜でお会いしましょう！
+
+KubeCon + CloudNativeCon Japan 2026 は Platform Engineering 関連のコンテンツが盛りだくさんです。この記事が皆さんのカンファレンス参加計画の参考になれば幸いです。
+参加される方は、ぜひ Japan Community Day のセッションや Project Pavilion のテーブルにお立ち寄りください。皆さんとお会いできることを楽しみにしています。
+日本の Platform Engineering コミュニティとつながりたい方は、[Cloud Native Community Japan (CNCJ)](https://community.cncf.io/cloud-native-community-japan/) からご参加ください。
+それでは、横浜でお会いしましょう！
