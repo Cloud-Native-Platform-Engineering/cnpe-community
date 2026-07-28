@@ -8,12 +8,6 @@ This document refers to, enhances, and follows similar standards as the followin
 [Platforms Definition White Paper](/zh/whitepapers/platforms/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model
-versions:
-  - url: /whitepapers/platform-eng-maturity-model/
-    version: latest
-    active: true
-  - url: /whitepapers/platform-eng-maturity-model/v1/
-    version: v1
 ---
 
 

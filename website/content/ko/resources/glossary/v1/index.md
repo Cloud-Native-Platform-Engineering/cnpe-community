@@ -5,12 +5,6 @@ type: whitepapers
 url: resources/glossary/v1
 list_pages: false
 toc_hide: true
-versions:
-  - url: /resources/glossary/
-    version: latest
-  - url: /resources/glossary/v1/
-    version: v1
-    active: true
 ---
 
 [https://glossary.cncf.io/ ](https://glossary.cncf.io/) 참조

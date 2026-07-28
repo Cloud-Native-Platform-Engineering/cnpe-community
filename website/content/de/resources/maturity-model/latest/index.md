@@ -1,8 +1,6 @@
 ---
 title: "CNCF Platform Engineering Maturity Model"
 type: whitepapers
-url: whitepapers/platform-eng-maturity-model/v1
+url: whitepapers/platform-eng-maturity-model
 outdated: true
-toc_hide: true
-list_pages: false
 ---

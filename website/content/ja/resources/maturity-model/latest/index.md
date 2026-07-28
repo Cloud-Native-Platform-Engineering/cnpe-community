@@ -8,12 +8,6 @@ description: "この成熟度モデルは、プラットフォームホワイト
 [プラットフォームホワイトペーパー](/whitepapers/platforms/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model
-versions:
-  - url: /whitepapers/platform-eng-maturity-model/
-    version: latest
-    active: true
-  - url: /whitepapers/platform-eng-maturity-model/v1/
-    version: v1
 ---
 
 

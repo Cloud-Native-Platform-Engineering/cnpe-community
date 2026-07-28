@@ -11,12 +11,6 @@ url: whitepapers/platforms/v1
 list_pages: false
 # use toc_hide to hide this section from the sidebar
 toc_hide: true
-versions:
-  - url: /whitepapers/platforms/
-    version: v1.1 (latest)
-  - url: /whitepapers/platforms/v1/
-    version: v1
-    active: true
 ---
 
 ## Introduction

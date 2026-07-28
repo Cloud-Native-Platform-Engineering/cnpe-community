@@ -1,41 +1,66 @@
-{{ with .Params.versions }}
-{{/* Separate "latest" from versioned entries, sort versioned newest-first */}}
-{{ $latest := slice }}
-{{ $versioned := slice }}
-{{ range . }}
-  {{ if eq .version "latest" }}
-    {{ $latest = $latest | append . }}
-  {{ else }}
-    {{ $versioned = $versioned | append . }}
-  {{ end }}
-{{ end }}
-{{ $sorted := sort $versioned "version" "desc" }}
+{{/* The switcher lists the sibling latest/ v1/ v2/ ... directories in the
+     current language; the "latest" label is `version_label` on the English
+     page. */}}
 
-{{/* Determine the button label from the active entry */}}
-{{ $buttonLabel := "Version" }}
-{{ range . }}
-  {{ if .active }}
-    {{ if eq .version "latest" }}
-      {{ $buttonLabel = "Latest" }}
-    {{ else }}
-      {{ $buttonLabel = .version }}
+{{ if .File }}
+{{ $page := . }}
+{{ $docDir := path.Dir (strings.TrimSuffix "/" .File.Dir) }}
+
+{{ $latestItem := false }}
+{{ $versionedItems := slice }}
+
+{{/* whitepaper/ has no _index.md, so every document's versions share the
+     resources section; match on directory to pick out this one's. */}}
+{{ range .CurrentSection.Pages }}
+  {{ if .File }}
+    {{ $name := .File.ContentBaseName }}
+    {{ if and (eq (path.Dir (strings.TrimSuffix "/" .File.Dir)) $docDir) (findRE `^(latest|v[0-9])` $name) }}
+      {{ $item := dict "url" .RelPermalink "active" (eq .RelPermalink $page.RelPermalink) }}
+      {{ if eq $name "latest" }}
+        {{ $label := "Latest" }}
+        {{ with .Params.version_label }}{{ $label = . }}{{ end }}
+        {{ range .AllTranslations }}
+          {{ if eq .Language.Lang "en" }}
+            {{ with .Params.version_label }}{{ $label = . }}{{ end }}
+          {{ end }}
+        {{ end }}
+        {{ $latestItem = merge $item (dict "label" $label) }}
+      {{ else }}
+        {{/* Zero-padded sort key so v10 sorts above v9. Non-numeric parts fall
+             back to text, so an unexpected directory name orders oddly rather
+             than failing the build. */}}
+        {{ $parts := slice }}
+        {{ range split (strings.TrimPrefix "v" $name) "." }}
+          {{ if findRE `^[0-9]+$` . }}
+            {{ $parts = $parts | append (printf "%05d" (int .)) }}
+          {{ else }}
+            {{ $parts = $parts | append (printf "%5s" .) }}
+          {{ end }}
+        {{ end }}
+        {{ $versionedItems = $versionedItems | append (merge $item (dict "label" $name "key" (delimit $parts "."))) }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
+
+{{/* The display order: latest first, then versioned items newest to oldest. */}}
+{{ $items := slice }}
+{{ with $latestItem }}{{ $items = $items | append . }}{{ end }}
+{{ range sort $versionedItems "key" "desc" }}{{ $items = $items | append . }}{{ end }}
+
+{{ if gt (len $items) 1 }}
+{{ $buttonLabel := "Version" }}
+{{ range $items }}{{ if .active }}{{ $buttonLabel = .label }}{{ end }}{{ end }}
 
 <div class="version-switcher dropdown d-inline-block mb-3">
   <button class="btn btn-outline-secondary btn-sm dropdown-toggle" type="button" id="versionSwitcher" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     {{ $buttonLabel }}
   </button>
   <div class="dropdown-menu" aria-labelledby="versionSwitcher">
-    {{/* Latest first */}}
-    {{ range $latest }}
-    <a class="dropdown-item{{ if .active }} active{{ end }}" href="{{ .url }}">Latest</a>
-    {{ end }}
-    {{/* Versioned entries, newest to oldest */}}
-    {{ range $sorted }}
-    <a class="dropdown-item{{ if .active }} active{{ end }}" href="{{ .url }}">{{ .version }}</a>
+    {{ range $items }}
+    <a class="dropdown-item{{ if .active }} active{{ end }}" href="{{ .url }}">{{ .label }}</a>
     {{ end }}
   </div>
 </div>
+{{ end }}
 {{ end }}

@@ -3,12 +3,6 @@ title: Glossar
 description: "Definiert Schlüsselbegriffe, die in den Texten der Arbeitsgruppe Plattformen verwendet werden."
 type: whitepapers
 url: resources/glossary
-versions:
-  - url: /resources/glossary/
-    version: latest
-    active: true
-  - url: /resources/glossary/v1/
-    version: v1
 ---
 
 Siehe auch: [Cloud Native Glossar](https://glossary.cncf.io/de/)
