@@ -5,12 +5,6 @@ type: whitepapers
 url: resources/glossary/v1
 list_pages: false
 toc_hide: true
-versions:
-  - url: /resources/glossary/
-    version: latest
-  - url: /resources/glossary/v1/
-    version: v1
-    active: true
 ---
 
 另可参考：[云原生术语表](https://glossary.cncf.io/)
