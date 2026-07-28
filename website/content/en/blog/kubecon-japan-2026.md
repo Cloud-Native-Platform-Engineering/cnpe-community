@@ -34,6 +34,15 @@ At [Project Pavilion | Wednesday AM Project Tables](https://events.linuxfoundati
 the CNCF Platform Engineering Technical Community Group (TCG) will exhibit at Table 4 "Community-Led Events + TCGs" from 10:45 to 12:45.
 CNPEJ will be the main host of the booth — come and say hi!
 
+## Platform Coffee Meetup
+
+On Thursday, July 30th, from 8:00-9:15, we will host a Platform Coffee Meetup at the KubeCon + CloudNativeCon Japan 2026 venue.
+There are tables behind the 3F | Solutions Showcase area, so grab a coffee and join us for platform engineering conversations and networking.
+
+![Map](/images/2026-07-30-kubecon-japan-2026-platform-coffee-map.png)
+
+Please bring your own coffee. Participation is free, and no pre-registration is required.
+
 ## Schedule
 
 Below is a roundup of the Platform Engineering related sessions to help you plan your conference days.
@@ -64,6 +73,7 @@ You can find the full program in the [official schedule](https://events.linuxfou
 
 | Time          | Location  | Topic                                                                                                                                           | Presenter         |
 | ------------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 8:00 - 9:15   | 3F \| Tables behind Solutions Showcase | Platform Coffee Meetup | Cloud Native Platform Engineering Japan (CNPEJ) |
 | 14:10 - 14:40 | 5F \| 501 | [The Evolution of GitOps in Platform Engineering](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/schedule/?id=1156110) | Artem Lajko, iits |
 
 ## Cloud Native Platform Engineering Japan Meetup #3: Save the Date & Call for Speakers
