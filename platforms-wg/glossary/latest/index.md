@@ -17,7 +17,9 @@ If you wish to refer to these definitions outside the scope of the working group
 
 ## Platform
 
-A collection of capabilities, documentation, and tools that support developing, deploying, operating, and/or managing the delivery of products and services. A platform may include web portals, APIs, CLIs, protocol definitions, documentation, standards, and/or golden path templates. When done well, platforms enable faster and more reliable delivery of an organization's applications and services.
+An aggregation of capabilities to serve developers and operators in development and delivery of their products, services and applications. A platform enables it's builders and consumers to focus on their primary responsibilities, and spend less capacity on toil and unfamiliar domains. All in all, ensuring faster provision, a streamlined path to deployment and overall less toil in managing resources no matter if it's applications, hosting platforms or integrations. Supported by well catered documentation and guidance, it ensures that it's easy to use and transparent for understanding what has been abstracted away if needed. ...something something about how you interact and what you can find...
+
+, documentation, and tools that support developing, deploying, operating, and/or managing the delivery of products and services. A platform may include web portals, APIs, CLIs, protocol definitions, documentation, standards, and/or golden path templates. When done well, platforms enable faster and more reliable delivery of an organization's applications and services.
 
 Depending on the scope and audience for a platform, it may sometimes be referred to as a "Developer Platform," an "Internal Developer Platform (IDP),"  a "Delivery Platform," an "App Platform," or even a "Cloud Platform." The term "Platform-as-a-Service (PaaS)" is also often used to describe platforms that are purchased or otherwise adopted from outside an organization, providing a more managed but often less customizable platform solution.
 
