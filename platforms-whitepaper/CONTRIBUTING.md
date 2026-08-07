@@ -14,7 +14,6 @@
 * If you are working on a translation please add the label `Translation / Localization`
 * Please refer back to the overall [README](/README.md#contributing-translations) for guidance
 
-
 ### The actual contribution
 
 * All updates to the Platforms White Paper will happen through GitHub
