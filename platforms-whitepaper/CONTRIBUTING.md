@@ -7,13 +7,19 @@
 * Join #platform-engineering on CNCF slack
 * Voice your idea and the leads of the Platforms White Paper, will ensure you are guided to align with the current direction
   * This is to ensure that your idea isn't getting caught midst a minor or a major update, but it flows directly in where it fits
+  * This is especially important for translations as we have no interrest in making the work void
+
+### Translations
+
+* If you are working on a translation please add the label `Translation / Localization`
+* Please refer back to the overall [README](/README.md#contributing-translations) for guidance
+
 
 ### The actual contribution
 
 * All updates to the Platforms White Paper will happen through GitHub
 * Start by opening an issue that describes the outline of your update, most importantly giving a why and what so it's clear for everyone.
 * Ensure that the issue is labelled correctly with `Platform Whitepaper`
-  * If you are working on a translation please add the label `Translation / Localization`
 * The Platforms White Paper is a consensus-driven document, which means that there will most likely be discussions in regards to your proposed change
 * Submit a pull request linking to the corresponding isssue
 
@@ -25,11 +31,11 @@ Things like typos and grammar that doesn't significantly change the meaning of s
 
 ### Minor updates
 
-Minor changes, can be changes that affect wording in sections but doesn't rephrase major terminology. A good example would be if a practise that is mentioned have gone from being a trend to widely adopted. Then Platforms White Paper should be updated to reflect that it is a common way of working.
+Minor changes, can be changes that affect wording in sections but doesn't rephrase major terminology. A good example would be if a practise that is mentioned have gone from being a trend to widely adopted. Then Platforms White Paper should be updated to reflect that it is a common way of working across the industry.
 
 ### Major updates
 
-Major changes are typically the type of changes that can lead to more philosophical discussion. A good example would be coining terms, or elaborating what a specific key term means. This have to be done in multiple iterations to ensure it fits different sizes and industries of the end users
+Major changes are typically the type of changes that can lead to more philosophical discussion. A good example would be coining terms, or elaborating what a specific key term means. This have to be done in multiple iterations to ensure it fits different sizes and industries of the end users.
 
 ### Project references
 
@@ -50,4 +56,4 @@ Project logos may be included in the Platforms White Paper to improve readabilit
 * Logos are used purely for visual identification alongside project name references — their inclusion does not imply endorsement or recommendation
 * A logo may only appear where the project is already referenced in text following the project reference rules above
 * When multiple projects are listed for a capability, either include logos for all of them or none — do not selectively include logos as this creates an uneven visual emphasis
-* Logo additions follow the **minor update** review process
+* Logo additions follow the **minor update** review process, if the projects were already listed in the paper
