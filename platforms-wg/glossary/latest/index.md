@@ -3,12 +3,9 @@ title: Glossary
 description: "Defines key terms used in the Platforms Working Group's writings."
 type: whitepapers
 url: resources/glossary
-versions:
-  - url: /resources/glossary/
-    version: latest
-    active: true
-  - url: /resources/glossary/v1/
-    version: v1
+# Version label override, shown in every language.
+# Uncomment when a version number is ready to be specified.
+# version_label: v1.1 (latest)
 ---
 
 See also: [Cloud Native Glossary](https://glossary.cncf.io/)

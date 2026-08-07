@@ -5,12 +5,6 @@ type: whitepapers
 url: resources/glossary/v1
 toc_hide: true
 list_pages: false
-versions:
-  - url: /resources/glossary/
-    version: latest
-  - url: /resources/glossary/v1/
-    version: v1
-    active: true
 ---
 
 Siehe auch: [Cloud Native Glossar](https://glossary.cncf.io/de/)

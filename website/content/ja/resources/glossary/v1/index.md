@@ -5,12 +5,6 @@ type: whitepapers
 url: resources/glossary/v1
 list_pages: false
 toc_hide: true
-versions:
-  - url: /resources/glossary/
-    version: latest
-  - url: /resources/glossary/v1/
-    version: v1
-    active: true
 ---
 
 [クラウドネイティブ用語集](https://glossary.cncf.io/ja/)も併せて参照してください。

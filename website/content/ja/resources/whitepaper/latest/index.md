@@ -5,12 +5,6 @@ version_info: https://github.com/Cloud-Native-Platform-Engineering/cnpe-communit
 description: "この論文は、エンタープライズのリーダー、エンタープライズアーキテクト、およびプラットフォームチームのリーダーが、クラウドコンピューティングのための内部プラットフォームの提唱、調査、計画するのをサポートすることを目的としています。私たちは、プラットフォームが企業の実際のバリューストリームに大きな影響を与えると信じていますが、それは間接的なものなので、プラットフォームチームの長期的な持続と成功にはリーダーシップの合意と支援が不可欠です。この論文では、プラットフォームの価値が何であるか、それをどのように測定するか、そしてそれを最大化するプラットフォームチームをどのように実現するかについて議論することで、その支援を促進します。"
 type: whitepapers
 url: whitepapers/platforms
-versions:
-  - url: /ja/whitepapers/platforms/
-    version: v1.1 (latest)
-    active: true
-  - url: /ja/whitepapers/platforms/v1/
-    version: v1
 ---
 
 ## イントロダクション
