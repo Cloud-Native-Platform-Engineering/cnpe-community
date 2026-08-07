@@ -20,7 +20,7 @@ Depending on the scope and audience for a platform, it may sometimes be referred
 
 ## Platform engineering
 
-The design, construction, operation, and evolution of a platform. One way to view the practice is as an empathy-driven approach towards sociotechnical organizational design<sup><a href="https://hazelweakly.me/talks/qcon-sf-2023/slides#22">1</a></sup>. In this light, it is a continuous process by which an organization learns how and where to invest and to make strategic business bets internally, rather than just externally.
+The design, construction, operation, and evolution of a platform. One way to view the practice is as an empathy-driven approach towards sociotechnical organizational design<sup>[1](https://hazelweakly.me/talks/qcon-san-francisco-2023--understanding-platforms-what-they-are-why-they-work-when-to-use-them-how-to-build-them/)</sup>. In this light, it is a continuous process by which an organization learns how and where to invest and to make strategic business bets internally, rather than just externally.
 
 ## Platform team
 
@@ -28,7 +28,7 @@ The people responsible for building and managing the platform(s). Platform team 
 
 ## DevOps
 
-"DevOps is a methodology in which teams own the entire process from application development to production operations."<sup><a href="https://glossary.cncf.io/devops/">2</a></sup> While DevOps practices can be implemented by teams without developing a dedicated platform, it can be useful to view platform engineering as an approach to scaling DevOps principles through the delivery and management of a unified platform that serves the entire organization. This shared platform aims to streamline the development, deployment, and operational processes, providing a standardized and efficient environment for software delivery. Although DevOps and platform engineering converge on the objectives of optimizing software delivery and operational performance, platform engineering distinctively focuses on the development of a tangible product—the platform itself—to facilitate these goals.
+"DevOps is a methodology in which teams own the entire process from application development to production operations."<sup>[2](https://glossary.cncf.io/devops/)</sup> While DevOps practices can be implemented by teams without developing a dedicated platform, it can be useful to view platform engineering as an approach to scaling DevOps principles through the delivery and management of a unified platform that serves the entire organization. This shared platform aims to streamline the development, deployment, and operational processes, providing a standardized and efficient environment for software delivery. Although DevOps and platform engineering converge on the objectives of optimizing software delivery and operational performance, platform engineering distinctively focuses on the development of a tangible product—the platform itself—to facilitate these goals.
 
 ## Platform users
 
