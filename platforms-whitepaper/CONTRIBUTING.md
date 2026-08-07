@@ -12,7 +12,8 @@
 
 * All updates to the Platforms White Paper will happen through GitHub
 * Start by opening an issue that describes the outline of your update, most importantly giving a why and what so it's clear for everyone.
-* Ensure that the issue is labelled correctly with `white-paper` and ...
+* Ensure that the issue is labelled correctly with `Platform Whitepaper`
+  * If you are working on a translation please add the label `Translation / Localization`
 * The Platforms White Paper is a consensus-driven document, which means that there will most likely be discussions in regards to your proposed change
 * Submit a pull request linking to the corresponding isssue
 
