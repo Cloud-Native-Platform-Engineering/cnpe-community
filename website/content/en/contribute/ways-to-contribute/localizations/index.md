@@ -13,7 +13,16 @@ The Platform Engineering artifacts and website are initially developed in Englis
 
 While each localization is unique, we encourage you to familiarlize yourself with [past localization PRs](https://github.com/Cloud-Native-Platform-Engineering/cnpe-community/issues?q=label%3Alocalization+) and the [Kubernetes SIG-Docs localization documentation](https://kubernetes.io/docs/contribute/localization) for general guidelines and lessons learned.
 
-The SIG-Docs team has a much broader remit than this Community requires, so be aware that the workflow including slack channels, opening PRs, and website owner reviews will be done via the same process as all other Community postings, just with the added requirement of a native language speaker review.
+To help maintain translation quality and consistency, each localization language should have at least one localization committer. These reviewers are managed through the corresponding language directory's `CODEOWNERS` file.
+
+The general localization workflow is:
+
+1. Optionally open an issue
+2. Open a PR
+3. Have the PR reviewed by at least one localization committer for that language
+   - Check grammar, syntax, and overall language quality
+   - Verify the accuracy of the translation
+4. Merge
 
 It is worth reiterating what the SIG-Docs team has stated:
 
