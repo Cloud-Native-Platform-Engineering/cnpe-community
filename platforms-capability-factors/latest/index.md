@@ -51,7 +51,7 @@ Despite the challenges with overcentralization of platform building, a level of 
 
 [Platform engineering]({{< ref "/resources/glossary/latest#platform-engineering" >}}) is the creation of an opinionated platform for a specific organization. An un-opinionated internal platform is effectively the same as giving consumers direct access to a public cloud console but with less community or support. Once an organization makes the decision to invest in an internal platform, choosing vendors or tech stacks becomes a matter of compatibility: does the solution allow the blend of flexibility vs cognitive load the organization requires.
 
-Challenges with centralised group platform management are not limited to large organizations with multiple platform teams. They can show up wherever:
+Challenges with centralized group platform management are not limited to large organizations with multiple platform teams. They can show up wherever:
 
 - the technology stack is diverse
 - the number of resources under management per capability is high
@@ -85,7 +85,7 @@ A capability is the unit of participation in a platform marketplace model. The [
 
 A good capability deliberately encapsulates a domain by providing a clear boundary that hides unnecessary complexity from consumers while exposing relevant configuration choices. Thoughtful encapsulation and product sense expose a complex domain into a platform capability that a consumer can use without needing to become an expert first. As with any abstraction, the value comes from what it chooses not to expose. For example, implementing OpenTelemetry doesn't need direct expertise in the format of spans or how to export data; that is encapsulated within the choice of the language SDK. The same logic can be applied to a platform capability. It is the choice of the capability producer to consider how complex, or simple, their API surface needs to be in order to enable the use cases required by their consumers.
 
-Three main roles emerge in a healthy platform marketplace that maps onto to the "[capability provider]({{< ref "/resources/glossary/latest#platform-capability-provider" >}})", "[platform user]({{< ref "/resources/glossary/latest#platform-users" >}})", and "[platform team]({{< ref "/resources/glossary/latest#platform-team" >}})" roles described in the CNCF Platforms Glossary:
+Three main roles emerge in a healthy platform marketplace that maps onto the "[capability provider]({{< ref "/resources/glossary/latest#platform-capability-provider" >}})", "[platform user]({{< ref "/resources/glossary/latest#platform-users" >}})", and "[platform team]({{< ref "/resources/glossary/latest#platform-team" >}})" roles described in the CNCF Platforms Glossary:
 
 - **Capability producers** are the specialist teams who build, contribute, and maintain capabilities, and they are accountable for satisfying the factors described below.
 - **Capability consumers** are the teams that request and use capabilities in the platform.
@@ -278,7 +278,7 @@ This is not the same property as declarative input, though the two are close and
 
 The reason this matters is that platform operations become too costly if they must carry custom instructions for every capability about what to do next when something goes wrong. Networks fail, dependencies become unavailable, controllers restart, and configurations change. If reapplying a declaration is unsafe, the platform would not be able to support updates and upgrades safely across an entire catalog of capabilities.
 
-Safe reconciliation also keeps ownership with the producer. When a capability can recover from drift and partial failure by reapplying the declared state, the consumer does not have to resubmit or repair anything by hand. The producer stays accountable for keeping each instance aligned with what was asked for, and that accountability covers the whole length of the instance's life, not just its first provisioning. As infrastructure evolves in ways that should be invisible to the consumer (e.g dependencies are updated, and requirements change), the producer continues to own the alignment between declared state and delivered outcome.
+Safe reconciliation also keeps ownership with the producer. When a capability can recover from drift and partial failure by reapplying the declared state, the consumer does not have to resubmit or repair anything by hand. The producer stays accountable for keeping each instance aligned with what was asked for, and that accountability covers the whole length of the instance's life, not just its first provisioning. As infrastructure evolves in ways that should be invisible to the consumer (e.g. dependencies are updated, and requirements change), the producer continues to own the alignment between declared state and delivered outcome.
 
 This property is what makes fleet-wide change possible. Producers need to roll out security fixes, updates, and rollbacks without turning each instance into a special case. Safe change across the installed base depends on the capability being able to apply the intended configuration consistently across many instances rather than needing to coordinate changes to one instance at a time.
 
