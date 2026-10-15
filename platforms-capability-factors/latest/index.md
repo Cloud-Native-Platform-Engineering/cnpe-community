@@ -361,7 +361,10 @@ The factors, and more broadly this paper, are intentionally independent of any p
 When capabilities present a clear contract, accept declarative intent, encapsulate their implementation, reconcile safely over time, and expose authoritative operational evidence, specialist teams can contribute independently without fragmenting the platform. Platform operators gain a marketplace with a self-sustaining catalog they can govern consistently, consumers gain capabilities they can trust, and producers retain ownership of the domains they know best. The result is a platform that can continue to grow in capability, organizational reach, and operational maturity by distributing expertise across the organization rather than centralizing responsibility within a single team.
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1680px)" srcset="assets/capability-factors-outcomes-landscape.png" width="1216" height="381" />
 <img src="assets/capability-factors-outcomes.png" width=550px />
+</picture>
 <br/>
 <figcaption align="center"><em>The five capability factors prove the three capability principles, which enable the six platform principles, which deliver an ecosystem that can adapt quickly, build confidently, and operate sustainably.</em></figcaption>
 </figure>
