@@ -49,7 +49,10 @@ A scaled centralized platform model often results in:
 - slow response to changing compliance expectations, security requirements, and user requests
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1850px)" srcset="assets/centralized-platform-costs-landscape.png" width="1352" height="243" />
 <img src="assets/centralized-platform-costs.png" width=600px />
+</picture>
 <br/>
 <figcaption align="center"><em>When integration is hard, specialists stop contributing and the platform loses the contribution, leaving the organization to pay for fragmentation, inconsistent experience, duplicated effort, and multiplied operational load.</em></figcaption>
 </figure>
@@ -97,7 +100,10 @@ A platform designed to avoid the centralized bottleneck can use ideas from both 
 A **platform marketplace model** offers a centralized platform where teams with subject matter expertise can contribute and operate capabilities, and where teams that need to leverage capabilities can discover and use them in a self-service manner.
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1640px)" srcset="assets/marketplace-model-composition-landscape.png" width="1190" height="136" />
 <img src="assets/marketplace-model-composition.png" width=500px />
+</picture>
 <br/>
 <figcaption align="center"><em>The platform marketplace model combines the consistency of plugin systems with the independence of microservices architectures: experts contribute and operate capabilities, consumers self-serve.</em></figcaption>
 </figure>
@@ -136,7 +142,10 @@ Three main roles emerge in a healthy platform marketplace that maps onto the "[c
 <br/>
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1590px)" srcset="assets/capability-marketplace-flow-landscape.png" width="1149" height="307" />
 <img src="assets/capability-marketplace-flow.png" width=550px />
+</picture>
 <br/>
 <figcaption align="center"><em>Capability producers create and manage capability definitions through a producer API; capability consumers discover and use instances of those capabilities through a consumer API.</em></figcaption>
 </figure>
@@ -222,7 +231,10 @@ A contract of platform promises alone guarantees more to capability consumers th
 The capability needs a governed, discoverable, composable platform to host it, while the platform needs capabilities that it can offer without taking on an unsustainable operational load.
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1410px)" srcset="assets/participation-contract-landscape.png" width="1010" height="377" />
 <img src="assets/participation-contract.png" width=550px />
+</picture>
 <br/>
 <figcaption align="center"><em>Capability principles and platform principles meet at the participation contract: the capability adheres to it, and the platform commits to support it.</em></figcaption>
 </figure>
@@ -272,7 +284,10 @@ Note that access to capabilities is not the same as access to the resulting serv
 When a capability provides a running service that has its own interaction modes, e.g. a database with a connection string, consumers will use the service directly and only manage configuration of the service request through the platform.
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1550px)" srcset="assets/defined-contract-landscape.png" width="1119" height="339" />
 <img src="assets/defined-contract.png" width=500px />
+</picture>
 <br/>
 <figcaption align="center"><em>Whichever interface a producer or consumer chooses, all of them route through one versioned API that provisions, configures, updates, and observes the capability, consistently in every environment.</em></figcaption>
 </figure>
@@ -468,7 +483,10 @@ Platform operators gain a marketplace with a self-sustaining catalog they can go
 The result is a platform that can continue to grow in capability, organizational reach, and operational maturity by distributing expertise across the organization rather than centralizing responsibility within a single team.
 
 <figure align="center">
+<picture>
+<source media="(min-width: 1680px)" srcset="assets/capability-factors-outcomes-landscape.png" width="1216" height="381" />
 <img src="assets/capability-factors-outcomes.png" width=550px />
+</picture>
 <br/>
 <figcaption align="center"><em>The five capability factors prove the three capability principles, which enable the six platform principles, which deliver an ecosystem that can adapt quickly, build confidently, and operate sustainably.</em></figcaption>
 </figure>
