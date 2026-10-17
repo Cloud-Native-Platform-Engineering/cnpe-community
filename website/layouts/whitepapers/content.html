@@ -3,11 +3,13 @@
 		{{ $enPage := false }}
 		{{ range .AllTranslations }}{{ if eq .Language.Lang "en" }}{{ $enPage = . }}{{ end }}{{ end }}
 		<h1>{{ with $enPage }}{{ .Title }}{{ else }}{{ .Title }}{{ end }}</h1>
+		{{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
 		{{ partial "version-switcher.html" . }}
 		{{ partial "translation-needed.html" . }}
 		{{ with $enPage }}{{ .Content }}{{ end }}
 	{{ else }}
 		<h1>{{ .Title }}</h1>
+		{{ with .Params.subtitle }}<p class="lead">{{ . }}</p>{{ end }}
 		{{ partial "version-switcher.html" . }}
 		<div class="td-byline mb-5">
 			{{ with .Params.pdf }}

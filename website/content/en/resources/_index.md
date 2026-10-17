@@ -13,9 +13,8 @@ Key artifacts produced by the Cloud Native Platform Engineering Community:
 
 - **[Platforms Whitepaper](whitepaper/latest/)** - Foundational definition of the core capabilities of cloud-native platform engineering
 - **[Platform Maturity Model](maturity-model/v1/)** - Practical framework for assessing and evolving your platform, team and organization
+- **[Platform Capability Factors](capability-factors/latest/)** - A marketplace model and testable capability factors for scaling platform capabilities beyond a centralized bottleneck
 - **[Glossary](glossary/)** - Reference for terminology used across the initiatives
-
-In addition to the documents above, the Cloud Native Platform Engineering Community is actively working on an additional intiative on the platform factors.
 
 ## Education
 

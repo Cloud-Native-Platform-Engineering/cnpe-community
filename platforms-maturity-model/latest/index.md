@@ -8,6 +8,8 @@ This document refers to, enhances, and follows similar standards as the followin
 [Platforms Definition White Paper](/whitepapers/platforms/)"
 type: whitepapers
 url: whitepapers/platform-eng-maturity-model
+# Weight controls ordering in the Resources sidebar nav.
+weight: 20
 # Version label override, shown in every language.
 # Uncomment when a version number is ready to be specified.
 # version_label: v1.1 (latest)
