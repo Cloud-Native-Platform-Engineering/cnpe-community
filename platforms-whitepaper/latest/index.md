@@ -62,14 +62,14 @@ A cloud-native computing platform is an integrated collection of capabilities de
 It is a cross-cutting layer that ensures a consistent experience for acquiring and integrating typical capabilities and services for a broad set of applications and use cases.
 A good platform provides a consistent, opinionated user experience for using and managing its capabilities and services, such as Web portals, project templates, and self-service APIs.
 
-According to Atlassian [[1]], "platform teams create capabilities that can be used by numerous stream-aligned [product] teams with little overhead... platform teams minimize resources and cognitive load of the stream-aligned [product] team... platform teams can create a cohesive experience that spans across different user experiences or products."
+According to Atlassian [^1], "platform teams create capabilities that can be used by numerous stream-aligned [product] teams with little overhead... platform teams minimize resources and cognitive load of the stream-aligned [product] team... platform teams can create a cohesive experience that spans across different user experiences or products."
 
-According to Martin Fowler and Evan Bottcher [[2]], "a digital platform is a foundation of self-service APIs, tools, services, knowledge, and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination."
+According to Martin Fowler and Evan Bottcher [^2], "a digital platform is a foundation of self-service APIs, tools, services, knowledge, and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination."
 
 The specific set of capabilities and scenarios supported by a platform should be determined by the needs of stakeholders and users.
 And while platforms _provide_ these required capabilities, it's critical to note that platform teams should not always _implement_ them themselves.
 Managed service providers or dedicated internal teams can maintain backing implementations, while platforms are the thinnest reasonable layer that provides consistency across provided implementations and meets an organization's requirements.
-For example, a very simple "platform" could be a wiki page with links to standard operating procedures to provision capabilities from providers, as described in [[3]].
+For example, a very simple "platform" could be a wiki page with links to standard operating procedures to provision capabilities from providers, as described in [^3].
 
 Because these platforms target no more and no less than an enterprise's internal users, we often refer to them as *internal* platforms.
 
@@ -192,7 +192,7 @@ Metrics that reflect user satisfaction and productivity include the following:
 
 - Active users and retention: includes number of capabilities provisioned and user growth/churn
 - "Net Promoter Score" (NPS) or other surveys that measure user satisfaction with a product
-- Metrics for developer productivity such as those discussed in the SPACE framework [[4]]
+- Metrics for developer productivity such as those discussed in the SPACE framework [^4]
 
 ### Organizational efficiency
 
@@ -207,7 +207,7 @@ To measure the efficiency of a platform in reducing common work, consider measur
 ### Product and feature delivery
 
 The ultimate objective of internal platforms is to deliver business value to customers faster, so measuring impact on a business's own product and feature releases demonstrates that the objectives of the platform are being met.
-The DevOps Research and Assessment (DORA) institute at Google suggests [[5]] tracking the following metrics:
+The DevOps Research and Assessment (DORA) institute at Google suggests [^5] tracking the following metrics:
 
 - Deployment frequency
 - Lead time for changes
@@ -298,14 +298,8 @@ The definition says: "A TVP is a careful balance between keeping the platform sm
 
 ## References
 
-1. Atlassian. "Team Topologies." <https://www.atlassian.com/devops/frameworks/team-topologies>
-2. Bottcher, Evan. "What I Talk About When I Talk About Platforms." martinfowler.com, 2018. <https://martinfowler.com/articles/talk-about-platforms.html>
-3. Team Topologies. "What is a Thinnest Viable Platform (TVP)?" <https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp>
-4. Forsgren, Nicole, et al. "The SPACE of Developer Productivity." ACM Queue, 2021. <https://queue.acm.org/detail.cfm?id=3454124>
-5. Google Cloud. "2019 Accelerate State of DevOps: Elite performance, productivity, and scaling." <https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling>
-
-[1]: https://www.atlassian.com/devops/frameworks/team-topologies
-[2]: https://martinfowler.com/articles/talk-about-platforms.html
-[3]: https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp
-[4]: https://queue.acm.org/detail.cfm?id=3454124
-[5]: https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling
+[^1]: Atlassian. "Team Topologies." <https://www.atlassian.com/devops/frameworks/team-topologies>
+[^2]: Bottcher, Evan. "What I Talk About When I Talk About Platforms." martinfowler.com, 2018. <https://martinfowler.com/articles/talk-about-platforms.html>
+[^3]: Team Topologies. "What is a Thinnest Viable Platform (TVP)?" <https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp>
+[^4]: Forsgren, Nicole, et al. "The SPACE of Developer Productivity." ACM Queue, 2021. <https://queue.acm.org/detail.cfm?id=3454124>
+[^5]: Google Cloud. "2019 Accelerate State of DevOps: Elite performance, productivity, and scaling." <https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling>

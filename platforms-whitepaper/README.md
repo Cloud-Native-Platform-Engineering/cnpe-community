@@ -19,12 +19,11 @@ Currently, the edition in the `latest` directory is published to The Cloud Nativ
 
 ## Citing sources
 
-Sources cited in the paper are listed in the **References** section at the end of
-`latest/index.md`. To cite a new source, add an entry to that list (author,
-title, publisher and year where known, plus a link), then cite it inline with
-its number, e.g. `[[6]]`, and add a matching `[6]: <url>` definition at the
-bottom of the file. Keep the list order and numbering in sync with the
-definitions.
+Sources are cited with Markdown footnotes. To cite a source, add a marker such as
+`[^6]` where it is referenced, and add a matching `[^6]: Author. "Title."
+Publisher, year. <url>` definition to the end of `latest/index.md`, under the
+**References** heading. The site numbers footnotes by order of appearance and
+links each marker to its entry.
 
 ## Modifying diagrams
 

@@ -75,7 +75,7 @@ This is a minor release clarify the narrative framing, restructure key sections 
 
 ### References
 
-- Added a visible **References** section listing the sources cited in the paper, replacing the previously hidden footnote block. Inline `[n]` citations are unchanged.
+- Converted inline citations to Markdown footnotes and added a visible **References** section listing the sources cited in the paper, replacing the previously hidden footnote block.
 - Added References to the Table of Contents.
 
 ### Asset / Infrastructure Changes
