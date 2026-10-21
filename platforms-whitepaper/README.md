@@ -17,6 +17,15 @@ v1 was completed in March 2023; improvements and iterations continue in the
 
 Currently, the edition in the `latest` directory is published to The Cloud Native Platform Engineering Community's website at [https://cloudnativeplatforms.com/whitepapers/platforms](https://cloudnativeplatforms.com/whitepapers/platforms).
 
+## Citing sources
+
+Sources cited in the paper are listed in the **References** section at the end of
+`latest/index.md`. To cite a new source, add an entry to that list (author,
+title, publisher and year where known, plus a link), then cite it inline with
+its number, e.g. `[[6]]`, and add a matching `[6]: <url>` definition at the
+bottom of the file. Keep the list order and numbering in sync with the
+definitions.
+
 ## Modifying diagrams
 
 To modify the platforms-def diagram, download [the latest
