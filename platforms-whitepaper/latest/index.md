@@ -299,10 +299,10 @@ The definition says: "A TVP is a careful balance between keeping the platform sm
 ## References
 
 1. Atlassian. "Team Topologies." <https://www.atlassian.com/devops/frameworks/team-topologies>
-1. Bottcher, Evan. "What I Talk About When I Talk About Platforms." martinfowler.com, 2018. <https://martinfowler.com/articles/talk-about-platforms.html>
-1. Team Topologies. "What is a Thinnest Viable Platform (TVP)?" <https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp>
-1. Forsgren, Nicole, et al. "The SPACE of Developer Productivity." ACM Queue, 2021. <https://queue.acm.org/detail.cfm?id=3454124>
-1. Google Cloud. "2019 Accelerate State of DevOps: Elite performance, productivity, and scaling." <https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling>
+2. Bottcher, Evan. "What I Talk About When I Talk About Platforms." martinfowler.com, 2018. <https://martinfowler.com/articles/talk-about-platforms.html>
+3. Team Topologies. "What is a Thinnest Viable Platform (TVP)?" <https://teamtopologies.com/key-concepts-content/what-is-a-thinnest-viable-platform-tvp>
+4. Forsgren, Nicole, et al. "The SPACE of Developer Productivity." ACM Queue, 2021. <https://queue.acm.org/detail.cfm?id=3454124>
+5. Google Cloud. "2019 Accelerate State of DevOps: Elite performance, productivity, and scaling." <https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling>
 
 [1]: https://www.atlassian.com/devops/frameworks/team-topologies
 [2]: https://martinfowler.com/articles/talk-about-platforms.html
