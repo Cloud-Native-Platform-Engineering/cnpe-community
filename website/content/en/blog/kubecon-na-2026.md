@@ -41,7 +41,7 @@ It is co-chaired by Paula Kennedy, Stacey Potter, and Ramiro Berrelleza.
 The talks are pitched at every stage of the journey, whether you are starting out or already running a mature platform.
 
 The day opens with an update from our community.
-At 9:10 AM, right after the opening remarks, Chris Plank, Colin Griffin, Atulpriya Sharma and Katie Greenley
+At 9:10 AM, right after the opening remarks, Chris Plank, Colin Griffin, and Atulpriya Sharma.
 will give the [Platform Engineering Technical Community Group update](https://cncf-hosted-co-located-events-north-america-2026.sessionize.com/session/1269430).
 Ten minutes on what we have been up to, what is coming next, and how you can get involved.
 Come say hi to us afterwards.
