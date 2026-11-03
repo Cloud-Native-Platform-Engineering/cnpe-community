@@ -102,7 +102,7 @@ Five short platform engineering talks, back to back, at the booth.
 | ------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
 | 4:00 PM | Introduction and Welcome                                                | Atulpriya Sharma, Chris Plank and Colin Griffin     |
 | 4:05 PM | Platform Engineering for Humans and Agents: One Golden Path for Both Users | Samudra Weerasinghe                              |
-| 4:20 PM | Easy Is Taken: What's Left for Platforms When Software Is a Utility?    | Luke Philip                                         |
+| 4:20 PM | Easy Is Taken: What's Left for Platforms When Software Is a Utility?    | Luke Philips                                         |
 | 4:35 PM | When Deployment Friction Becomes a Developer Experience Problem         | Avinash Sabat                                       |
 | 4:50 PM | Closing the Gap Between Ready and Usable in a DBaaS Platform            | George Kechagias                                    |
 
