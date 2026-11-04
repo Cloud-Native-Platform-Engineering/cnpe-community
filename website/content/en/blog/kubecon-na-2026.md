@@ -41,7 +41,7 @@ It is co-chaired by Paula Kennedy, Stacey Potter, and Ramiro Berrelleza.
 The talks are pitched at every stage of the journey, whether you are starting out or already running a mature platform.
 
 The day opens with an update from our community.
-At 9:10 AM, right after the opening remarks, Chris Plank, Colin Griffin, and Atulpriya Sharma.
+At 9:10 AM, right after the opening remarks, Chris Plank, Colin Griffin and Atulpriya Sharma
 will give the [Platform Engineering Technical Community Group update](https://cncf-hosted-co-located-events-north-america-2026.sessionize.com/session/1269430).
 Ten minutes on what we have been up to, what is coming next, and how you can get involved.
 Come say hi to us afterwards.
@@ -102,9 +102,18 @@ Five short platform engineering talks, back to back, at the booth.
 | ------- | ----------------------------------------------------------------------- | --------------------------------------------------- |
 | 4:00 PM | Introduction and Welcome                                                | Atulpriya Sharma, Chris Plank and Colin Griffin     |
 | 4:05 PM | Platform Engineering for Humans and Agents: One Golden Path for Both Users | Samudra Weerasinghe                              |
-| 4:20 PM | Easy Is Taken: What's Left for Platforms When Software Is a Utility?    | Luke Philip                                         |
+| 4:20 PM | Easy Is Taken: What's Left for Platforms When Software Is a Utility?    | Luke Philips                                        |
 | 4:35 PM | When Deployment Friction Becomes a Developer Experience Problem         | Avinash Sabat                                       |
 | 4:50 PM | Closing the Gap Between Ready and Usable in a DBaaS Platform            | George Kechagias                                    |
+
+<style>
+/* Highlight the Platform Engineering User Group sessions in the schedule */
+.td-content table tr:has(a[href$="/session/1375122"]),
+.td-content table tr:has(a[href$="/session/1375121"]) {
+  background-color: #eaf3fb;
+  box-shadow: inset 3px 0 0 #1a73c7;
+}
+</style>
 
 ## Schedule
 
@@ -127,7 +136,7 @@ After lunch, sessions run in two rooms: Grand Ballroom BDF and Grand Ballroom J.
 | Time              | Location           | Topic                                                                                                                                                                                                              | Presenter                                                                   |
 | ----------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | 9:00 - 9:05 AM    | Grand Ballroom BDF | [Welcome + Opening Remarks](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1312043)                                                 | -                                                                           |
-| 9:10 - 9:20 AM    | Grand Ballroom BDF | [CNCF Platform Engineering Technical Community Group Update](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1269430)                  | Chris Plank, Colin Griffin, Atulpriya Sharma, Katie Greenley                |
+| 9:10 - 9:20 AM    | Grand Ballroom BDF | [CNCF Platform Engineering Technical Community Group Update](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1269430)                  | Chris Plank, Colin Griffin, Atulpriya Sharma                                |
 | 9:25 - 9:50 AM    | Grand Ballroom BDF | [Is Platform Engineering and the Platform Maturity Model Still Relevant in the Agentic AI Era?](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1269433) | Chris Plank, Corey McGalliard                                               |
 | 9:55 - 10:00 AM   | Grand Ballroom BDF | [Sponsored Keynote](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1312009)                                                           | TBA, IBM                                                                    |
 | 10:05 - 10:10 AM  | Grand Ballroom BDF | [Sponsored Keynote](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1312010)                                                           | TBA, Vultr                                                                  |
@@ -202,6 +211,8 @@ After lunch, sessions run in two rooms: Grand Ballroom BDF and Grand Ballroom J.
 | 1:50 - 2:20 PM   | Grand Ballroom GI                     | [Beyond Stateless vs Stateful: A Unified Workload API for Multi-Cluster Kubernetes](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1249027) | Ronak Nathani, LinkedIn                                      |
 | 1:50 - 2:20 PM   | Hyatt Regency, Level 4, Regency Ballroom CD | [From Maintenance Chaos to Steady Uptime: GitOps-Driven Scheduling across GPU Fleets](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1246170) | Natalie Bandel & Soumya Balakrishnan, NVIDIA                 |
 | 2:40 - 3:10 PM   | Grand Ballroom GI                     | [From Platform Catalog to Conversational Agent: Wiring AI Into Your Internal Developer Platform](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1251145) | Eduardo Munari, Stone & Fabiano Amaral, Stone Payments       |
+| 2:40 - 3:10 PM   | Level 2, 254                          | **[Platform Engineering User Group BoF](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/session/1375122)** | Chris Plank, NatWest Group & Colin Griffin, Krumware |
+| 3:30 - 4:00 PM   | Level 2, 254                          | **[The CNCF Platform Engineering User Group & Platform Factors](https://kubecon-cloudnativecon-north-america-2026.sessionize.com/session/1375121)** | Chris Plank, NatWest Group & Colin Griffin, Krumware |
 
 ## See You in Salt Lake City!
 
