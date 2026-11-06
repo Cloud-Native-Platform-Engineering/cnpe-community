@@ -73,6 +73,11 @@ This is a minor release clarify the narrative framing, restructure key sections 
 - **Web portals**: Removed "project templates" from the description (now covered under Golden path templates).
 - Minor description cleanups across rows.
 
+### References
+
+- Converted inline citations to Markdown footnotes and added a visible **References** section listing the sources cited in the paper, replacing the previously hidden footnote block.
+- Added References to the Table of Contents.
+
 ### Asset / Infrastructure Changes
 
 - Fixed PDF link in the front matter: updated from `v1/assets/` path to `latest/assets/` path.
