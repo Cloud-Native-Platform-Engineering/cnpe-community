@@ -56,7 +56,7 @@ This is one of the most happening things at KubeCon, and easily the hottest tick
 ![Platform Coffees, from Paris 2024 to Amsterdam 2026](/images/kubecon-na-2026-platform-coffees.jpg)
 
 - **When:** Monday, November 9th to Thursday, November 12th, 7:00 - 8:30 AM
-- **Where:** Venue to be confirmed
+- **Where:** Cupla Coffee, 77 W 200 S, Salt Lake City, UT 84101
 - **Cost:** Free, and no pre-registration needed
 
 Coffee first, conversation right after.
