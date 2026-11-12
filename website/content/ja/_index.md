@@ -1,15 +1,15 @@
 ---
-title: "CNCF Platform Engineering Technical Community Group"
+title: "CNCF Platform Engineering User Group"
 list_pages: true
 ---
 
 <div class="row mt-5 mb-3">
     <div style="width: 100%">
-        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering Technical Community Group logo" style="width: 100%">
+        <img src="/images/cnpe-community-banner-large.png" alt="Cloud Native Platform Engineering User Group logo" style="width: 100%">
     </div>
 </div>
 
-CNCF Platform Engineering Technical Community Groupは、クラウドネイティブプラットフォームの構築と運用実践に関心を持つ実務者、ベンダー、エンドユーザーによるコミュニティです。組織がクラウドネイティブプラットフォームを効果的に構築・運用できるよう、知識、ベストプラクティス、ツールの共有に焦点を当てています。
+CNCF Platform Engineering User Groupは、クラウドネイティブプラットフォームの構築と運用実践に関心を持つ実務者、ベンダー、エンドユーザーによるコミュニティです。組織がクラウドネイティブプラットフォームを効果的に構築・運用できるよう、知識、ベストプラクティス、ツールの共有に焦点を当てています。
 クラウドネイティブプラットフォームエンジニアリングに関心を持つ方なら、経験や専門知識のレベルに関わらず、どなたでも参加できます。このコミュニティは、実践者が経験を共有し、質問し、互いに学び合う場です。
 
 <!-- For more information, see [About](./about/) -->

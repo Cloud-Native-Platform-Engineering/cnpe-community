@@ -1,5 +1,5 @@
 ---
-title: "CNCF Platform Engineering Technical Community Group"
+title: "CNCF Platform Engineering User Group"
 list_pages: true
 outdated: true
 ---
