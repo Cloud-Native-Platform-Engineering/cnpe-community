@@ -15,7 +15,7 @@ We achieve this by:
 - Writing and sharing content (such as blogs and guides)
 - Conducting research through interviews and surveys
 
-The initiative is led by members of the Cloud Native Platform Engineering Community Group and is open to anyone involved in building platforms — not just product managers. We welcome platform engineers, leaders, consumers, and anyone interested in improving platform outcomes through product management practices.
+The initiative is led by members of the Cloud Native Platform Engineering User Group and is open to anyone involved in building platforms — not just product managers. We welcome platform engineers, leaders, consumers, and anyone interested in improving platform outcomes through product management practices.
 
 Deliverables:
 
@@ -25,7 +25,7 @@ Deliverables:
 
 ## Contributing
 
-**Get involved:** Join our [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) in the [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) channel. The Platform as a Product initiative is part of the general Cloud Native Platform Engineering Community Group, which holds meetings every two weeks that are open to all. See the [schedule here](../_index.md).
+**Get involved:** Join our [CNCF Slack](https://communityinviter.com/apps/cloud-native/cncf) in the [#platform-engineering](https://cloud-native.slack.com/archives/C020RHD43BP) channel. The Platform as a Product initiative is part of the general Cloud Native Platform Engineering User Group, which holds meetings every two weeks that are open to all. See the [schedule here](../_index.md).
 
 ## Content
 

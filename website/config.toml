@@ -1,5 +1,5 @@
 baseURL = "https://cloudnativeplatforms.com/"
-title = "CNCF Cloud Native Platform Engineering Technical Community Group"
+title = "CNCF Cloud Native Platform Engineering User Group"
 
 # Language settings
 contentDir = "content/en"
@@ -47,12 +47,12 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "Cloud Native Platform Engineering Community"
+title = "Cloud Native Platform Engineering User Group"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.en.params]
-description = "The Cloud Native Platform Engineering Community focuses on enabling projects and initiatives related to delivering cloud-native applications, including building, deploying, managing, and operating them."
+description = "The Cloud Native Platform Engineering User Group focuses on enabling projects and initiatives related to delivering cloud-native applications, including building, deploying, managing, and operating them."
 
 [languages.zh]
 title = "CNCF 应用交付 TAG"
@@ -79,27 +79,27 @@ weight = 4
 description = "TAG Appデリバリーは、構築、実行、管理、運用を含む、クラウドネイティブアプリケーションのデリバリーに関連するプロジェクトや取り組みの支援を行います。"
 
 [languages.es]
-title = "Cloud Native Platform Engineering Community"
+title = "Cloud Native Platform Engineering User Group"
 languageName = "Español(Spanish)"
 contentDir = "content/es"
 weight = 5
 [languages.es.params]
-description = "El Cloud Native Platform Engineering Community se centra en habilitar proyectos e iniciativas relacionados con el despliegue de aplicaciones cloud-native, incluyendo su construcción, manejo y operativa."
+description = "El Cloud Native Platform Engineering User Group se centra en habilitar proyectos e iniciativas relacionados con el despliegue de aplicaciones cloud-native, incluyendo su construcción, manejo y operativa."
 
 [languages.fr]
-title = "Cloud Native Platform Engineering Community"
-description = "Le Cloud Native Platform Engineering Community se concentre sur la mise en œuvre de projets et d'initiatives liés à la livraison d'applications cloud natives, comprenant leur création, déploiement, gestion et exploitation."
+title = "Cloud Native Platform Engineering User Group"
+description = "Le Cloud Native Platform Engineering User Group se concentre sur la mise en œuvre de projets et d'initiatives liés à la livraison d'applications cloud natives, comprenant leur création, déploiement, gestion et exploitation."
 languageName = "Français(French)"
 contentDir = "content/fr"
 weight = 6
 
 [languages.de]
-title = "Cloud Native Platform Engineering Community"
+title = "Cloud Native Platform Engineering User Group"
 languageName = "Deutsch(German)"
 contentDir = "content/de"
 weight = 7
 [languages.de.params]
-description = "Die Cloud Native Platform Engineering Community konzentriert sich auf die Ermöglichung von Projekten und Initiativen im Zusammenhang mit der Bereitstellung von Cloud-nativen Anwendungen, einschließlich deren Erstellung, Verwaltung und Betrieb."
+description = "Die Cloud Native Platform Engineering User Group konzentriert sich auf die Ermöglichung von Projekten und Initiativen im Zusammenhang mit der Bereitstellung von Cloud-nativen Anwendungen, einschließlich deren Erstellung, Verwaltung und Betrieb."
 
 [markup]
   [markup.goldmark]

@@ -31,7 +31,7 @@ Members from the CNCF WG Platforms
 
 ## Version 1.1 update
 
-Members of the CNCF Platform Engineering Technical Community Group
+Members of the CNCF Platform Engineering User Group
 
 * Supervising co-chair: Colin Griffin
 * Lead: Corey McGalliard
