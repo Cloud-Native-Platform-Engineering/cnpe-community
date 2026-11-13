@@ -3,6 +3,8 @@ title: Glossary
 description: "Defines key terms used in the Platforms Working Group's writings."
 type: whitepapers
 url: resources/glossary
+# Weight controls ordering in the Resources sidebar nav.
+weight: 40
 # Version label override, shown in every language.
 # Uncomment when a version number is ready to be specified.
 # version_label: v1.1 (latest)
@@ -42,9 +44,9 @@ A web-based interface that provides centralized access to a variety of resources
 
 The specific user outcomes, or **_what_** a platform provides. These should not be confused with platform qualities that describe **_how_** the capabilities perform. These capabilities can be at different levels of abstraction (e.g., a single database versus a test environment that includes a database) and provided by different capability providers. As platforms mature, they generally aspire to offer capabilities via self-service, starting with discoverability of available capabilities and including consistency of experience across capabilities. Capabilities themselves are often quite durable while the providers and implementation can evolve more rapidly. For example, it is unlikely an organization stops requiring test environments, but they may evolve to provide containerized solutions instead of VM based solutions.
 
-## Platform capability provider
+## Platform capability provider or producer
 
-A group of people who develop and maintain a capability offered by the platform. Providers can be external organizations or internal teams and in smaller organizations can often be the same individuals who also develop the wider platform. As platforms mature, they benefit from maintaining abstractions for providers to discourage lock-in and to continue driving towards their Thinnest Viable Platform.
+A group of people who develop and maintain a capability offered by the platform. Providers, also often referred to as producers, can be external organizations or internal teams and in smaller organizations can often be the same individuals who also develop the wider platform. As platforms mature, they benefit from maintaining abstractions for providers to discourage lock-in and to continue driving towards their Thinnest Viable Platform.
 
 ## Platform qualities
 

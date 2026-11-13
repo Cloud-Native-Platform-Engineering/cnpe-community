@@ -1,0 +1,11 @@
+// Docsy's alert shortcode takes its accent color straight from Bootstrap's
+// $primary, but this site sets $primary to white for buttons and other UI
+// (see _variables_project.scss). That leaves {{% alert color="primary" %}}
+// with an invisible heading and border, so use the brand pink instead.
+.alert-primary {
+	border-color: $pink;
+
+	.alert-heading {
+		color: $pink;
+	}
+}
